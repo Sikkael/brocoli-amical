@@ -5,8 +5,9 @@
 # ignore ALL files named temp* in ANY directory named temp
 temp/
 tempo/
+temp.*
 
 # ignore ALL config files
 
-*config*
+/config.*
 
