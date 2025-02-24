@@ -4,6 +4,7 @@
 
 # ignore ALL files in ANY directory named temp
 temp/
+tempo/
 
 # ignore ALL config files
 
