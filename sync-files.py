@@ -4,7 +4,8 @@ import hashlib
 import time
 
 LOG = 'log.txt'
-
+# sleep time
+sltm:int = 10
 
 # function area
 # -------------------------------------------------------------
@@ -95,8 +96,8 @@ while True:
         now = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
         print(f'[{now}] file is up to date')
         log('file is up to date')
-        # sleep for 5 minutes
-        time.sleep(20)
+        # sleep time
+        time.sleep(sltm)
         continue
 
     # check folder
@@ -166,5 +167,5 @@ while True:
     print(mess)
     log(mess)
 
-    # sleep for 5 minutes
+    # sleep time
     time.sleep(20)

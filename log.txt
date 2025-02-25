@@ -1963,3 +1963,1675 @@
 [2025-02-24 21:08:25]VISA DOLLARDS.csv is copied
 [2025-02-24 21:08:25]wallet1 - Copie.txt is copied
 [2025-02-24 21:08:25][2025-02-24 21:08:25] sync: 32; update: 7; delete: 0;
+[2025-02-25 06:38:19]Start
+[2025-02-25 06:38:19]config file: NOT FOUND
+[2025-02-25 06:38:19]config file: CREATED
+[2025-02-25 06:38:19]folder: ONLINE
+[2025-02-25 06:38:19]backup: ONLINE
+[2025-02-25 06:38:19]Blocktrail.apikey.txt is up to date
+[2025-02-25 06:38:19]Budget-Décembre-2019.xlsm is up to date
+[2025-02-25 06:38:19]Budget-Février-2020.xlsm is up to date
+[2025-02-25 06:38:19]Budget-Janvier-2020.xlsm is up to date
+[2025-02-25 06:38:19]Budget-Mars-2020-test.xlsm is up to date
+[2025-02-25 06:38:19]Budget-Mars-2020.xlsm is up to date
+[2025-02-25 06:38:19]Budget-Septembre-2019.xlsm is up to date
+[2025-02-25 06:38:19]Budget.ancien.xlsm is up to date
+[2025-02-25 06:38:19]Budget.xlsm is up to date
+[2025-02-25 06:38:20]statement-2020-05-12.csv is up to date
+[2025-02-25 06:38:20]statement.csv is up to date
+[2025-02-25 06:38:20]statement1.csv is up to date
+[2025-02-25 06:38:20]statement2.csv is up to date
+[2025-02-25 06:38:20]TEST.html is up to date
+[2025-02-25 06:38:20]TMDb.txt is up to date
+[2025-02-25 06:38:20]toto.txt is up to date
+[2025-02-25 06:38:20]tryu.txt is up to date
+[2025-02-25 06:38:20]UdeM.txt is up to date
+[2025-02-25 06:38:20]UHTX-ERKFKS-FMFJF.txt is up to date
+[2025-02-25 06:38:20]user-358191-trades-1704.csv is up to date
+[2025-02-25 06:38:20]user-358191-trades-1705.csv is up to date
+[2025-02-25 06:38:20]user-358191-trades-1706.csv is up to date
+[2025-02-25 06:38:20]user-358191-trades-1707.csv is up to date
+[2025-02-25 06:38:20]user-358191-trades-1708.csv is up to date
+[2025-02-25 06:38:20]user-358191-trades-1709.csv is up to date
+[2025-02-25 06:38:21]UTC--2017-06-06T01-15-13.570480500Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:38:21]UTC--2017-06-14T00-27-50.408Z--bdf88ba80451c30b2bb2d93d7dcf872771b18768 is up to date
+[2025-02-25 06:38:21]UTC--2017-06-19T14-35-43.258Z--73af203443e96780732b8c4c257f9ff8bf7824fa is up to date
+[2025-02-25 06:38:21]UTC--2017-06-24T01-13-14.193Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:38:21]Wallet.txt is up to date
+[2025-02-25 06:38:21]wallet1.txt is up to date
+[2025-02-25 06:38:21]xyz.zip is up to date
+[2025-02-25 06:38:21]Budget nourriture canine et entraînement.xlsx is copied
+[2025-02-25 06:38:21]bull-bitcoin-orders-Fri Apr 08 2022 17_05_35 GMT-0400 (heure d’été de l’Est).csv is copied
+[2025-02-25 06:38:21]statement (2).xlsx is copied
+[2025-02-25 06:38:21]Tendances des dépenses passées.xlsm is copied
+[2025-02-25 06:38:21]toto (2).txt is copied
+[2025-02-25 06:38:21]uid is copied
+[2025-02-25 06:38:21]VISA DOLLARDS.csv is copied
+[2025-02-25 06:38:21]wallet1 - Copie.txt is copied
+[2025-02-25 06:38:21][2025-02-25 06:38:21] sync: 32; update: 8; delete: 0;
+[2025-02-25 06:38:41]folder: ONLINE
+[2025-02-25 06:38:41]backup: ONLINE
+[2025-02-25 06:38:41]Blocktrail.apikey.txt is up to date
+[2025-02-25 06:38:41]Budget-Décembre-2019.xlsm is up to date
+[2025-02-25 06:38:41]Budget-Février-2020.xlsm is up to date
+[2025-02-25 06:38:41]Budget-Janvier-2020.xlsm is up to date
+[2025-02-25 06:38:41]Budget-Mars-2020-test.xlsm is up to date
+[2025-02-25 06:38:41]Budget-Mars-2020.xlsm is up to date
+[2025-02-25 06:38:41]Budget-Septembre-2019.xlsm is up to date
+[2025-02-25 06:38:41]Budget.ancien.xlsm is up to date
+[2025-02-25 06:38:41]Budget.xlsm is up to date
+[2025-02-25 06:38:41]statement-2020-05-12.csv is up to date
+[2025-02-25 06:38:41]statement.csv is up to date
+[2025-02-25 06:38:41]statement1.csv is up to date
+[2025-02-25 06:38:41]statement2.csv is up to date
+[2025-02-25 06:38:41]TEST.html is up to date
+[2025-02-25 06:38:41]TMDb.txt is up to date
+[2025-02-25 06:38:41]toto.txt is up to date
+[2025-02-25 06:38:41]tryu.txt is up to date
+[2025-02-25 06:38:41]UdeM.txt is up to date
+[2025-02-25 06:38:41]UHTX-ERKFKS-FMFJF.txt is up to date
+[2025-02-25 06:38:41]uid is up to date
+[2025-02-25 06:38:41]user-358191-trades-1704.csv is up to date
+[2025-02-25 06:38:41]user-358191-trades-1705.csv is up to date
+[2025-02-25 06:38:41]user-358191-trades-1706.csv is up to date
+[2025-02-25 06:38:41]user-358191-trades-1707.csv is up to date
+[2025-02-25 06:38:41]user-358191-trades-1708.csv is up to date
+[2025-02-25 06:38:41]user-358191-trades-1709.csv is up to date
+[2025-02-25 06:38:41]UTC--2017-06-06T01-15-13.570480500Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:38:41]UTC--2017-06-14T00-27-50.408Z--bdf88ba80451c30b2bb2d93d7dcf872771b18768 is up to date
+[2025-02-25 06:38:41]UTC--2017-06-19T14-35-43.258Z--73af203443e96780732b8c4c257f9ff8bf7824fa is up to date
+[2025-02-25 06:38:41]UTC--2017-06-24T01-13-14.193Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:38:41]Wallet.txt is up to date
+[2025-02-25 06:38:41]wallet1.txt is up to date
+[2025-02-25 06:38:41]xyz.zip is up to date
+[2025-02-25 06:38:41]Budget nourriture canine et entraînement.xlsx is copied
+[2025-02-25 06:38:41]bull-bitcoin-orders-Fri Apr 08 2022 17_05_35 GMT-0400 (heure d’été de l’Est).csv is copied
+[2025-02-25 06:38:41]statement (2).xlsx is copied
+[2025-02-25 06:38:41]Tendances des dépenses passées.xlsm is copied
+[2025-02-25 06:38:41]toto (2).txt is copied
+[2025-02-25 06:38:41]VISA DOLLARDS.csv is copied
+[2025-02-25 06:38:41]wallet1 - Copie.txt is copied
+[2025-02-25 06:38:41][2025-02-25 06:38:41] sync: 33; update: 7; delete: 0;
+[2025-02-25 06:39:01]folder: ONLINE
+[2025-02-25 06:39:01]backup: ONLINE
+[2025-02-25 06:39:01]Blocktrail.apikey.txt is up to date
+[2025-02-25 06:39:01]Budget-Décembre-2019.xlsm is up to date
+[2025-02-25 06:39:01]Budget-Février-2020.xlsm is up to date
+[2025-02-25 06:39:01]Budget-Janvier-2020.xlsm is up to date
+[2025-02-25 06:39:01]Budget-Mars-2020-test.xlsm is up to date
+[2025-02-25 06:39:01]Budget-Mars-2020.xlsm is up to date
+[2025-02-25 06:39:01]Budget-Septembre-2019.xlsm is up to date
+[2025-02-25 06:39:01]Budget.ancien.xlsm is up to date
+[2025-02-25 06:39:01]Budget.xlsm is up to date
+[2025-02-25 06:39:01]statement-2020-05-12.csv is up to date
+[2025-02-25 06:39:01]statement.csv is up to date
+[2025-02-25 06:39:01]statement1.csv is up to date
+[2025-02-25 06:39:01]statement2.csv is up to date
+[2025-02-25 06:39:01]TEST.html is up to date
+[2025-02-25 06:39:01]TMDb.txt is up to date
+[2025-02-25 06:39:01]toto.txt is up to date
+[2025-02-25 06:39:01]tryu.txt is up to date
+[2025-02-25 06:39:01]UdeM.txt is up to date
+[2025-02-25 06:39:01]UHTX-ERKFKS-FMFJF.txt is up to date
+[2025-02-25 06:39:01]uid is up to date
+[2025-02-25 06:39:01]user-358191-trades-1704.csv is up to date
+[2025-02-25 06:39:01]user-358191-trades-1705.csv is up to date
+[2025-02-25 06:39:01]user-358191-trades-1706.csv is up to date
+[2025-02-25 06:39:01]user-358191-trades-1707.csv is up to date
+[2025-02-25 06:39:01]user-358191-trades-1708.csv is up to date
+[2025-02-25 06:39:01]user-358191-trades-1709.csv is up to date
+[2025-02-25 06:39:01]UTC--2017-06-06T01-15-13.570480500Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:39:01]UTC--2017-06-14T00-27-50.408Z--bdf88ba80451c30b2bb2d93d7dcf872771b18768 is up to date
+[2025-02-25 06:39:01]UTC--2017-06-19T14-35-43.258Z--73af203443e96780732b8c4c257f9ff8bf7824fa is up to date
+[2025-02-25 06:39:01]UTC--2017-06-24T01-13-14.193Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:39:01]Wallet.txt is up to date
+[2025-02-25 06:39:01]wallet1.txt is up to date
+[2025-02-25 06:39:01]xyz.zip is up to date
+[2025-02-25 06:39:01]Budget nourriture canine et entraînement.xlsx is copied
+[2025-02-25 06:39:01]bull-bitcoin-orders-Fri Apr 08 2022 17_05_35 GMT-0400 (heure d’été de l’Est).csv is copied
+[2025-02-25 06:39:01]statement (2).xlsx is copied
+[2025-02-25 06:39:01]Tendances des dépenses passées.xlsm is copied
+[2025-02-25 06:39:01]toto (2).txt is copied
+[2025-02-25 06:39:01]VISA DOLLARDS.csv is copied
+[2025-02-25 06:39:01]wallet1 - Copie.txt is copied
+[2025-02-25 06:39:01][2025-02-25 06:39:01] sync: 33; update: 7; delete: 0;
+[2025-02-25 06:39:21]folder: ONLINE
+[2025-02-25 06:39:21]backup: ONLINE
+[2025-02-25 06:39:21]Blocktrail.apikey.txt is up to date
+[2025-02-25 06:39:21]Budget-Décembre-2019.xlsm is up to date
+[2025-02-25 06:39:21]Budget-Février-2020.xlsm is up to date
+[2025-02-25 06:39:21]Budget-Janvier-2020.xlsm is up to date
+[2025-02-25 06:39:21]Budget-Mars-2020-test.xlsm is up to date
+[2025-02-25 06:39:21]Budget-Mars-2020.xlsm is up to date
+[2025-02-25 06:39:21]Budget-Septembre-2019.xlsm is up to date
+[2025-02-25 06:39:21]Budget.ancien.xlsm is up to date
+[2025-02-25 06:39:21]Budget.xlsm is up to date
+[2025-02-25 06:39:21]statement-2020-05-12.csv is up to date
+[2025-02-25 06:39:21]statement.csv is up to date
+[2025-02-25 06:39:21]statement1.csv is up to date
+[2025-02-25 06:39:21]statement2.csv is up to date
+[2025-02-25 06:39:21]TEST.html is up to date
+[2025-02-25 06:39:21]TMDb.txt is up to date
+[2025-02-25 06:39:21]toto.txt is up to date
+[2025-02-25 06:39:21]tryu.txt is up to date
+[2025-02-25 06:39:21]UdeM.txt is up to date
+[2025-02-25 06:39:21]UHTX-ERKFKS-FMFJF.txt is up to date
+[2025-02-25 06:39:21]uid is up to date
+[2025-02-25 06:39:21]user-358191-trades-1704.csv is up to date
+[2025-02-25 06:39:21]user-358191-trades-1705.csv is up to date
+[2025-02-25 06:39:21]user-358191-trades-1706.csv is up to date
+[2025-02-25 06:39:21]user-358191-trades-1707.csv is up to date
+[2025-02-25 06:39:21]user-358191-trades-1708.csv is up to date
+[2025-02-25 06:39:21]user-358191-trades-1709.csv is up to date
+[2025-02-25 06:39:21]UTC--2017-06-06T01-15-13.570480500Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:39:21]UTC--2017-06-14T00-27-50.408Z--bdf88ba80451c30b2bb2d93d7dcf872771b18768 is up to date
+[2025-02-25 06:39:21]UTC--2017-06-19T14-35-43.258Z--73af203443e96780732b8c4c257f9ff8bf7824fa is up to date
+[2025-02-25 06:39:21]UTC--2017-06-24T01-13-14.193Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:39:21]Wallet.txt is up to date
+[2025-02-25 06:39:21]wallet1.txt is up to date
+[2025-02-25 06:39:21]xyz.zip is up to date
+[2025-02-25 06:39:21]Budget nourriture canine et entraînement.xlsx is copied
+[2025-02-25 06:39:21]bull-bitcoin-orders-Fri Apr 08 2022 17_05_35 GMT-0400 (heure d’été de l’Est).csv is copied
+[2025-02-25 06:39:21]statement (2).xlsx is copied
+[2025-02-25 06:39:21]Tendances des dépenses passées.xlsm is copied
+[2025-02-25 06:39:21]toto (2).txt is copied
+[2025-02-25 06:39:21]VISA DOLLARDS.csv is copied
+[2025-02-25 06:39:21]wallet1 - Copie.txt is copied
+[2025-02-25 06:39:21][2025-02-25 06:39:21] sync: 33; update: 7; delete: 0;
+[2025-02-25 06:39:41]folder: ONLINE
+[2025-02-25 06:39:41]backup: ONLINE
+[2025-02-25 06:39:41]Blocktrail.apikey.txt is up to date
+[2025-02-25 06:39:41]Budget-Décembre-2019.xlsm is up to date
+[2025-02-25 06:39:41]Budget-Février-2020.xlsm is up to date
+[2025-02-25 06:39:41]Budget-Janvier-2020.xlsm is up to date
+[2025-02-25 06:39:41]Budget-Mars-2020-test.xlsm is up to date
+[2025-02-25 06:39:41]Budget-Mars-2020.xlsm is up to date
+[2025-02-25 06:39:41]Budget-Septembre-2019.xlsm is up to date
+[2025-02-25 06:39:41]Budget.ancien.xlsm is up to date
+[2025-02-25 06:39:42]Budget.xlsm is up to date
+[2025-02-25 06:39:42]Nouvelle image par points.bmp is deleted
+[2025-02-25 06:39:42]statement-2020-05-12.csv is up to date
+[2025-02-25 06:39:42]statement.csv is up to date
+[2025-02-25 06:39:42]statement1.csv is up to date
+[2025-02-25 06:39:42]statement2.csv is up to date
+[2025-02-25 06:39:42]TEST.html is up to date
+[2025-02-25 06:39:42]TMDb.txt is up to date
+[2025-02-25 06:39:42]toto.txt is up to date
+[2025-02-25 06:39:42]tryu.txt is up to date
+[2025-02-25 06:39:42]UdeM.txt is up to date
+[2025-02-25 06:39:42]UHTX-ERKFKS-FMFJF.txt is up to date
+[2025-02-25 06:39:42]uid is up to date
+[2025-02-25 06:39:42]user-358191-trades-1704.csv is up to date
+[2025-02-25 06:39:42]user-358191-trades-1705.csv is up to date
+[2025-02-25 06:39:42]user-358191-trades-1706.csv is up to date
+[2025-02-25 06:39:42]user-358191-trades-1707.csv is up to date
+[2025-02-25 06:39:42]user-358191-trades-1708.csv is up to date
+[2025-02-25 06:39:42]user-358191-trades-1709.csv is up to date
+[2025-02-25 06:39:42]UTC--2017-06-06T01-15-13.570480500Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:39:42]UTC--2017-06-14T00-27-50.408Z--bdf88ba80451c30b2bb2d93d7dcf872771b18768 is up to date
+[2025-02-25 06:39:42]UTC--2017-06-19T14-35-43.258Z--73af203443e96780732b8c4c257f9ff8bf7824fa is up to date
+[2025-02-25 06:39:42]UTC--2017-06-24T01-13-14.193Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:39:42]Wallet.txt is up to date
+[2025-02-25 06:39:42]wallet1.txt is up to date
+[2025-02-25 06:39:42]xyz.zip is up to date
+[2025-02-25 06:39:42]Budget nourriture canine et entraînement.xlsx is copied
+[2025-02-25 06:39:42]bull-bitcoin-orders-Fri Apr 08 2022 17_05_35 GMT-0400 (heure d’été de l’Est).csv is copied
+[2025-02-25 06:39:42]statement (2).xlsx is copied
+[2025-02-25 06:39:42]Tendances des dépenses passées.xlsm is copied
+[2025-02-25 06:39:42]toto (2).txt is copied
+[2025-02-25 06:39:42]VISA DOLLARDS.csv is copied
+[2025-02-25 06:39:42]wallet1 - Copie.txt is copied
+[2025-02-25 06:39:42][2025-02-25 06:39:42] sync: 33; update: 7; delete: 1;
+[2025-02-25 06:40:02]folder: ONLINE
+[2025-02-25 06:40:02]backup: ONLINE
+[2025-02-25 06:40:02]Blocktrail.apikey.txt is up to date
+[2025-02-25 06:40:02]Budget-Décembre-2019.xlsm is up to date
+[2025-02-25 06:40:02]Budget-Février-2020.xlsm is up to date
+[2025-02-25 06:40:02]Budget-Janvier-2020.xlsm is up to date
+[2025-02-25 06:40:02]Budget-Mars-2020-test.xlsm is up to date
+[2025-02-25 06:40:02]Budget-Mars-2020.xlsm is up to date
+[2025-02-25 06:40:02]Budget-Septembre-2019.xlsm is up to date
+[2025-02-25 06:40:02]Budget.ancien.xlsm is up to date
+[2025-02-25 06:40:02]Budget.xlsm is up to date
+[2025-02-25 06:40:02]Nouveau Microsoft Access Database.accdb is deleted
+[2025-02-25 06:40:02]statement-2020-05-12.csv is up to date
+[2025-02-25 06:40:02]statement.csv is up to date
+[2025-02-25 06:40:02]statement1.csv is up to date
+[2025-02-25 06:40:02]statement2.csv is up to date
+[2025-02-25 06:40:02]TEST.html is up to date
+[2025-02-25 06:40:02]TMDb.txt is up to date
+[2025-02-25 06:40:02]toto.txt is up to date
+[2025-02-25 06:40:02]tryu.txt is up to date
+[2025-02-25 06:40:02]UdeM.txt is up to date
+[2025-02-25 06:40:02]UHTX-ERKFKS-FMFJF.txt is up to date
+[2025-02-25 06:40:02]uid is up to date
+[2025-02-25 06:40:02]user-358191-trades-1704.csv is up to date
+[2025-02-25 06:40:02]user-358191-trades-1705.csv is up to date
+[2025-02-25 06:40:02]user-358191-trades-1706.csv is up to date
+[2025-02-25 06:40:02]user-358191-trades-1707.csv is up to date
+[2025-02-25 06:40:02]user-358191-trades-1708.csv is up to date
+[2025-02-25 06:40:02]user-358191-trades-1709.csv is up to date
+[2025-02-25 06:40:02]UTC--2017-06-06T01-15-13.570480500Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:40:02]UTC--2017-06-14T00-27-50.408Z--bdf88ba80451c30b2bb2d93d7dcf872771b18768 is up to date
+[2025-02-25 06:40:02]UTC--2017-06-19T14-35-43.258Z--73af203443e96780732b8c4c257f9ff8bf7824fa is up to date
+[2025-02-25 06:40:02]UTC--2017-06-24T01-13-14.193Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:40:02]Wallet.txt is up to date
+[2025-02-25 06:40:02]wallet1.txt is up to date
+[2025-02-25 06:40:02]xyz.zip is up to date
+[2025-02-25 06:40:02]Budget nourriture canine et entraînement.xlsx is copied
+[2025-02-25 06:40:02]bull-bitcoin-orders-Fri Apr 08 2022 17_05_35 GMT-0400 (heure d’été de l’Est).csv is copied
+[2025-02-25 06:40:02]statement (2).xlsx is copied
+[2025-02-25 06:40:02]Tendances des dépenses passées.xlsm is copied
+[2025-02-25 06:40:02]toto (2).txt is copied
+[2025-02-25 06:40:02]VISA DOLLARDS.csv is copied
+[2025-02-25 06:40:02]wallet1 - Copie.txt is copied
+[2025-02-25 06:40:02][2025-02-25 06:40:02] sync: 33; update: 7; delete: 1;
+[2025-02-25 06:40:22]folder: ONLINE
+[2025-02-25 06:40:22]backup: ONLINE
+[2025-02-25 06:40:22]Blocktrail.apikey.txt is up to date
+[2025-02-25 06:40:22]Budget-Décembre-2019.xlsm is up to date
+[2025-02-25 06:40:22]Budget-Février-2020.xlsm is up to date
+[2025-02-25 06:40:22]Budget-Janvier-2020.xlsm is up to date
+[2025-02-25 06:40:22]Budget-Mars-2020-test.xlsm is up to date
+[2025-02-25 06:40:22]Budget-Mars-2020.xlsm is up to date
+[2025-02-25 06:40:22]Budget-Septembre-2019.xlsm is up to date
+[2025-02-25 06:40:22]Budget.ancien.xlsm is up to date
+[2025-02-25 06:40:22]Budget.xlsm is up to date
+[2025-02-25 06:40:22]statement-2020-05-12.csv is up to date
+[2025-02-25 06:40:22]statement.csv is up to date
+[2025-02-25 06:40:22]statement1.csv is up to date
+[2025-02-25 06:40:22]statement2.csv is up to date
+[2025-02-25 06:40:22]TEST.html is up to date
+[2025-02-25 06:40:22]TMDb.txt is up to date
+[2025-02-25 06:40:22]toto.txt is up to date
+[2025-02-25 06:40:22]tryu.txt is up to date
+[2025-02-25 06:40:22]UdeM.txt is up to date
+[2025-02-25 06:40:22]UHTX-ERKFKS-FMFJF.txt is up to date
+[2025-02-25 06:40:22]uid is up to date
+[2025-02-25 06:40:22]user-358191-trades-1704.csv is up to date
+[2025-02-25 06:40:22]user-358191-trades-1705.csv is up to date
+[2025-02-25 06:40:22]user-358191-trades-1706.csv is up to date
+[2025-02-25 06:40:22]user-358191-trades-1707.csv is up to date
+[2025-02-25 06:40:22]user-358191-trades-1708.csv is up to date
+[2025-02-25 06:40:22]user-358191-trades-1709.csv is up to date
+[2025-02-25 06:40:22]UTC--2017-06-06T01-15-13.570480500Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:40:22]UTC--2017-06-14T00-27-50.408Z--bdf88ba80451c30b2bb2d93d7dcf872771b18768 is up to date
+[2025-02-25 06:40:22]UTC--2017-06-19T14-35-43.258Z--73af203443e96780732b8c4c257f9ff8bf7824fa is up to date
+[2025-02-25 06:40:22]UTC--2017-06-24T01-13-14.193Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:40:22]Wallet.txt is up to date
+[2025-02-25 06:40:22]wallet1.txt is up to date
+[2025-02-25 06:40:22]xyz.zip is up to date
+[2025-02-25 06:40:22]Budget nourriture canine et entraînement.xlsx is copied
+[2025-02-25 06:40:22]bull-bitcoin-orders-Fri Apr 08 2022 17_05_35 GMT-0400 (heure d’été de l’Est).csv is copied
+[2025-02-25 06:40:22]statement (2).xlsx is copied
+[2025-02-25 06:40:22]Tendances des dépenses passées.xlsm is copied
+[2025-02-25 06:40:22]toto (2).txt is copied
+[2025-02-25 06:40:22]VISA DOLLARDS.csv is copied
+[2025-02-25 06:40:22]wallet1 - Copie.txt is copied
+[2025-02-25 06:40:22][2025-02-25 06:40:22] sync: 33; update: 7; delete: 0;
+[2025-02-25 06:40:42]folder: ONLINE
+[2025-02-25 06:40:42]backup: ONLINE
+[2025-02-25 06:40:42]Blocktrail.apikey.txt is up to date
+[2025-02-25 06:40:42]Budget-Décembre-2019.xlsm is up to date
+[2025-02-25 06:40:42]Budget-Février-2020.xlsm is up to date
+[2025-02-25 06:40:42]Budget-Janvier-2020.xlsm is up to date
+[2025-02-25 06:40:42]Budget-Mars-2020-test.xlsm is up to date
+[2025-02-25 06:40:42]Budget-Mars-2020.xlsm is up to date
+[2025-02-25 06:40:42]Budget-Septembre-2019.xlsm is up to date
+[2025-02-25 06:40:42]Budget.ancien.xlsm is up to date
+[2025-02-25 06:40:42]Budget.xlsm is up to date
+[2025-02-25 06:40:42]statement-2020-05-12.csv is up to date
+[2025-02-25 06:40:42]statement.csv is up to date
+[2025-02-25 06:40:42]statement1.csv is up to date
+[2025-02-25 06:40:42]statement2.csv is up to date
+[2025-02-25 06:40:42]TEST.html is up to date
+[2025-02-25 06:40:42]TMDb.txt is up to date
+[2025-02-25 06:40:42]toto.txt is up to date
+[2025-02-25 06:40:42]tryu.txt is up to date
+[2025-02-25 06:40:42]UdeM.txt is up to date
+[2025-02-25 06:40:42]UHTX-ERKFKS-FMFJF.txt is up to date
+[2025-02-25 06:40:42]uid is up to date
+[2025-02-25 06:40:42]user-358191-trades-1704.csv is up to date
+[2025-02-25 06:40:42]user-358191-trades-1705.csv is up to date
+[2025-02-25 06:40:42]user-358191-trades-1706.csv is up to date
+[2025-02-25 06:40:42]user-358191-trades-1707.csv is up to date
+[2025-02-25 06:40:42]user-358191-trades-1708.csv is up to date
+[2025-02-25 06:40:42]user-358191-trades-1709.csv is up to date
+[2025-02-25 06:40:42]UTC--2017-06-06T01-15-13.570480500Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:40:42]UTC--2017-06-14T00-27-50.408Z--bdf88ba80451c30b2bb2d93d7dcf872771b18768 is up to date
+[2025-02-25 06:40:42]UTC--2017-06-19T14-35-43.258Z--73af203443e96780732b8c4c257f9ff8bf7824fa is up to date
+[2025-02-25 06:40:42]UTC--2017-06-24T01-13-14.193Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:40:42]Wallet.txt is up to date
+[2025-02-25 06:40:42]wallet1.txt is up to date
+[2025-02-25 06:40:42]xyz.zip is up to date
+[2025-02-25 06:40:42]Budget nourriture canine et entraînement.xlsx is copied
+[2025-02-25 06:40:42]bull-bitcoin-orders-Fri Apr 08 2022 17_05_35 GMT-0400 (heure d’été de l’Est).csv is copied
+[2025-02-25 06:40:42]Nouveau document de texte enrichi.rtf is copied
+[2025-02-25 06:40:42]statement (2).xlsx is copied
+[2025-02-25 06:40:42]Tendances des dépenses passées.xlsm is copied
+[2025-02-25 06:40:42]toto (2).txt is copied
+[2025-02-25 06:40:42]VISA DOLLARDS.csv is copied
+[2025-02-25 06:40:42]wallet1 - Copie.txt is copied
+[2025-02-25 06:40:42][2025-02-25 06:40:42] sync: 33; update: 8; delete: 0;
+[2025-02-25 06:41:02]folder: ONLINE
+[2025-02-25 06:41:02]backup: ONLINE
+[2025-02-25 06:41:02]Blocktrail.apikey.txt is up to date
+[2025-02-25 06:41:02]Budget-Décembre-2019.xlsm is up to date
+[2025-02-25 06:41:02]Budget-Février-2020.xlsm is up to date
+[2025-02-25 06:41:02]Budget-Janvier-2020.xlsm is up to date
+[2025-02-25 06:41:02]Budget-Mars-2020-test.xlsm is up to date
+[2025-02-25 06:41:02]Budget-Mars-2020.xlsm is up to date
+[2025-02-25 06:41:02]Budget-Septembre-2019.xlsm is up to date
+[2025-02-25 06:41:02]Budget.ancien.xlsm is up to date
+[2025-02-25 06:41:02]Budget.xlsm is up to date
+[2025-02-25 06:41:02]statement-2020-05-12.csv is up to date
+[2025-02-25 06:41:02]statement.csv is up to date
+[2025-02-25 06:41:02]statement1.csv is up to date
+[2025-02-25 06:41:02]statement2.csv is up to date
+[2025-02-25 06:41:02]TEST.html is up to date
+[2025-02-25 06:41:02]TMDb.txt is up to date
+[2025-02-25 06:41:02]toto.txt is up to date
+[2025-02-25 06:41:02]tryu.txt is up to date
+[2025-02-25 06:41:02]UdeM.txt is up to date
+[2025-02-25 06:41:02]UHTX-ERKFKS-FMFJF.txt is up to date
+[2025-02-25 06:41:02]uid is up to date
+[2025-02-25 06:41:02]user-358191-trades-1704.csv is up to date
+[2025-02-25 06:41:02]user-358191-trades-1705.csv is up to date
+[2025-02-25 06:41:02]user-358191-trades-1706.csv is up to date
+[2025-02-25 06:41:02]user-358191-trades-1707.csv is up to date
+[2025-02-25 06:41:02]user-358191-trades-1708.csv is up to date
+[2025-02-25 06:41:02]user-358191-trades-1709.csv is up to date
+[2025-02-25 06:41:02]UTC--2017-06-06T01-15-13.570480500Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:41:02]UTC--2017-06-14T00-27-50.408Z--bdf88ba80451c30b2bb2d93d7dcf872771b18768 is up to date
+[2025-02-25 06:41:02]UTC--2017-06-19T14-35-43.258Z--73af203443e96780732b8c4c257f9ff8bf7824fa is up to date
+[2025-02-25 06:41:02]UTC--2017-06-24T01-13-14.193Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:41:02]Wallet.txt is up to date
+[2025-02-25 06:41:02]wallet1.txt is up to date
+[2025-02-25 06:41:02]xyz.zip is up to date
+[2025-02-25 06:41:02]Budget nourriture canine et entraînement.xlsx is copied
+[2025-02-25 06:41:02]bull-bitcoin-orders-Fri Apr 08 2022 17_05_35 GMT-0400 (heure d’été de l’Est).csv is copied
+[2025-02-25 06:41:02]Nouveau document de texte enrichi.rtf is copied
+[2025-02-25 06:41:02]statement (2).xlsx is copied
+[2025-02-25 06:41:02]Tendances des dépenses passées.xlsm is copied
+[2025-02-25 06:41:02]toto (2).txt is copied
+[2025-02-25 06:41:02]VISA DOLLARDS.csv is copied
+[2025-02-25 06:41:02]wallet1 - Copie.txt is copied
+[2025-02-25 06:41:02]~$uveau document de texte enrichi.rtf is copied
+[2025-02-25 06:41:02][2025-02-25 06:41:02] sync: 33; update: 9; delete: 0;
+[2025-02-25 06:41:22]folder: ONLINE
+[2025-02-25 06:41:22]backup: ONLINE
+[2025-02-25 06:41:22]Blocktrail.apikey.txt is up to date
+[2025-02-25 06:41:22]Budget-Décembre-2019.xlsm is up to date
+[2025-02-25 06:41:22]Budget-Février-2020.xlsm is up to date
+[2025-02-25 06:41:22]Budget-Janvier-2020.xlsm is up to date
+[2025-02-25 06:41:22]Budget-Mars-2020-test.xlsm is up to date
+[2025-02-25 06:41:22]Budget-Mars-2020.xlsm is up to date
+[2025-02-25 06:41:22]Budget-Septembre-2019.xlsm is up to date
+[2025-02-25 06:41:22]Budget.ancien.xlsm is up to date
+[2025-02-25 06:41:22]Budget.xlsm is up to date
+[2025-02-25 06:41:22]statement-2020-05-12.csv is up to date
+[2025-02-25 06:41:22]statement.csv is up to date
+[2025-02-25 06:41:22]statement1.csv is up to date
+[2025-02-25 06:41:22]statement2.csv is up to date
+[2025-02-25 06:41:22]TEST.html is up to date
+[2025-02-25 06:41:22]TMDb.txt is up to date
+[2025-02-25 06:41:22]toto.txt is up to date
+[2025-02-25 06:41:22]tryu.txt is up to date
+[2025-02-25 06:41:22]UdeM.txt is up to date
+[2025-02-25 06:41:22]UHTX-ERKFKS-FMFJF.txt is up to date
+[2025-02-25 06:41:22]uid is up to date
+[2025-02-25 06:41:22]user-358191-trades-1704.csv is up to date
+[2025-02-25 06:41:22]user-358191-trades-1705.csv is up to date
+[2025-02-25 06:41:22]user-358191-trades-1706.csv is up to date
+[2025-02-25 06:41:22]user-358191-trades-1707.csv is up to date
+[2025-02-25 06:41:22]user-358191-trades-1708.csv is up to date
+[2025-02-25 06:41:22]user-358191-trades-1709.csv is up to date
+[2025-02-25 06:41:22]UTC--2017-06-06T01-15-13.570480500Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:41:22]UTC--2017-06-14T00-27-50.408Z--bdf88ba80451c30b2bb2d93d7dcf872771b18768 is up to date
+[2025-02-25 06:41:22]UTC--2017-06-19T14-35-43.258Z--73af203443e96780732b8c4c257f9ff8bf7824fa is up to date
+[2025-02-25 06:41:22]UTC--2017-06-24T01-13-14.193Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:41:22]Wallet.txt is up to date
+[2025-02-25 06:41:22]wallet1.txt is up to date
+[2025-02-25 06:41:22]xyz.zip is up to date
+[2025-02-25 06:41:22]Budget nourriture canine et entraînement.xlsx is copied
+[2025-02-25 06:41:22]bull-bitcoin-orders-Fri Apr 08 2022 17_05_35 GMT-0400 (heure d’été de l’Est).csv is copied
+[2025-02-25 06:41:22]Nouveau document de texte enrichi.rtf is copied
+[2025-02-25 06:41:22]statement (2).xlsx is copied
+[2025-02-25 06:41:22]Tendances des dépenses passées.xlsm is copied
+[2025-02-25 06:41:23]toto (2).txt is copied
+[2025-02-25 06:41:23]VISA DOLLARDS.csv is copied
+[2025-02-25 06:41:23]wallet1 - Copie.txt is copied
+[2025-02-25 06:41:23]~$uveau document de texte enrichi.rtf is copied
+[2025-02-25 06:41:23][2025-02-25 06:41:23] sync: 33; update: 9; delete: 0;
+[2025-02-25 06:41:43]folder: ONLINE
+[2025-02-25 06:41:43]backup: ONLINE
+[2025-02-25 06:41:43]Blocktrail.apikey.txt is up to date
+[2025-02-25 06:41:43]Budget-Décembre-2019.xlsm is up to date
+[2025-02-25 06:41:43]Budget-Février-2020.xlsm is up to date
+[2025-02-25 06:41:43]Budget-Janvier-2020.xlsm is up to date
+[2025-02-25 06:41:43]Budget-Mars-2020-test.xlsm is up to date
+[2025-02-25 06:41:43]Budget-Mars-2020.xlsm is up to date
+[2025-02-25 06:41:43]Budget-Septembre-2019.xlsm is up to date
+[2025-02-25 06:41:43]Budget.ancien.xlsm is up to date
+[2025-02-25 06:41:43]Budget.xlsm is up to date
+[2025-02-25 06:41:43]statement-2020-05-12.csv is up to date
+[2025-02-25 06:41:43]statement.csv is up to date
+[2025-02-25 06:41:43]statement1.csv is up to date
+[2025-02-25 06:41:43]statement2.csv is up to date
+[2025-02-25 06:41:43]TEST.html is up to date
+[2025-02-25 06:41:43]TMDb.txt is up to date
+[2025-02-25 06:41:43]toto.txt is up to date
+[2025-02-25 06:41:43]tryu.txt is up to date
+[2025-02-25 06:41:43]UdeM.txt is up to date
+[2025-02-25 06:41:43]UHTX-ERKFKS-FMFJF.txt is up to date
+[2025-02-25 06:41:43]uid is up to date
+[2025-02-25 06:41:43]user-358191-trades-1704.csv is up to date
+[2025-02-25 06:41:43]user-358191-trades-1705.csv is up to date
+[2025-02-25 06:41:43]user-358191-trades-1706.csv is up to date
+[2025-02-25 06:41:43]user-358191-trades-1707.csv is up to date
+[2025-02-25 06:41:43]user-358191-trades-1708.csv is up to date
+[2025-02-25 06:41:43]user-358191-trades-1709.csv is up to date
+[2025-02-25 06:41:43]UTC--2017-06-06T01-15-13.570480500Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:41:43]UTC--2017-06-14T00-27-50.408Z--bdf88ba80451c30b2bb2d93d7dcf872771b18768 is up to date
+[2025-02-25 06:41:43]UTC--2017-06-19T14-35-43.258Z--73af203443e96780732b8c4c257f9ff8bf7824fa is up to date
+[2025-02-25 06:41:43]UTC--2017-06-24T01-13-14.193Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:41:43]Wallet.txt is up to date
+[2025-02-25 06:41:43]wallet1.txt is up to date
+[2025-02-25 06:41:43]xyz.zip is up to date
+[2025-02-25 06:41:43]Budget nourriture canine et entraînement.xlsx is copied
+[2025-02-25 06:41:43]bull-bitcoin-orders-Fri Apr 08 2022 17_05_35 GMT-0400 (heure d’été de l’Est).csv is copied
+[2025-02-25 06:41:43]Nouveau document de texte enrichi.rtf is copied
+[2025-02-25 06:41:43]statement (2).xlsx is copied
+[2025-02-25 06:41:43]Tendances des dépenses passées.xlsm is copied
+[2025-02-25 06:41:43]toto (2).txt is copied
+[2025-02-25 06:41:43]VISA DOLLARDS.csv is copied
+[2025-02-25 06:41:43]wallet1 - Copie.txt is copied
+[2025-02-25 06:41:43]~$uveau document de texte enrichi.rtf is copied
+[2025-02-25 06:41:43][2025-02-25 06:41:43] sync: 33; update: 9; delete: 0;
+[2025-02-25 06:42:03]folder: ONLINE
+[2025-02-25 06:42:03]backup: ONLINE
+[2025-02-25 06:42:03]Blocktrail.apikey.txt is up to date
+[2025-02-25 06:42:03]Budget-Décembre-2019.xlsm is up to date
+[2025-02-25 06:42:03]Budget-Février-2020.xlsm is up to date
+[2025-02-25 06:42:03]Budget-Janvier-2020.xlsm is up to date
+[2025-02-25 06:42:03]Budget-Mars-2020-test.xlsm is up to date
+[2025-02-25 06:42:03]Budget-Mars-2020.xlsm is up to date
+[2025-02-25 06:42:03]Budget-Septembre-2019.xlsm is up to date
+[2025-02-25 06:42:03]Budget.ancien.xlsm is up to date
+[2025-02-25 06:42:03]Budget.xlsm is up to date
+[2025-02-25 06:42:03]statement-2020-05-12.csv is up to date
+[2025-02-25 06:42:03]statement.csv is up to date
+[2025-02-25 06:42:03]statement1.csv is up to date
+[2025-02-25 06:42:03]statement2.csv is up to date
+[2025-02-25 06:42:03]TEST.html is up to date
+[2025-02-25 06:42:03]TMDb.txt is up to date
+[2025-02-25 06:42:03]toto.txt is up to date
+[2025-02-25 06:42:03]tryu.txt is up to date
+[2025-02-25 06:42:03]UdeM.txt is up to date
+[2025-02-25 06:42:03]UHTX-ERKFKS-FMFJF.txt is up to date
+[2025-02-25 06:42:03]uid is up to date
+[2025-02-25 06:42:03]user-358191-trades-1704.csv is up to date
+[2025-02-25 06:42:03]user-358191-trades-1705.csv is up to date
+[2025-02-25 06:42:03]user-358191-trades-1706.csv is up to date
+[2025-02-25 06:42:03]user-358191-trades-1707.csv is up to date
+[2025-02-25 06:42:03]user-358191-trades-1708.csv is up to date
+[2025-02-25 06:42:03]user-358191-trades-1709.csv is up to date
+[2025-02-25 06:42:03]UTC--2017-06-06T01-15-13.570480500Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:42:03]UTC--2017-06-14T00-27-50.408Z--bdf88ba80451c30b2bb2d93d7dcf872771b18768 is up to date
+[2025-02-25 06:42:03]UTC--2017-06-19T14-35-43.258Z--73af203443e96780732b8c4c257f9ff8bf7824fa is up to date
+[2025-02-25 06:42:03]UTC--2017-06-24T01-13-14.193Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:42:03]Wallet.txt is up to date
+[2025-02-25 06:42:03]wallet1.txt is up to date
+[2025-02-25 06:42:03]xyz.zip is up to date
+[2025-02-25 06:42:03]Budget nourriture canine et entraînement.xlsx is copied
+[2025-02-25 06:42:03]bull-bitcoin-orders-Fri Apr 08 2022 17_05_35 GMT-0400 (heure d’été de l’Est).csv is copied
+[2025-02-25 06:42:03]Nouveau document de texte enrichi.rtf is copied
+[2025-02-25 06:42:03]statement (2).xlsx is copied
+[2025-02-25 06:42:03]Tendances des dépenses passées.xlsm is copied
+[2025-02-25 06:42:03]toto (2).txt is copied
+[2025-02-25 06:42:03]VISA DOLLARDS.csv is copied
+[2025-02-25 06:42:03]wallet1 - Copie.txt is copied
+[2025-02-25 06:42:03][2025-02-25 06:42:03] sync: 33; update: 8; delete: 0;
+[2025-02-25 06:42:23]folder: ONLINE
+[2025-02-25 06:42:23]backup: ONLINE
+[2025-02-25 06:42:23]Blocktrail.apikey.txt is up to date
+[2025-02-25 06:42:23]Budget-Décembre-2019.xlsm is up to date
+[2025-02-25 06:42:23]Budget-Février-2020.xlsm is up to date
+[2025-02-25 06:42:23]Budget-Janvier-2020.xlsm is up to date
+[2025-02-25 06:42:23]Budget-Mars-2020-test.xlsm is up to date
+[2025-02-25 06:42:23]Budget-Mars-2020.xlsm is up to date
+[2025-02-25 06:42:23]Budget-Septembre-2019.xlsm is up to date
+[2025-02-25 06:42:23]Budget.ancien.xlsm is up to date
+[2025-02-25 06:42:23]Budget.xlsm is up to date
+[2025-02-25 06:42:23]statement-2020-05-12.csv is up to date
+[2025-02-25 06:42:23]statement.csv is up to date
+[2025-02-25 06:42:23]statement1.csv is up to date
+[2025-02-25 06:42:23]statement2.csv is up to date
+[2025-02-25 06:42:23]TEST.html is up to date
+[2025-02-25 06:42:23]TMDb.txt is up to date
+[2025-02-25 06:42:23]toto.txt is up to date
+[2025-02-25 06:42:23]tryu.txt is up to date
+[2025-02-25 06:42:23]UdeM.txt is up to date
+[2025-02-25 06:42:23]UHTX-ERKFKS-FMFJF.txt is up to date
+[2025-02-25 06:42:23]uid is up to date
+[2025-02-25 06:42:23]user-358191-trades-1704.csv is up to date
+[2025-02-25 06:42:23]user-358191-trades-1705.csv is up to date
+[2025-02-25 06:42:23]user-358191-trades-1706.csv is up to date
+[2025-02-25 06:42:23]user-358191-trades-1707.csv is up to date
+[2025-02-25 06:42:23]user-358191-trades-1708.csv is up to date
+[2025-02-25 06:42:23]user-358191-trades-1709.csv is up to date
+[2025-02-25 06:42:23]UTC--2017-06-06T01-15-13.570480500Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:42:23]UTC--2017-06-14T00-27-50.408Z--bdf88ba80451c30b2bb2d93d7dcf872771b18768 is up to date
+[2025-02-25 06:42:23]UTC--2017-06-19T14-35-43.258Z--73af203443e96780732b8c4c257f9ff8bf7824fa is up to date
+[2025-02-25 06:42:23]UTC--2017-06-24T01-13-14.193Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:42:23]Wallet.txt is up to date
+[2025-02-25 06:42:23]wallet1.txt is up to date
+[2025-02-25 06:42:23]xyz.zip is up to date
+[2025-02-25 06:42:23]Budget nourriture canine et entraînement.xlsx is copied
+[2025-02-25 06:42:23]bull-bitcoin-orders-Fri Apr 08 2022 17_05_35 GMT-0400 (heure d’été de l’Est).csv is copied
+[2025-02-25 06:42:23]Nouveau document de texte enrichi.rtf is copied
+[2025-02-25 06:42:23]statement (2).xlsx is copied
+[2025-02-25 06:42:23]Tendances des dépenses passées.xlsm is copied
+[2025-02-25 06:42:23]toto (2).txt is copied
+[2025-02-25 06:42:23]VISA DOLLARDS.csv is copied
+[2025-02-25 06:42:23]wallet1 - Copie.txt is copied
+[2025-02-25 06:42:23][2025-02-25 06:42:23] sync: 33; update: 8; delete: 0;
+[2025-02-25 06:42:43]folder: ONLINE
+[2025-02-25 06:42:43]backup: ONLINE
+[2025-02-25 06:42:43]Blocktrail.apikey.txt is up to date
+[2025-02-25 06:42:43]Budget-Décembre-2019.xlsm is up to date
+[2025-02-25 06:42:43]Budget-Février-2020.xlsm is up to date
+[2025-02-25 06:42:43]Budget-Janvier-2020.xlsm is up to date
+[2025-02-25 06:42:43]Budget-Mars-2020-test.xlsm is up to date
+[2025-02-25 06:42:43]Budget-Mars-2020.xlsm is up to date
+[2025-02-25 06:42:43]Budget-Septembre-2019.xlsm is up to date
+[2025-02-25 06:42:43]Budget.ancien.xlsm is up to date
+[2025-02-25 06:42:43]Budget.xlsm is up to date
+[2025-02-25 06:42:43]statement-2020-05-12.csv is up to date
+[2025-02-25 06:42:43]statement.csv is up to date
+[2025-02-25 06:42:43]statement1.csv is up to date
+[2025-02-25 06:42:43]statement2.csv is up to date
+[2025-02-25 06:42:43]TEST.html is up to date
+[2025-02-25 06:42:43]TMDb.txt is up to date
+[2025-02-25 06:42:43]toto.txt is up to date
+[2025-02-25 06:42:43]tryu.txt is up to date
+[2025-02-25 06:42:43]UdeM.txt is up to date
+[2025-02-25 06:42:43]UHTX-ERKFKS-FMFJF.txt is up to date
+[2025-02-25 06:42:43]uid is up to date
+[2025-02-25 06:42:43]user-358191-trades-1704.csv is up to date
+[2025-02-25 06:42:43]user-358191-trades-1705.csv is up to date
+[2025-02-25 06:42:43]user-358191-trades-1706.csv is up to date
+[2025-02-25 06:42:43]user-358191-trades-1707.csv is up to date
+[2025-02-25 06:42:43]user-358191-trades-1708.csv is up to date
+[2025-02-25 06:42:43]user-358191-trades-1709.csv is up to date
+[2025-02-25 06:42:43]UTC--2017-06-06T01-15-13.570480500Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:42:43]UTC--2017-06-14T00-27-50.408Z--bdf88ba80451c30b2bb2d93d7dcf872771b18768 is up to date
+[2025-02-25 06:42:43]UTC--2017-06-19T14-35-43.258Z--73af203443e96780732b8c4c257f9ff8bf7824fa is up to date
+[2025-02-25 06:42:43]UTC--2017-06-24T01-13-14.193Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:42:43]Wallet.txt is up to date
+[2025-02-25 06:42:43]wallet1.txt is up to date
+[2025-02-25 06:42:43]xyz.zip is up to date
+[2025-02-25 06:42:43]Budget nourriture canine et entraînement.xlsx is copied
+[2025-02-25 06:42:43]bull-bitcoin-orders-Fri Apr 08 2022 17_05_35 GMT-0400 (heure d’été de l’Est).csv is copied
+[2025-02-25 06:42:43]Nouveau document de texte enrichi.rtf is copied
+[2025-02-25 06:42:43]statement (2).xlsx is copied
+[2025-02-25 06:42:43]Tendances des dépenses passées.xlsm is copied
+[2025-02-25 06:42:43]toto (2).txt is copied
+[2025-02-25 06:42:43]VISA DOLLARDS.csv is copied
+[2025-02-25 06:42:43]wallet1 - Copie.txt is copied
+[2025-02-25 06:42:43][2025-02-25 06:42:43] sync: 33; update: 8; delete: 0;
+[2025-02-25 06:43:03]folder: ONLINE
+[2025-02-25 06:43:03]backup: ONLINE
+[2025-02-25 06:43:03]Blocktrail.apikey.txt is up to date
+[2025-02-25 06:43:03]Budget-Décembre-2019.xlsm is up to date
+[2025-02-25 06:43:03]Budget-Février-2020.xlsm is up to date
+[2025-02-25 06:43:03]Budget-Janvier-2020.xlsm is up to date
+[2025-02-25 06:43:03]Budget-Mars-2020-test.xlsm is up to date
+[2025-02-25 06:43:03]Budget-Mars-2020.xlsm is up to date
+[2025-02-25 06:43:03]Budget-Septembre-2019.xlsm is up to date
+[2025-02-25 06:43:03]Budget.ancien.xlsm is up to date
+[2025-02-25 06:43:03]Budget.xlsm is up to date
+[2025-02-25 06:43:03]statement-2020-05-12.csv is up to date
+[2025-02-25 06:43:03]statement.csv is up to date
+[2025-02-25 06:43:03]statement1.csv is up to date
+[2025-02-25 06:43:03]statement2.csv is up to date
+[2025-02-25 06:43:03]TEST.html is up to date
+[2025-02-25 06:43:03]TMDb.txt is up to date
+[2025-02-25 06:43:03]toto.txt is up to date
+[2025-02-25 06:43:03]tryu.txt is up to date
+[2025-02-25 06:43:03]UdeM.txt is up to date
+[2025-02-25 06:43:03]UHTX-ERKFKS-FMFJF.txt is up to date
+[2025-02-25 06:43:03]uid is up to date
+[2025-02-25 06:43:03]user-358191-trades-1704.csv is up to date
+[2025-02-25 06:43:03]user-358191-trades-1705.csv is up to date
+[2025-02-25 06:43:03]user-358191-trades-1706.csv is up to date
+[2025-02-25 06:43:03]user-358191-trades-1707.csv is up to date
+[2025-02-25 06:43:03]user-358191-trades-1708.csv is up to date
+[2025-02-25 06:43:03]user-358191-trades-1709.csv is up to date
+[2025-02-25 06:43:03]UTC--2017-06-06T01-15-13.570480500Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:43:03]UTC--2017-06-14T00-27-50.408Z--bdf88ba80451c30b2bb2d93d7dcf872771b18768 is up to date
+[2025-02-25 06:43:03]UTC--2017-06-19T14-35-43.258Z--73af203443e96780732b8c4c257f9ff8bf7824fa is up to date
+[2025-02-25 06:43:03]UTC--2017-06-24T01-13-14.193Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:43:03]Wallet.txt is up to date
+[2025-02-25 06:43:03]wallet1.txt is up to date
+[2025-02-25 06:43:03]xyz.zip is up to date
+[2025-02-25 06:43:03]Budget nourriture canine et entraînement.xlsx is copied
+[2025-02-25 06:43:03]bull-bitcoin-orders-Fri Apr 08 2022 17_05_35 GMT-0400 (heure d’été de l’Est).csv is copied
+[2025-02-25 06:43:03]statement (2).xlsx is copied
+[2025-02-25 06:43:03]Tendances des dépenses passées.xlsm is copied
+[2025-02-25 06:43:03]toto (2).txt is copied
+[2025-02-25 06:43:03]VISA DOLLARDS.csv is copied
+[2025-02-25 06:43:03]wallet1 - Copie.txt is copied
+[2025-02-25 06:43:03][2025-02-25 06:43:03] sync: 33; update: 7; delete: 0;
+[2025-02-25 06:43:23]folder: ONLINE
+[2025-02-25 06:43:23]backup: ONLINE
+[2025-02-25 06:43:23]Blocktrail.apikey.txt is up to date
+[2025-02-25 06:43:23]Budget-Décembre-2019.xlsm is up to date
+[2025-02-25 06:43:23]Budget-Février-2020.xlsm is up to date
+[2025-02-25 06:43:23]Budget-Janvier-2020.xlsm is up to date
+[2025-02-25 06:43:23]Budget-Mars-2020-test.xlsm is up to date
+[2025-02-25 06:43:23]Budget-Mars-2020.xlsm is up to date
+[2025-02-25 06:43:23]Budget-Septembre-2019.xlsm is up to date
+[2025-02-25 06:43:23]Budget.ancien.xlsm is up to date
+[2025-02-25 06:43:23]Budget.xlsm is up to date
+[2025-02-25 06:43:23]statement-2020-05-12.csv is up to date
+[2025-02-25 06:43:23]statement.csv is up to date
+[2025-02-25 06:43:23]statement1.csv is up to date
+[2025-02-25 06:43:23]statement2.csv is up to date
+[2025-02-25 06:43:23]TEST.html is up to date
+[2025-02-25 06:43:23]TMDb.txt is up to date
+[2025-02-25 06:43:23]toto.txt is up to date
+[2025-02-25 06:43:23]tryu.txt is up to date
+[2025-02-25 06:43:23]UdeM.txt is up to date
+[2025-02-25 06:43:23]UHTX-ERKFKS-FMFJF.txt is up to date
+[2025-02-25 06:43:23]uid is up to date
+[2025-02-25 06:43:23]user-358191-trades-1704.csv is up to date
+[2025-02-25 06:43:23]user-358191-trades-1705.csv is up to date
+[2025-02-25 06:43:23]user-358191-trades-1706.csv is up to date
+[2025-02-25 06:43:23]user-358191-trades-1707.csv is up to date
+[2025-02-25 06:43:23]user-358191-trades-1708.csv is up to date
+[2025-02-25 06:43:23]user-358191-trades-1709.csv is up to date
+[2025-02-25 06:43:23]UTC--2017-06-06T01-15-13.570480500Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:43:23]UTC--2017-06-14T00-27-50.408Z--bdf88ba80451c30b2bb2d93d7dcf872771b18768 is up to date
+[2025-02-25 06:43:23]UTC--2017-06-19T14-35-43.258Z--73af203443e96780732b8c4c257f9ff8bf7824fa is up to date
+[2025-02-25 06:43:23]UTC--2017-06-24T01-13-14.193Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:43:23]Wallet.txt is up to date
+[2025-02-25 06:43:23]wallet1.txt is up to date
+[2025-02-25 06:43:23]xyz.zip is up to date
+[2025-02-25 06:43:24]Budget nourriture canine et entraînement.xlsx is copied
+[2025-02-25 06:43:24]bull-bitcoin-orders-Fri Apr 08 2022 17_05_35 GMT-0400 (heure d’été de l’Est).csv is copied
+[2025-02-25 06:43:24]statement (2).xlsx is copied
+[2025-02-25 06:43:24]Tendances des dépenses passées.xlsm is copied
+[2025-02-25 06:43:24]toto (2).txt is copied
+[2025-02-25 06:43:24]VISA DOLLARDS.csv is copied
+[2025-02-25 06:43:24]wallet1 - Copie.txt is copied
+[2025-02-25 06:43:24][2025-02-25 06:43:24] sync: 33; update: 7; delete: 0;
+[2025-02-25 06:43:44]folder: ONLINE
+[2025-02-25 06:43:44]backup: ONLINE
+[2025-02-25 06:43:44]Blocktrail.apikey.txt is up to date
+[2025-02-25 06:43:44]Budget-Décembre-2019.xlsm is up to date
+[2025-02-25 06:43:44]Budget-Février-2020.xlsm is up to date
+[2025-02-25 06:43:44]Budget-Janvier-2020.xlsm is up to date
+[2025-02-25 06:43:44]Budget-Mars-2020-test.xlsm is up to date
+[2025-02-25 06:43:44]Budget-Mars-2020.xlsm is up to date
+[2025-02-25 06:43:44]Budget-Septembre-2019.xlsm is up to date
+[2025-02-25 06:43:44]Budget.ancien.xlsm is up to date
+[2025-02-25 06:43:44]Budget.xlsm is up to date
+[2025-02-25 06:43:44]statement-2020-05-12.csv is up to date
+[2025-02-25 06:43:44]statement.csv is up to date
+[2025-02-25 06:43:44]statement1.csv is up to date
+[2025-02-25 06:43:44]statement2.csv is up to date
+[2025-02-25 06:43:44]TEST.html is up to date
+[2025-02-25 06:43:44]TMDb.txt is up to date
+[2025-02-25 06:43:44]toto.txt is up to date
+[2025-02-25 06:43:44]tryu.txt is up to date
+[2025-02-25 06:43:44]UdeM.txt is up to date
+[2025-02-25 06:43:44]UHTX-ERKFKS-FMFJF.txt is up to date
+[2025-02-25 06:43:44]uid is up to date
+[2025-02-25 06:43:44]user-358191-trades-1704.csv is up to date
+[2025-02-25 06:43:44]user-358191-trades-1705.csv is up to date
+[2025-02-25 06:43:44]user-358191-trades-1706.csv is up to date
+[2025-02-25 06:43:44]user-358191-trades-1707.csv is up to date
+[2025-02-25 06:43:44]user-358191-trades-1708.csv is up to date
+[2025-02-25 06:43:44]user-358191-trades-1709.csv is up to date
+[2025-02-25 06:43:44]UTC--2017-06-06T01-15-13.570480500Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:43:44]UTC--2017-06-14T00-27-50.408Z--bdf88ba80451c30b2bb2d93d7dcf872771b18768 is up to date
+[2025-02-25 06:43:44]UTC--2017-06-19T14-35-43.258Z--73af203443e96780732b8c4c257f9ff8bf7824fa is up to date
+[2025-02-25 06:43:44]UTC--2017-06-24T01-13-14.193Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:43:44]Wallet.txt is up to date
+[2025-02-25 06:43:44]wallet1.txt is up to date
+[2025-02-25 06:43:44]xyz.zip is up to date
+[2025-02-25 06:43:44]Budget nourriture canine et entraînement.xlsx is copied
+[2025-02-25 06:43:44]bull-bitcoin-orders-Fri Apr 08 2022 17_05_35 GMT-0400 (heure d’été de l’Est).csv is copied
+[2025-02-25 06:43:44]Nouveau Microsoft Publisher Document.pub is copied
+[2025-02-25 06:43:44]statement (2).xlsx is copied
+[2025-02-25 06:43:44]Tendances des dépenses passées.xlsm is copied
+[2025-02-25 06:43:44]toto (2).txt is copied
+[2025-02-25 06:43:44]VISA DOLLARDS.csv is copied
+[2025-02-25 06:43:44]wallet1 - Copie.txt is copied
+[2025-02-25 06:43:44][2025-02-25 06:43:44] sync: 33; update: 8; delete: 0;
+[2025-02-25 06:44:04]folder: ONLINE
+[2025-02-25 06:44:04]backup: ONLINE
+[2025-02-25 06:44:04]Blocktrail.apikey.txt is up to date
+[2025-02-25 06:44:04]Budget-Décembre-2019.xlsm is up to date
+[2025-02-25 06:44:04]Budget-Février-2020.xlsm is up to date
+[2025-02-25 06:44:04]Budget-Janvier-2020.xlsm is up to date
+[2025-02-25 06:44:04]Budget-Mars-2020-test.xlsm is up to date
+[2025-02-25 06:44:04]Budget-Mars-2020.xlsm is up to date
+[2025-02-25 06:44:04]Budget-Septembre-2019.xlsm is up to date
+[2025-02-25 06:44:04]Budget.ancien.xlsm is up to date
+[2025-02-25 06:44:04]Budget.xlsm is up to date
+[2025-02-25 06:44:04]statement-2020-05-12.csv is up to date
+[2025-02-25 06:44:04]statement.csv is up to date
+[2025-02-25 06:44:04]statement1.csv is up to date
+[2025-02-25 06:44:04]statement2.csv is up to date
+[2025-02-25 06:44:04]TEST.html is up to date
+[2025-02-25 06:44:04]TMDb.txt is up to date
+[2025-02-25 06:44:04]toto.txt is up to date
+[2025-02-25 06:44:04]tryu.txt is up to date
+[2025-02-25 06:44:04]UdeM.txt is up to date
+[2025-02-25 06:44:04]UHTX-ERKFKS-FMFJF.txt is up to date
+[2025-02-25 06:44:04]uid is up to date
+[2025-02-25 06:44:04]user-358191-trades-1704.csv is up to date
+[2025-02-25 06:44:04]user-358191-trades-1705.csv is up to date
+[2025-02-25 06:44:04]user-358191-trades-1706.csv is up to date
+[2025-02-25 06:44:04]user-358191-trades-1707.csv is up to date
+[2025-02-25 06:44:04]user-358191-trades-1708.csv is up to date
+[2025-02-25 06:44:04]user-358191-trades-1709.csv is up to date
+[2025-02-25 06:44:04]UTC--2017-06-06T01-15-13.570480500Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:44:04]UTC--2017-06-14T00-27-50.408Z--bdf88ba80451c30b2bb2d93d7dcf872771b18768 is up to date
+[2025-02-25 06:44:04]UTC--2017-06-19T14-35-43.258Z--73af203443e96780732b8c4c257f9ff8bf7824fa is up to date
+[2025-02-25 06:44:04]UTC--2017-06-24T01-13-14.193Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:44:04]Wallet.txt is up to date
+[2025-02-25 06:44:04]wallet1.txt is up to date
+[2025-02-25 06:44:04]xyz.zip is up to date
+[2025-02-25 06:44:04]Budget nourriture canine et entraînement.xlsx is copied
+[2025-02-25 06:44:04]bull-bitcoin-orders-Fri Apr 08 2022 17_05_35 GMT-0400 (heure d’été de l’Est).csv is copied
+[2025-02-25 06:44:04]Nouveau Microsoft Publisher Document.pub is copied
+[2025-02-25 06:44:04]statement (2).xlsx is copied
+[2025-02-25 06:44:04]Tendances des dépenses passées.xlsm is copied
+[2025-02-25 06:44:04]toto (2).txt is copied
+[2025-02-25 06:44:04]VISA DOLLARDS.csv is copied
+[2025-02-25 06:44:04]wallet1 - Copie.txt is copied
+[2025-02-25 06:44:04][2025-02-25 06:44:04] sync: 33; update: 8; delete: 0;
+[2025-02-25 06:44:24]folder: ONLINE
+[2025-02-25 06:44:24]backup: ONLINE
+[2025-02-25 06:44:24]Blocktrail.apikey.txt is up to date
+[2025-02-25 06:44:24]Budget-Décembre-2019.xlsm is up to date
+[2025-02-25 06:44:24]Budget-Février-2020.xlsm is up to date
+[2025-02-25 06:44:24]Budget-Janvier-2020.xlsm is up to date
+[2025-02-25 06:44:24]Budget-Mars-2020-test.xlsm is up to date
+[2025-02-25 06:44:24]Budget-Mars-2020.xlsm is up to date
+[2025-02-25 06:44:24]Budget-Septembre-2019.xlsm is up to date
+[2025-02-25 06:44:24]Budget.ancien.xlsm is up to date
+[2025-02-25 06:44:24]Budget.xlsm is up to date
+[2025-02-25 06:44:24]statement-2020-05-12.csv is up to date
+[2025-02-25 06:44:24]statement.csv is up to date
+[2025-02-25 06:44:24]statement1.csv is up to date
+[2025-02-25 06:44:24]statement2.csv is up to date
+[2025-02-25 06:44:24]TEST.html is up to date
+[2025-02-25 06:44:24]TMDb.txt is up to date
+[2025-02-25 06:44:24]toto.txt is up to date
+[2025-02-25 06:44:24]tryu.txt is up to date
+[2025-02-25 06:44:24]UdeM.txt is up to date
+[2025-02-25 06:44:24]UHTX-ERKFKS-FMFJF.txt is up to date
+[2025-02-25 06:44:24]uid is up to date
+[2025-02-25 06:44:24]user-358191-trades-1704.csv is up to date
+[2025-02-25 06:44:24]user-358191-trades-1705.csv is up to date
+[2025-02-25 06:44:24]user-358191-trades-1706.csv is up to date
+[2025-02-25 06:44:24]user-358191-trades-1707.csv is up to date
+[2025-02-25 06:44:24]user-358191-trades-1708.csv is up to date
+[2025-02-25 06:44:24]user-358191-trades-1709.csv is up to date
+[2025-02-25 06:44:24]UTC--2017-06-06T01-15-13.570480500Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:44:24]UTC--2017-06-14T00-27-50.408Z--bdf88ba80451c30b2bb2d93d7dcf872771b18768 is up to date
+[2025-02-25 06:44:24]UTC--2017-06-19T14-35-43.258Z--73af203443e96780732b8c4c257f9ff8bf7824fa is up to date
+[2025-02-25 06:44:24]UTC--2017-06-24T01-13-14.193Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:44:24]Wallet.txt is up to date
+[2025-02-25 06:44:24]wallet1.txt is up to date
+[2025-02-25 06:44:24]xyz.zip is up to date
+[2025-02-25 06:44:24]Budget nourriture canine et entraînement.xlsx is copied
+[2025-02-25 06:44:24]bull-bitcoin-orders-Fri Apr 08 2022 17_05_35 GMT-0400 (heure d’été de l’Est).csv is copied
+[2025-02-25 06:44:24]Nouveau Microsoft Publisher Document.pub is copied
+[2025-02-25 06:44:24]statement (2).xlsx is copied
+[2025-02-25 06:44:24]Tendances des dépenses passées.xlsm is copied
+[2025-02-25 06:44:24]toto (2).txt is copied
+[2025-02-25 06:44:24]VISA DOLLARDS.csv is copied
+[2025-02-25 06:44:24]wallet1 - Copie.txt is copied
+[2025-02-25 06:44:24][2025-02-25 06:44:24] sync: 33; update: 8; delete: 0;
+[2025-02-25 06:44:44]folder: ONLINE
+[2025-02-25 06:44:44]backup: ONLINE
+[2025-02-25 06:44:44]Blocktrail.apikey.txt is up to date
+[2025-02-25 06:44:44]Budget-Décembre-2019.xlsm is up to date
+[2025-02-25 06:44:44]Budget-Février-2020.xlsm is up to date
+[2025-02-25 06:44:44]Budget-Janvier-2020.xlsm is up to date
+[2025-02-25 06:44:44]Budget-Mars-2020-test.xlsm is up to date
+[2025-02-25 06:44:44]Budget-Mars-2020.xlsm is up to date
+[2025-02-25 06:44:44]Budget-Septembre-2019.xlsm is up to date
+[2025-02-25 06:44:44]Budget.ancien.xlsm is up to date
+[2025-02-25 06:44:44]Budget.xlsm is up to date
+[2025-02-25 06:44:44]statement-2020-05-12.csv is up to date
+[2025-02-25 06:44:44]statement.csv is up to date
+[2025-02-25 06:44:44]statement1.csv is up to date
+[2025-02-25 06:44:44]statement2.csv is up to date
+[2025-02-25 06:44:44]TEST.html is up to date
+[2025-02-25 06:44:44]TMDb.txt is up to date
+[2025-02-25 06:44:44]toto.txt is up to date
+[2025-02-25 06:44:44]tryu.txt is up to date
+[2025-02-25 06:44:44]UdeM.txt is up to date
+[2025-02-25 06:44:44]UHTX-ERKFKS-FMFJF.txt is up to date
+[2025-02-25 06:44:44]uid is up to date
+[2025-02-25 06:44:44]user-358191-trades-1704.csv is up to date
+[2025-02-25 06:44:44]user-358191-trades-1705.csv is up to date
+[2025-02-25 06:44:44]user-358191-trades-1706.csv is up to date
+[2025-02-25 06:44:44]user-358191-trades-1707.csv is up to date
+[2025-02-25 06:44:44]user-358191-trades-1708.csv is up to date
+[2025-02-25 06:44:44]user-358191-trades-1709.csv is up to date
+[2025-02-25 06:44:44]UTC--2017-06-06T01-15-13.570480500Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:44:44]UTC--2017-06-14T00-27-50.408Z--bdf88ba80451c30b2bb2d93d7dcf872771b18768 is up to date
+[2025-02-25 06:44:44]UTC--2017-06-19T14-35-43.258Z--73af203443e96780732b8c4c257f9ff8bf7824fa is up to date
+[2025-02-25 06:44:44]UTC--2017-06-24T01-13-14.193Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:44:44]Wallet.txt is up to date
+[2025-02-25 06:44:44]wallet1.txt is up to date
+[2025-02-25 06:44:44]xyz.zip is up to date
+[2025-02-25 06:44:44]Budget nourriture canine et entraînement.xlsx is copied
+[2025-02-25 06:44:44]bull-bitcoin-orders-Fri Apr 08 2022 17_05_35 GMT-0400 (heure d’été de l’Est).csv is copied
+[2025-02-25 06:44:44]Nouveau Microsoft Publisher Document.pub is copied
+[2025-02-25 06:44:44]statement (2).xlsx is copied
+[2025-02-25 06:44:44]Tendances des dépenses passées.xlsm is copied
+[2025-02-25 06:44:44]toto (2).txt is copied
+[2025-02-25 06:44:44]VISA DOLLARDS.csv is copied
+[2025-02-25 06:44:44]wallet1 - Copie.txt is copied
+[2025-02-25 06:44:44][2025-02-25 06:44:44] sync: 33; update: 8; delete: 0;
+[2025-02-25 06:45:04]folder: ONLINE
+[2025-02-25 06:45:04]backup: ONLINE
+[2025-02-25 06:45:04]Blocktrail.apikey.txt is up to date
+[2025-02-25 06:45:04]Budget-Décembre-2019.xlsm is up to date
+[2025-02-25 06:45:04]Budget-Février-2020.xlsm is up to date
+[2025-02-25 06:45:04]Budget-Janvier-2020.xlsm is up to date
+[2025-02-25 06:45:04]Budget-Mars-2020-test.xlsm is up to date
+[2025-02-25 06:45:04]Budget-Mars-2020.xlsm is up to date
+[2025-02-25 06:45:04]Budget-Septembre-2019.xlsm is up to date
+[2025-02-25 06:45:04]Budget.ancien.xlsm is up to date
+[2025-02-25 06:45:04]Budget.xlsm is up to date
+[2025-02-25 06:45:04]statement-2020-05-12.csv is up to date
+[2025-02-25 06:45:04]statement.csv is up to date
+[2025-02-25 06:45:04]statement1.csv is up to date
+[2025-02-25 06:45:04]statement2.csv is up to date
+[2025-02-25 06:45:04]TEST.html is up to date
+[2025-02-25 06:45:04]TMDb.txt is up to date
+[2025-02-25 06:45:04]toto.txt is up to date
+[2025-02-25 06:45:04]tryu.txt is up to date
+[2025-02-25 06:45:04]UdeM.txt is up to date
+[2025-02-25 06:45:04]UHTX-ERKFKS-FMFJF.txt is up to date
+[2025-02-25 06:45:04]uid is up to date
+[2025-02-25 06:45:04]user-358191-trades-1704.csv is up to date
+[2025-02-25 06:45:04]user-358191-trades-1705.csv is up to date
+[2025-02-25 06:45:04]user-358191-trades-1706.csv is up to date
+[2025-02-25 06:45:04]user-358191-trades-1707.csv is up to date
+[2025-02-25 06:45:04]user-358191-trades-1708.csv is up to date
+[2025-02-25 06:45:04]user-358191-trades-1709.csv is up to date
+[2025-02-25 06:45:04]UTC--2017-06-06T01-15-13.570480500Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:45:04]UTC--2017-06-14T00-27-50.408Z--bdf88ba80451c30b2bb2d93d7dcf872771b18768 is up to date
+[2025-02-25 06:45:04]UTC--2017-06-19T14-35-43.258Z--73af203443e96780732b8c4c257f9ff8bf7824fa is up to date
+[2025-02-25 06:45:04]UTC--2017-06-24T01-13-14.193Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:45:04]Wallet.txt is up to date
+[2025-02-25 06:45:04]wallet1.txt is up to date
+[2025-02-25 06:45:04]xyz.zip is up to date
+[2025-02-25 06:45:04]Budget nourriture canine et entraînement.xlsx is copied
+[2025-02-25 06:45:04]bull-bitcoin-orders-Fri Apr 08 2022 17_05_35 GMT-0400 (heure d’été de l’Est).csv is copied
+[2025-02-25 06:45:04]Nouveau Microsoft Publisher Document.pub is copied
+[2025-02-25 06:45:04]statement (2).xlsx is copied
+[2025-02-25 06:45:04]Tendances des dépenses passées.xlsm is copied
+[2025-02-25 06:45:04]toto (2).txt is copied
+[2025-02-25 06:45:04]VISA DOLLARDS.csv is copied
+[2025-02-25 06:45:04]wallet1 - Copie.txt is copied
+[2025-02-25 06:45:04][2025-02-25 06:45:04] sync: 33; update: 8; delete: 0;
+[2025-02-25 06:45:25]folder: ONLINE
+[2025-02-25 06:45:25]backup: ONLINE
+[2025-02-25 06:45:25]Blocktrail.apikey.txt is up to date
+[2025-02-25 06:45:25]Budget-Décembre-2019.xlsm is up to date
+[2025-02-25 06:45:25]Budget-Février-2020.xlsm is up to date
+[2025-02-25 06:45:25]Budget-Janvier-2020.xlsm is up to date
+[2025-02-25 06:45:25]Budget-Mars-2020-test.xlsm is up to date
+[2025-02-25 06:45:25]Budget-Mars-2020.xlsm is up to date
+[2025-02-25 06:45:25]Budget-Septembre-2019.xlsm is up to date
+[2025-02-25 06:45:25]Budget.ancien.xlsm is up to date
+[2025-02-25 06:45:25]Budget.xlsm is up to date
+[2025-02-25 06:45:25]statement-2020-05-12.csv is up to date
+[2025-02-25 06:45:25]statement.csv is up to date
+[2025-02-25 06:45:25]statement1.csv is up to date
+[2025-02-25 06:45:25]statement2.csv is up to date
+[2025-02-25 06:45:25]TEST.html is up to date
+[2025-02-25 06:45:25]TMDb.txt is up to date
+[2025-02-25 06:45:25]toto.txt is up to date
+[2025-02-25 06:45:25]tryu.txt is up to date
+[2025-02-25 06:45:25]UdeM.txt is up to date
+[2025-02-25 06:45:25]UHTX-ERKFKS-FMFJF.txt is up to date
+[2025-02-25 06:45:25]uid is up to date
+[2025-02-25 06:45:25]user-358191-trades-1704.csv is up to date
+[2025-02-25 06:45:25]user-358191-trades-1705.csv is up to date
+[2025-02-25 06:45:25]user-358191-trades-1706.csv is up to date
+[2025-02-25 06:45:25]user-358191-trades-1707.csv is up to date
+[2025-02-25 06:45:25]user-358191-trades-1708.csv is up to date
+[2025-02-25 06:45:25]user-358191-trades-1709.csv is up to date
+[2025-02-25 06:45:25]UTC--2017-06-06T01-15-13.570480500Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:45:25]UTC--2017-06-14T00-27-50.408Z--bdf88ba80451c30b2bb2d93d7dcf872771b18768 is up to date
+[2025-02-25 06:45:25]UTC--2017-06-19T14-35-43.258Z--73af203443e96780732b8c4c257f9ff8bf7824fa is up to date
+[2025-02-25 06:45:25]UTC--2017-06-24T01-13-14.193Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:45:25]Wallet.txt is up to date
+[2025-02-25 06:45:25]wallet1.txt is up to date
+[2025-02-25 06:45:25]xyz.zip is up to date
+[2025-02-25 06:45:25]Budget nourriture canine et entraînement.xlsx is copied
+[2025-02-25 06:45:25]bull-bitcoin-orders-Fri Apr 08 2022 17_05_35 GMT-0400 (heure d’été de l’Est).csv is copied
+[2025-02-25 06:45:25]Nouveau Microsoft Publisher Document.pub is copied
+[2025-02-25 06:45:25]statement (2).xlsx is copied
+[2025-02-25 06:45:25]Tendances des dépenses passées.xlsm is copied
+[2025-02-25 06:45:25]toto (2).txt is copied
+[2025-02-25 06:45:25]VISA DOLLARDS.csv is copied
+[2025-02-25 06:45:25]wallet1 - Copie.txt is copied
+[2025-02-25 06:45:25][2025-02-25 06:45:25] sync: 33; update: 8; delete: 0;
+[2025-02-25 06:45:45]folder: ONLINE
+[2025-02-25 06:45:45]backup: ONLINE
+[2025-02-25 06:45:45]Blocktrail.apikey.txt is up to date
+[2025-02-25 06:45:45]Budget-Décembre-2019.xlsm is up to date
+[2025-02-25 06:45:45]Budget-Février-2020.xlsm is up to date
+[2025-02-25 06:45:45]Budget-Janvier-2020.xlsm is up to date
+[2025-02-25 06:45:45]Budget-Mars-2020-test.xlsm is up to date
+[2025-02-25 06:45:45]Budget-Mars-2020.xlsm is up to date
+[2025-02-25 06:45:45]Budget-Septembre-2019.xlsm is up to date
+[2025-02-25 06:45:45]Budget.ancien.xlsm is up to date
+[2025-02-25 06:45:45]Budget.xlsm is up to date
+[2025-02-25 06:45:45]statement-2020-05-12.csv is up to date
+[2025-02-25 06:45:45]statement.csv is up to date
+[2025-02-25 06:45:45]statement1.csv is up to date
+[2025-02-25 06:45:45]statement2.csv is up to date
+[2025-02-25 06:45:45]TEST.html is up to date
+[2025-02-25 06:45:45]TMDb.txt is up to date
+[2025-02-25 06:45:45]toto.txt is up to date
+[2025-02-25 06:45:45]tryu.txt is up to date
+[2025-02-25 06:45:45]UdeM.txt is up to date
+[2025-02-25 06:45:45]UHTX-ERKFKS-FMFJF.txt is up to date
+[2025-02-25 06:45:45]uid is up to date
+[2025-02-25 06:45:45]user-358191-trades-1704.csv is up to date
+[2025-02-25 06:45:45]user-358191-trades-1705.csv is up to date
+[2025-02-25 06:45:45]user-358191-trades-1706.csv is up to date
+[2025-02-25 06:45:45]user-358191-trades-1707.csv is up to date
+[2025-02-25 06:45:45]user-358191-trades-1708.csv is up to date
+[2025-02-25 06:45:45]user-358191-trades-1709.csv is up to date
+[2025-02-25 06:45:45]UTC--2017-06-06T01-15-13.570480500Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:45:45]UTC--2017-06-14T00-27-50.408Z--bdf88ba80451c30b2bb2d93d7dcf872771b18768 is up to date
+[2025-02-25 06:45:45]UTC--2017-06-19T14-35-43.258Z--73af203443e96780732b8c4c257f9ff8bf7824fa is up to date
+[2025-02-25 06:45:45]UTC--2017-06-24T01-13-14.193Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:45:45]Wallet.txt is up to date
+[2025-02-25 06:45:45]wallet1.txt is up to date
+[2025-02-25 06:45:45]xyz.zip is up to date
+[2025-02-25 06:45:45]Budget nourriture canine et entraînement.xlsx is copied
+[2025-02-25 06:45:45]bull-bitcoin-orders-Fri Apr 08 2022 17_05_35 GMT-0400 (heure d’été de l’Est).csv is copied
+[2025-02-25 06:45:45]Nouveau Microsoft Publisher Document.pub is copied
+[2025-02-25 06:45:45]statement (2).xlsx is copied
+[2025-02-25 06:45:45]Tendances des dépenses passées.xlsm is copied
+[2025-02-25 06:45:45]toto (2).txt is copied
+[2025-02-25 06:45:45]VISA DOLLARDS.csv is copied
+[2025-02-25 06:45:45]wallet1 - Copie.txt is copied
+[2025-02-25 06:45:45][2025-02-25 06:45:45] sync: 33; update: 8; delete: 0;
+[2025-02-25 06:46:05]folder: ONLINE
+[2025-02-25 06:46:05]backup: ONLINE
+[2025-02-25 06:46:05]Blocktrail.apikey.txt is up to date
+[2025-02-25 06:46:05]Budget-Décembre-2019.xlsm is up to date
+[2025-02-25 06:46:05]Budget-Février-2020.xlsm is up to date
+[2025-02-25 06:46:05]Budget-Janvier-2020.xlsm is up to date
+[2025-02-25 06:46:05]Budget-Mars-2020-test.xlsm is up to date
+[2025-02-25 06:46:05]Budget-Mars-2020.xlsm is up to date
+[2025-02-25 06:46:05]Budget-Septembre-2019.xlsm is up to date
+[2025-02-25 06:46:05]Budget.ancien.xlsm is up to date
+[2025-02-25 06:46:05]Budget.xlsm is up to date
+[2025-02-25 06:46:05]statement-2020-05-12.csv is up to date
+[2025-02-25 06:46:05]statement.csv is up to date
+[2025-02-25 06:46:05]statement1.csv is up to date
+[2025-02-25 06:46:05]statement2.csv is up to date
+[2025-02-25 06:46:05]TEST.html is up to date
+[2025-02-25 06:46:05]TMDb.txt is up to date
+[2025-02-25 06:46:05]toto.txt is up to date
+[2025-02-25 06:46:05]tryu.txt is up to date
+[2025-02-25 06:46:05]UdeM.txt is up to date
+[2025-02-25 06:46:05]UHTX-ERKFKS-FMFJF.txt is up to date
+[2025-02-25 06:46:05]uid is up to date
+[2025-02-25 06:46:05]user-358191-trades-1704.csv is up to date
+[2025-02-25 06:46:05]user-358191-trades-1705.csv is up to date
+[2025-02-25 06:46:05]user-358191-trades-1706.csv is up to date
+[2025-02-25 06:46:05]user-358191-trades-1707.csv is up to date
+[2025-02-25 06:46:05]user-358191-trades-1708.csv is up to date
+[2025-02-25 06:46:05]user-358191-trades-1709.csv is up to date
+[2025-02-25 06:46:05]UTC--2017-06-06T01-15-13.570480500Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:46:05]UTC--2017-06-14T00-27-50.408Z--bdf88ba80451c30b2bb2d93d7dcf872771b18768 is up to date
+[2025-02-25 06:46:05]UTC--2017-06-19T14-35-43.258Z--73af203443e96780732b8c4c257f9ff8bf7824fa is up to date
+[2025-02-25 06:46:05]UTC--2017-06-24T01-13-14.193Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:46:05]Wallet.txt is up to date
+[2025-02-25 06:46:05]wallet1.txt is up to date
+[2025-02-25 06:46:05]xyz.zip is up to date
+[2025-02-25 06:46:05]Budget nourriture canine et entraînement.xlsx is copied
+[2025-02-25 06:46:05]bull-bitcoin-orders-Fri Apr 08 2022 17_05_35 GMT-0400 (heure d’été de l’Est).csv is copied
+[2025-02-25 06:46:05]Nouveau Microsoft Publisher Document.pub is copied
+[2025-02-25 06:46:05]statement (2).xlsx is copied
+[2025-02-25 06:46:05]Tendances des dépenses passées.xlsm is copied
+[2025-02-25 06:46:05]toto (2).txt is copied
+[2025-02-25 06:46:05]VISA DOLLARDS.csv is copied
+[2025-02-25 06:46:05]wallet1 - Copie.txt is copied
+[2025-02-25 06:46:05][2025-02-25 06:46:05] sync: 33; update: 8; delete: 0;
+[2025-02-25 06:46:25]folder: ONLINE
+[2025-02-25 06:46:25]backup: ONLINE
+[2025-02-25 06:46:25]Blocktrail.apikey.txt is up to date
+[2025-02-25 06:46:25]Budget-Décembre-2019.xlsm is up to date
+[2025-02-25 06:46:25]Budget-Février-2020.xlsm is up to date
+[2025-02-25 06:46:25]Budget-Janvier-2020.xlsm is up to date
+[2025-02-25 06:46:25]Budget-Mars-2020-test.xlsm is up to date
+[2025-02-25 06:46:25]Budget-Mars-2020.xlsm is up to date
+[2025-02-25 06:46:25]Budget-Septembre-2019.xlsm is up to date
+[2025-02-25 06:46:25]Budget.ancien.xlsm is up to date
+[2025-02-25 06:46:25]Budget.xlsm is up to date
+[2025-02-25 06:46:25]statement-2020-05-12.csv is up to date
+[2025-02-25 06:46:25]statement.csv is up to date
+[2025-02-25 06:46:25]statement1.csv is up to date
+[2025-02-25 06:46:25]statement2.csv is up to date
+[2025-02-25 06:46:25]TEST.html is up to date
+[2025-02-25 06:46:25]TMDb.txt is up to date
+[2025-02-25 06:46:25]toto.txt is up to date
+[2025-02-25 06:46:25]tryu.txt is up to date
+[2025-02-25 06:46:25]UdeM.txt is up to date
+[2025-02-25 06:46:25]UHTX-ERKFKS-FMFJF.txt is up to date
+[2025-02-25 06:46:25]uid is up to date
+[2025-02-25 06:46:25]user-358191-trades-1704.csv is up to date
+[2025-02-25 06:46:25]user-358191-trades-1705.csv is up to date
+[2025-02-25 06:46:25]user-358191-trades-1706.csv is up to date
+[2025-02-25 06:46:25]user-358191-trades-1707.csv is up to date
+[2025-02-25 06:46:25]user-358191-trades-1708.csv is up to date
+[2025-02-25 06:46:25]user-358191-trades-1709.csv is up to date
+[2025-02-25 06:46:25]UTC--2017-06-06T01-15-13.570480500Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:46:25]UTC--2017-06-14T00-27-50.408Z--bdf88ba80451c30b2bb2d93d7dcf872771b18768 is up to date
+[2025-02-25 06:46:25]UTC--2017-06-19T14-35-43.258Z--73af203443e96780732b8c4c257f9ff8bf7824fa is up to date
+[2025-02-25 06:46:25]UTC--2017-06-24T01-13-14.193Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:46:25]Wallet.txt is up to date
+[2025-02-25 06:46:25]wallet1.txt is up to date
+[2025-02-25 06:46:25]xyz.zip is up to date
+[2025-02-25 06:46:25]Budget nourriture canine et entraînement.xlsx is copied
+[2025-02-25 06:46:25]bull-bitcoin-orders-Fri Apr 08 2022 17_05_35 GMT-0400 (heure d’été de l’Est).csv is copied
+[2025-02-25 06:46:25]Nouveau Microsoft Publisher Document.pub is copied
+[2025-02-25 06:46:25]statement (2).xlsx is copied
+[2025-02-25 06:46:25]Tendances des dépenses passées.xlsm is copied
+[2025-02-25 06:46:25]toto (2).txt is copied
+[2025-02-25 06:46:25]VISA DOLLARDS.csv is copied
+[2025-02-25 06:46:25]wallet1 - Copie.txt is copied
+[2025-02-25 06:46:25][2025-02-25 06:46:25] sync: 33; update: 8; delete: 0;
+[2025-02-25 06:46:45]folder: ONLINE
+[2025-02-25 06:46:45]backup: ONLINE
+[2025-02-25 06:46:45]Blocktrail.apikey.txt is up to date
+[2025-02-25 06:46:45]Budget-Décembre-2019.xlsm is up to date
+[2025-02-25 06:46:45]Budget-Février-2020.xlsm is up to date
+[2025-02-25 06:46:45]Budget-Janvier-2020.xlsm is up to date
+[2025-02-25 06:46:45]Budget-Mars-2020-test.xlsm is up to date
+[2025-02-25 06:46:45]Budget-Mars-2020.xlsm is up to date
+[2025-02-25 06:46:45]Budget-Septembre-2019.xlsm is up to date
+[2025-02-25 06:46:45]Budget.ancien.xlsm is up to date
+[2025-02-25 06:46:45]Budget.xlsm is up to date
+[2025-02-25 06:46:45]statement-2020-05-12.csv is up to date
+[2025-02-25 06:46:45]statement.csv is up to date
+[2025-02-25 06:46:45]statement1.csv is up to date
+[2025-02-25 06:46:45]statement2.csv is up to date
+[2025-02-25 06:46:45]TEST.html is up to date
+[2025-02-25 06:46:45]TMDb.txt is up to date
+[2025-02-25 06:46:45]toto.txt is up to date
+[2025-02-25 06:46:45]tryu.txt is up to date
+[2025-02-25 06:46:45]UdeM.txt is up to date
+[2025-02-25 06:46:45]UHTX-ERKFKS-FMFJF.txt is up to date
+[2025-02-25 06:46:45]uid is up to date
+[2025-02-25 06:46:45]user-358191-trades-1704.csv is up to date
+[2025-02-25 06:46:45]user-358191-trades-1705.csv is up to date
+[2025-02-25 06:46:45]user-358191-trades-1706.csv is up to date
+[2025-02-25 06:46:45]user-358191-trades-1707.csv is up to date
+[2025-02-25 06:46:45]user-358191-trades-1708.csv is up to date
+[2025-02-25 06:46:45]user-358191-trades-1709.csv is up to date
+[2025-02-25 06:46:45]UTC--2017-06-06T01-15-13.570480500Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:46:45]UTC--2017-06-14T00-27-50.408Z--bdf88ba80451c30b2bb2d93d7dcf872771b18768 is up to date
+[2025-02-25 06:46:45]UTC--2017-06-19T14-35-43.258Z--73af203443e96780732b8c4c257f9ff8bf7824fa is up to date
+[2025-02-25 06:46:45]UTC--2017-06-24T01-13-14.193Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:46:45]Wallet.txt is up to date
+[2025-02-25 06:46:45]wallet1.txt is up to date
+[2025-02-25 06:46:45]xyz.zip is up to date
+[2025-02-25 06:46:45]Budget nourriture canine et entraînement.xlsx is copied
+[2025-02-25 06:46:45]bull-bitcoin-orders-Fri Apr 08 2022 17_05_35 GMT-0400 (heure d’été de l’Est).csv is copied
+[2025-02-25 06:46:45]Nouveau Microsoft Publisher Document.pub is copied
+[2025-02-25 06:46:45]statement (2).xlsx is copied
+[2025-02-25 06:46:45]Tendances des dépenses passées.xlsm is copied
+[2025-02-25 06:46:45]toto (2).txt is copied
+[2025-02-25 06:46:45]VISA DOLLARDS.csv is copied
+[2025-02-25 06:46:45]wallet1 - Copie.txt is copied
+[2025-02-25 06:46:45][2025-02-25 06:46:45] sync: 33; update: 8; delete: 0;
+[2025-02-25 06:47:05]folder: ONLINE
+[2025-02-25 06:47:05]backup: ONLINE
+[2025-02-25 06:47:05]Blocktrail.apikey.txt is up to date
+[2025-02-25 06:47:05]Budget-Décembre-2019.xlsm is up to date
+[2025-02-25 06:47:05]Budget-Février-2020.xlsm is up to date
+[2025-02-25 06:47:05]Budget-Janvier-2020.xlsm is up to date
+[2025-02-25 06:47:05]Budget-Mars-2020-test.xlsm is up to date
+[2025-02-25 06:47:05]Budget-Mars-2020.xlsm is up to date
+[2025-02-25 06:47:05]Budget-Septembre-2019.xlsm is up to date
+[2025-02-25 06:47:05]Budget.ancien.xlsm is up to date
+[2025-02-25 06:47:05]Budget.xlsm is up to date
+[2025-02-25 06:47:05]statement-2020-05-12.csv is up to date
+[2025-02-25 06:47:05]statement.csv is up to date
+[2025-02-25 06:47:05]statement1.csv is up to date
+[2025-02-25 06:47:05]statement2.csv is up to date
+[2025-02-25 06:47:05]TEST.html is up to date
+[2025-02-25 06:47:05]TMDb.txt is up to date
+[2025-02-25 06:47:05]toto.txt is up to date
+[2025-02-25 06:47:05]tryu.txt is up to date
+[2025-02-25 06:47:05]UdeM.txt is up to date
+[2025-02-25 06:47:05]UHTX-ERKFKS-FMFJF.txt is up to date
+[2025-02-25 06:47:05]uid is up to date
+[2025-02-25 06:47:05]user-358191-trades-1704.csv is up to date
+[2025-02-25 06:47:05]user-358191-trades-1705.csv is up to date
+[2025-02-25 06:47:05]user-358191-trades-1706.csv is up to date
+[2025-02-25 06:47:05]user-358191-trades-1707.csv is up to date
+[2025-02-25 06:47:05]user-358191-trades-1708.csv is up to date
+[2025-02-25 06:47:05]user-358191-trades-1709.csv is up to date
+[2025-02-25 06:47:05]UTC--2017-06-06T01-15-13.570480500Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:47:05]UTC--2017-06-14T00-27-50.408Z--bdf88ba80451c30b2bb2d93d7dcf872771b18768 is up to date
+[2025-02-25 06:47:05]UTC--2017-06-19T14-35-43.258Z--73af203443e96780732b8c4c257f9ff8bf7824fa is up to date
+[2025-02-25 06:47:05]UTC--2017-06-24T01-13-14.193Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:47:05]Wallet.txt is up to date
+[2025-02-25 06:47:05]wallet1.txt is up to date
+[2025-02-25 06:47:05]xyz.zip is up to date
+[2025-02-25 06:47:05]Budget nourriture canine et entraînement.xlsx is copied
+[2025-02-25 06:47:05]bull-bitcoin-orders-Fri Apr 08 2022 17_05_35 GMT-0400 (heure d’été de l’Est).csv is copied
+[2025-02-25 06:47:05]Nouveau Microsoft Publisher Document.pub is copied
+[2025-02-25 06:47:05]statement (2).xlsx is copied
+[2025-02-25 06:47:06]Tendances des dépenses passées.xlsm is copied
+[2025-02-25 06:47:06]toto (2).txt is copied
+[2025-02-25 06:47:06]VISA DOLLARDS.csv is copied
+[2025-02-25 06:47:06]wallet1 - Copie.txt is copied
+[2025-02-25 06:47:06][2025-02-25 06:47:06] sync: 33; update: 8; delete: 0;
+[2025-02-25 06:47:26]folder: ONLINE
+[2025-02-25 06:47:26]backup: ONLINE
+[2025-02-25 06:47:26]Blocktrail.apikey.txt is up to date
+[2025-02-25 06:47:26]Budget-Décembre-2019.xlsm is up to date
+[2025-02-25 06:47:26]Budget-Février-2020.xlsm is up to date
+[2025-02-25 06:47:26]Budget-Janvier-2020.xlsm is up to date
+[2025-02-25 06:47:26]Budget-Mars-2020-test.xlsm is up to date
+[2025-02-25 06:47:26]Budget-Mars-2020.xlsm is up to date
+[2025-02-25 06:47:26]Budget-Septembre-2019.xlsm is up to date
+[2025-02-25 06:47:26]Budget.ancien.xlsm is up to date
+[2025-02-25 06:47:26]Budget.xlsm is up to date
+[2025-02-25 06:47:26]statement-2020-05-12.csv is up to date
+[2025-02-25 06:47:26]statement.csv is up to date
+[2025-02-25 06:47:26]statement1.csv is up to date
+[2025-02-25 06:47:26]statement2.csv is up to date
+[2025-02-25 06:47:26]TEST.html is up to date
+[2025-02-25 06:47:26]TMDb.txt is up to date
+[2025-02-25 06:47:26]toto.txt is up to date
+[2025-02-25 06:47:26]tryu.txt is up to date
+[2025-02-25 06:47:26]UdeM.txt is up to date
+[2025-02-25 06:47:26]UHTX-ERKFKS-FMFJF.txt is up to date
+[2025-02-25 06:47:26]uid is up to date
+[2025-02-25 06:47:26]user-358191-trades-1704.csv is up to date
+[2025-02-25 06:47:26]user-358191-trades-1705.csv is up to date
+[2025-02-25 06:47:26]user-358191-trades-1706.csv is up to date
+[2025-02-25 06:47:26]user-358191-trades-1707.csv is up to date
+[2025-02-25 06:47:26]user-358191-trades-1708.csv is up to date
+[2025-02-25 06:47:26]user-358191-trades-1709.csv is up to date
+[2025-02-25 06:47:26]UTC--2017-06-06T01-15-13.570480500Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:47:26]UTC--2017-06-14T00-27-50.408Z--bdf88ba80451c30b2bb2d93d7dcf872771b18768 is up to date
+[2025-02-25 06:47:26]UTC--2017-06-19T14-35-43.258Z--73af203443e96780732b8c4c257f9ff8bf7824fa is up to date
+[2025-02-25 06:47:26]UTC--2017-06-24T01-13-14.193Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:47:26]Wallet.txt is up to date
+[2025-02-25 06:47:26]wallet1.txt is up to date
+[2025-02-25 06:47:26]xyz.zip is up to date
+[2025-02-25 06:47:26]Budget nourriture canine et entraînement.xlsx is copied
+[2025-02-25 06:47:26]bull-bitcoin-orders-Fri Apr 08 2022 17_05_35 GMT-0400 (heure d’été de l’Est).csv is copied
+[2025-02-25 06:47:26]Nouveau Microsoft Publisher Document.pub is copied
+[2025-02-25 06:47:26]statement (2).xlsx is copied
+[2025-02-25 06:47:26]Tendances des dépenses passées.xlsm is copied
+[2025-02-25 06:47:26]toto (2).txt is copied
+[2025-02-25 06:47:26]VISA DOLLARDS.csv is copied
+[2025-02-25 06:47:26]wallet1 - Copie.txt is copied
+[2025-02-25 06:47:26][2025-02-25 06:47:26] sync: 33; update: 8; delete: 0;
+[2025-02-25 06:47:46]folder: ONLINE
+[2025-02-25 06:47:46]backup: ONLINE
+[2025-02-25 06:47:46]Blocktrail.apikey.txt is up to date
+[2025-02-25 06:47:46]Budget-Décembre-2019.xlsm is up to date
+[2025-02-25 06:47:46]Budget-Février-2020.xlsm is up to date
+[2025-02-25 06:47:46]Budget-Janvier-2020.xlsm is up to date
+[2025-02-25 06:47:46]Budget-Mars-2020-test.xlsm is up to date
+[2025-02-25 06:47:46]Budget-Mars-2020.xlsm is up to date
+[2025-02-25 06:47:46]Budget-Septembre-2019.xlsm is up to date
+[2025-02-25 06:47:46]Budget.ancien.xlsm is up to date
+[2025-02-25 06:47:46]Budget.xlsm is up to date
+[2025-02-25 06:47:46]statement-2020-05-12.csv is up to date
+[2025-02-25 06:47:46]statement.csv is up to date
+[2025-02-25 06:47:46]statement1.csv is up to date
+[2025-02-25 06:47:46]statement2.csv is up to date
+[2025-02-25 06:47:46]TEST.html is up to date
+[2025-02-25 06:47:46]TMDb.txt is up to date
+[2025-02-25 06:47:46]toto.txt is up to date
+[2025-02-25 06:47:46]tryu.txt is up to date
+[2025-02-25 06:47:46]UdeM.txt is up to date
+[2025-02-25 06:47:46]UHTX-ERKFKS-FMFJF.txt is up to date
+[2025-02-25 06:47:46]uid is up to date
+[2025-02-25 06:47:46]user-358191-trades-1704.csv is up to date
+[2025-02-25 06:47:46]user-358191-trades-1705.csv is up to date
+[2025-02-25 06:47:46]user-358191-trades-1706.csv is up to date
+[2025-02-25 06:47:46]user-358191-trades-1707.csv is up to date
+[2025-02-25 06:47:46]user-358191-trades-1708.csv is up to date
+[2025-02-25 06:47:46]user-358191-trades-1709.csv is up to date
+[2025-02-25 06:47:46]UTC--2017-06-06T01-15-13.570480500Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:47:46]UTC--2017-06-14T00-27-50.408Z--bdf88ba80451c30b2bb2d93d7dcf872771b18768 is up to date
+[2025-02-25 06:47:46]UTC--2017-06-19T14-35-43.258Z--73af203443e96780732b8c4c257f9ff8bf7824fa is up to date
+[2025-02-25 06:47:46]UTC--2017-06-24T01-13-14.193Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:47:46]Wallet.txt is up to date
+[2025-02-25 06:47:46]wallet1.txt is up to date
+[2025-02-25 06:47:46]xyz.zip is up to date
+[2025-02-25 06:47:46]Budget nourriture canine et entraînement.xlsx is copied
+[2025-02-25 06:47:46]bull-bitcoin-orders-Fri Apr 08 2022 17_05_35 GMT-0400 (heure d’été de l’Est).csv is copied
+[2025-02-25 06:47:46]Nouveau Microsoft Publisher Document.pub is copied
+[2025-02-25 06:47:46]statement (2).xlsx is copied
+[2025-02-25 06:47:46]Tendances des dépenses passées.xlsm is copied
+[2025-02-25 06:47:46]toto (2).txt is copied
+[2025-02-25 06:47:46]VISA DOLLARDS.csv is copied
+[2025-02-25 06:47:46]wallet1 - Copie.txt is copied
+[2025-02-25 06:47:46][2025-02-25 06:47:46] sync: 33; update: 8; delete: 0;
+[2025-02-25 06:48:06]folder: ONLINE
+[2025-02-25 06:48:06]backup: ONLINE
+[2025-02-25 06:48:06]Blocktrail.apikey.txt is up to date
+[2025-02-25 06:48:06]Budget-Décembre-2019.xlsm is up to date
+[2025-02-25 06:48:06]Budget-Février-2020.xlsm is up to date
+[2025-02-25 06:48:06]Budget-Janvier-2020.xlsm is up to date
+[2025-02-25 06:48:06]Budget-Mars-2020-test.xlsm is up to date
+[2025-02-25 06:48:06]Budget-Mars-2020.xlsm is up to date
+[2025-02-25 06:48:06]Budget-Septembre-2019.xlsm is up to date
+[2025-02-25 06:48:06]Budget.ancien.xlsm is up to date
+[2025-02-25 06:48:06]Budget.xlsm is up to date
+[2025-02-25 06:48:06]statement-2020-05-12.csv is up to date
+[2025-02-25 06:48:06]statement.csv is up to date
+[2025-02-25 06:48:06]statement1.csv is up to date
+[2025-02-25 06:48:06]statement2.csv is up to date
+[2025-02-25 06:48:06]TEST.html is up to date
+[2025-02-25 06:48:06]TMDb.txt is up to date
+[2025-02-25 06:48:06]toto.txt is up to date
+[2025-02-25 06:48:06]tryu.txt is up to date
+[2025-02-25 06:48:06]UdeM.txt is up to date
+[2025-02-25 06:48:06]UHTX-ERKFKS-FMFJF.txt is up to date
+[2025-02-25 06:48:06]uid is up to date
+[2025-02-25 06:48:06]user-358191-trades-1704.csv is up to date
+[2025-02-25 06:48:06]user-358191-trades-1705.csv is up to date
+[2025-02-25 06:48:06]user-358191-trades-1706.csv is up to date
+[2025-02-25 06:48:06]user-358191-trades-1707.csv is up to date
+[2025-02-25 06:48:06]user-358191-trades-1708.csv is up to date
+[2025-02-25 06:48:06]user-358191-trades-1709.csv is up to date
+[2025-02-25 06:48:06]UTC--2017-06-06T01-15-13.570480500Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:48:06]UTC--2017-06-14T00-27-50.408Z--bdf88ba80451c30b2bb2d93d7dcf872771b18768 is up to date
+[2025-02-25 06:48:06]UTC--2017-06-19T14-35-43.258Z--73af203443e96780732b8c4c257f9ff8bf7824fa is up to date
+[2025-02-25 06:48:06]UTC--2017-06-24T01-13-14.193Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:48:06]Wallet.txt is up to date
+[2025-02-25 06:48:06]wallet1.txt is up to date
+[2025-02-25 06:48:06]xyz.zip is up to date
+[2025-02-25 06:48:06]Budget nourriture canine et entraînement.xlsx is copied
+[2025-02-25 06:48:06]bull-bitcoin-orders-Fri Apr 08 2022 17_05_35 GMT-0400 (heure d’été de l’Est).csv is copied
+[2025-02-25 06:48:06]Nouveau Microsoft Publisher Document.pub is copied
+[2025-02-25 06:48:06]statement (2).xlsx is copied
+[2025-02-25 06:48:06]Tendances des dépenses passées.xlsm is copied
+[2025-02-25 06:48:06]toto (2).txt is copied
+[2025-02-25 06:48:06]VISA DOLLARDS.csv is copied
+[2025-02-25 06:48:06]wallet1 - Copie.txt is copied
+[2025-02-25 06:48:06][2025-02-25 06:48:06] sync: 33; update: 8; delete: 0;
+[2025-02-25 06:48:26]folder: ONLINE
+[2025-02-25 06:48:26]backup: ONLINE
+[2025-02-25 06:48:26]Blocktrail.apikey.txt is up to date
+[2025-02-25 06:48:26]Budget-Décembre-2019.xlsm is up to date
+[2025-02-25 06:48:26]Budget-Février-2020.xlsm is up to date
+[2025-02-25 06:48:26]Budget-Janvier-2020.xlsm is up to date
+[2025-02-25 06:48:26]Budget-Mars-2020-test.xlsm is up to date
+[2025-02-25 06:48:26]Budget-Mars-2020.xlsm is up to date
+[2025-02-25 06:48:26]Budget-Septembre-2019.xlsm is up to date
+[2025-02-25 06:48:26]Budget.ancien.xlsm is up to date
+[2025-02-25 06:48:26]Budget.xlsm is up to date
+[2025-02-25 06:48:26]statement-2020-05-12.csv is up to date
+[2025-02-25 06:48:26]statement.csv is up to date
+[2025-02-25 06:48:26]statement1.csv is up to date
+[2025-02-25 06:48:26]statement2.csv is up to date
+[2025-02-25 06:48:26]TEST.html is up to date
+[2025-02-25 06:48:26]TMDb.txt is up to date
+[2025-02-25 06:48:26]toto.txt is up to date
+[2025-02-25 06:48:26]tryu.txt is up to date
+[2025-02-25 06:48:26]UdeM.txt is up to date
+[2025-02-25 06:48:26]UHTX-ERKFKS-FMFJF.txt is up to date
+[2025-02-25 06:48:26]uid is up to date
+[2025-02-25 06:48:26]user-358191-trades-1704.csv is up to date
+[2025-02-25 06:48:26]user-358191-trades-1705.csv is up to date
+[2025-02-25 06:48:26]user-358191-trades-1706.csv is up to date
+[2025-02-25 06:48:26]user-358191-trades-1707.csv is up to date
+[2025-02-25 06:48:26]user-358191-trades-1708.csv is up to date
+[2025-02-25 06:48:26]user-358191-trades-1709.csv is up to date
+[2025-02-25 06:48:26]UTC--2017-06-06T01-15-13.570480500Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:48:26]UTC--2017-06-14T00-27-50.408Z--bdf88ba80451c30b2bb2d93d7dcf872771b18768 is up to date
+[2025-02-25 06:48:26]UTC--2017-06-19T14-35-43.258Z--73af203443e96780732b8c4c257f9ff8bf7824fa is up to date
+[2025-02-25 06:48:26]UTC--2017-06-24T01-13-14.193Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:48:26]Wallet.txt is up to date
+[2025-02-25 06:48:26]wallet1.txt is up to date
+[2025-02-25 06:48:26]xyz.zip is up to date
+[2025-02-25 06:48:26]Budget nourriture canine et entraînement.xlsx is copied
+[2025-02-25 06:48:26]bull-bitcoin-orders-Fri Apr 08 2022 17_05_35 GMT-0400 (heure d’été de l’Est).csv is copied
+[2025-02-25 06:48:26]Nouveau_Microsoft_Publisher.pub is copied
+[2025-02-25 06:48:26]statement (2).xlsx is copied
+[2025-02-25 06:48:26]Tendances des dépenses passées.xlsm is copied
+[2025-02-25 06:48:26]toto (2).txt is copied
+[2025-02-25 06:48:26]VISA DOLLARDS.csv is copied
+[2025-02-25 06:48:26]wallet1 - Copie.txt is copied
+[2025-02-25 06:48:26][2025-02-25 06:48:26] sync: 33; update: 8; delete: 0;
+[2025-02-25 06:48:46]folder: ONLINE
+[2025-02-25 06:48:46]backup: ONLINE
+[2025-02-25 06:48:46]Blocktrail.apikey.txt is up to date
+[2025-02-25 06:48:46]Budget-Décembre-2019.xlsm is up to date
+[2025-02-25 06:48:46]Budget-Février-2020.xlsm is up to date
+[2025-02-25 06:48:46]Budget-Janvier-2020.xlsm is up to date
+[2025-02-25 06:48:46]Budget-Mars-2020-test.xlsm is up to date
+[2025-02-25 06:48:46]Budget-Mars-2020.xlsm is up to date
+[2025-02-25 06:48:46]Budget-Septembre-2019.xlsm is up to date
+[2025-02-25 06:48:46]Budget.ancien.xlsm is up to date
+[2025-02-25 06:48:46]Budget.xlsm is up to date
+[2025-02-25 06:48:46]Nouveau_Microsoft_Publisher.pub is up to date
+[2025-02-25 06:48:46]statement-2020-05-12.csv is up to date
+[2025-02-25 06:48:46]statement.csv is up to date
+[2025-02-25 06:48:46]statement1.csv is up to date
+[2025-02-25 06:48:46]statement2.csv is up to date
+[2025-02-25 06:48:46]TEST.html is up to date
+[2025-02-25 06:48:46]TMDb.txt is up to date
+[2025-02-25 06:48:46]toto.txt is up to date
+[2025-02-25 06:48:46]tryu.txt is up to date
+[2025-02-25 06:48:46]UdeM.txt is up to date
+[2025-02-25 06:48:46]UHTX-ERKFKS-FMFJF.txt is up to date
+[2025-02-25 06:48:46]uid is up to date
+[2025-02-25 06:48:46]user-358191-trades-1704.csv is up to date
+[2025-02-25 06:48:46]user-358191-trades-1705.csv is up to date
+[2025-02-25 06:48:46]user-358191-trades-1706.csv is up to date
+[2025-02-25 06:48:46]user-358191-trades-1707.csv is up to date
+[2025-02-25 06:48:46]user-358191-trades-1708.csv is up to date
+[2025-02-25 06:48:46]user-358191-trades-1709.csv is up to date
+[2025-02-25 06:48:46]UTC--2017-06-06T01-15-13.570480500Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:48:46]UTC--2017-06-14T00-27-50.408Z--bdf88ba80451c30b2bb2d93d7dcf872771b18768 is up to date
+[2025-02-25 06:48:46]UTC--2017-06-19T14-35-43.258Z--73af203443e96780732b8c4c257f9ff8bf7824fa is up to date
+[2025-02-25 06:48:46]UTC--2017-06-24T01-13-14.193Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:48:46]Wallet.txt is up to date
+[2025-02-25 06:48:46]wallet1.txt is up to date
+[2025-02-25 06:48:46]xyz.zip is up to date
+[2025-02-25 06:48:46]Budget nourriture canine et entraînement.xlsx is copied
+[2025-02-25 06:48:46]bull-bitcoin-orders-Fri Apr 08 2022 17_05_35 GMT-0400 (heure d’été de l’Est).csv is copied
+[2025-02-25 06:48:46]statement (2).xlsx is copied
+[2025-02-25 06:48:46]Tendances des dépenses passées.xlsm is copied
+[2025-02-25 06:48:46]toto (2).txt is copied
+[2025-02-25 06:48:46]VISA DOLLARDS.csv is copied
+[2025-02-25 06:48:46]wallet1 - Copie.txt is copied
+[2025-02-25 06:48:46][2025-02-25 06:48:46] sync: 34; update: 7; delete: 0;
+[2025-02-25 06:49:07]folder: ONLINE
+[2025-02-25 06:49:07]backup: ONLINE
+[2025-02-25 06:49:07]Blocktrail.apikey.txt is up to date
+[2025-02-25 06:49:07]Budget-Décembre-2019.xlsm is up to date
+[2025-02-25 06:49:07]Budget-Février-2020.xlsm is up to date
+[2025-02-25 06:49:07]Budget-Janvier-2020.xlsm is up to date
+[2025-02-25 06:49:07]Budget-Mars-2020-test.xlsm is up to date
+[2025-02-25 06:49:07]Budget-Mars-2020.xlsm is up to date
+[2025-02-25 06:49:07]Budget-Septembre-2019.xlsm is up to date
+[2025-02-25 06:49:07]Budget.ancien.xlsm is up to date
+[2025-02-25 06:49:07]Budget.xlsm is up to date
+[2025-02-25 06:49:07]Nouveau_Microsoft_Publisher.pub is updated
+[2025-02-25 06:49:07]statement-2020-05-12.csv is up to date
+[2025-02-25 06:49:07]statement.csv is up to date
+[2025-02-25 06:49:07]statement1.csv is up to date
+[2025-02-25 06:49:07]statement2.csv is up to date
+[2025-02-25 06:49:07]TEST.html is up to date
+[2025-02-25 06:49:07]TMDb.txt is up to date
+[2025-02-25 06:49:07]toto.txt is up to date
+[2025-02-25 06:49:07]tryu.txt is up to date
+[2025-02-25 06:49:07]UdeM.txt is up to date
+[2025-02-25 06:49:07]UHTX-ERKFKS-FMFJF.txt is up to date
+[2025-02-25 06:49:07]uid is up to date
+[2025-02-25 06:49:07]user-358191-trades-1704.csv is up to date
+[2025-02-25 06:49:07]user-358191-trades-1705.csv is up to date
+[2025-02-25 06:49:07]user-358191-trades-1706.csv is up to date
+[2025-02-25 06:49:07]user-358191-trades-1707.csv is up to date
+[2025-02-25 06:49:07]user-358191-trades-1708.csv is up to date
+[2025-02-25 06:49:07]user-358191-trades-1709.csv is up to date
+[2025-02-25 06:49:07]UTC--2017-06-06T01-15-13.570480500Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:49:07]UTC--2017-06-14T00-27-50.408Z--bdf88ba80451c30b2bb2d93d7dcf872771b18768 is up to date
+[2025-02-25 06:49:07]UTC--2017-06-19T14-35-43.258Z--73af203443e96780732b8c4c257f9ff8bf7824fa is up to date
+[2025-02-25 06:49:07]UTC--2017-06-24T01-13-14.193Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:49:07]Wallet.txt is up to date
+[2025-02-25 06:49:07]wallet1.txt is up to date
+[2025-02-25 06:49:07]xyz.zip is up to date
+[2025-02-25 06:49:07]Budget nourriture canine et entraînement.xlsx is copied
+[2025-02-25 06:49:07]bull-bitcoin-orders-Fri Apr 08 2022 17_05_35 GMT-0400 (heure d’été de l’Est).csv is copied
+[2025-02-25 06:49:07]statement (2).xlsx is copied
+[2025-02-25 06:49:07]Tendances des dépenses passées.xlsm is copied
+[2025-02-25 06:49:07]toto (2).txt is copied
+[2025-02-25 06:49:07]VISA DOLLARDS.csv is copied
+[2025-02-25 06:49:07]wallet1 - Copie.txt is copied
+[2025-02-25 06:49:07][2025-02-25 06:49:07] sync: 33; update: 8; delete: 0;
+[2025-02-25 06:49:27]folder: ONLINE
+[2025-02-25 06:49:27]backup: ONLINE
+[2025-02-25 06:49:27]Blocktrail.apikey.txt is up to date
+[2025-02-25 06:49:27]Budget-Décembre-2019.xlsm is up to date
+[2025-02-25 06:49:27]Budget-Février-2020.xlsm is up to date
+[2025-02-25 06:49:27]Budget-Janvier-2020.xlsm is up to date
+[2025-02-25 06:49:27]Budget-Mars-2020-test.xlsm is up to date
+[2025-02-25 06:49:27]Budget-Mars-2020.xlsm is up to date
+[2025-02-25 06:49:27]Budget-Septembre-2019.xlsm is up to date
+[2025-02-25 06:49:27]Budget.ancien.xlsm is up to date
+[2025-02-25 06:49:27]Budget.xlsm is up to date
+[2025-02-25 06:49:27]Nouveau_Microsoft_Publisher.pub is updated
+[2025-02-25 06:49:27]statement-2020-05-12.csv is up to date
+[2025-02-25 06:49:27]statement.csv is up to date
+[2025-02-25 06:49:27]statement1.csv is up to date
+[2025-02-25 06:49:27]statement2.csv is up to date
+[2025-02-25 06:49:27]TEST.html is up to date
+[2025-02-25 06:49:27]TMDb.txt is up to date
+[2025-02-25 06:49:27]toto.txt is up to date
+[2025-02-25 06:49:27]tryu.txt is up to date
+[2025-02-25 06:49:27]UdeM.txt is up to date
+[2025-02-25 06:49:27]UHTX-ERKFKS-FMFJF.txt is up to date
+[2025-02-25 06:49:27]uid is up to date
+[2025-02-25 06:49:27]user-358191-trades-1704.csv is up to date
+[2025-02-25 06:49:27]user-358191-trades-1705.csv is up to date
+[2025-02-25 06:49:27]user-358191-trades-1706.csv is up to date
+[2025-02-25 06:49:27]user-358191-trades-1707.csv is up to date
+[2025-02-25 06:49:27]user-358191-trades-1708.csv is up to date
+[2025-02-25 06:49:27]user-358191-trades-1709.csv is up to date
+[2025-02-25 06:49:27]UTC--2017-06-06T01-15-13.570480500Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:49:27]UTC--2017-06-14T00-27-50.408Z--bdf88ba80451c30b2bb2d93d7dcf872771b18768 is up to date
+[2025-02-25 06:49:27]UTC--2017-06-19T14-35-43.258Z--73af203443e96780732b8c4c257f9ff8bf7824fa is up to date
+[2025-02-25 06:49:27]UTC--2017-06-24T01-13-14.193Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:49:27]Wallet.txt is up to date
+[2025-02-25 06:49:27]wallet1.txt is up to date
+[2025-02-25 06:49:27]xyz.zip is up to date
+[2025-02-25 06:49:27]Budget nourriture canine et entraînement.xlsx is copied
+[2025-02-25 06:49:27]bull-bitcoin-orders-Fri Apr 08 2022 17_05_35 GMT-0400 (heure d’été de l’Est).csv is copied
+[2025-02-25 06:49:27]statement (2).xlsx is copied
+[2025-02-25 06:49:27]Tendances des dépenses passées.xlsm is copied
+[2025-02-25 06:49:27]toto (2).txt is copied
+[2025-02-25 06:49:27]VISA DOLLARDS.csv is copied
+[2025-02-25 06:49:27]wallet1 - Copie.txt is copied
+[2025-02-25 06:49:27][2025-02-25 06:49:27] sync: 33; update: 8; delete: 0;
+[2025-02-25 06:49:47]folder: ONLINE
+[2025-02-25 06:49:47]backup: ONLINE
+[2025-02-25 06:49:47]Blocktrail.apikey.txt is up to date
+[2025-02-25 06:49:47]Budget-Décembre-2019.xlsm is up to date
+[2025-02-25 06:49:47]Budget-Février-2020.xlsm is up to date
+[2025-02-25 06:49:47]Budget-Janvier-2020.xlsm is up to date
+[2025-02-25 06:49:47]Budget-Mars-2020-test.xlsm is up to date
+[2025-02-25 06:49:47]Budget-Mars-2020.xlsm is up to date
+[2025-02-25 06:49:47]Budget-Septembre-2019.xlsm is up to date
+[2025-02-25 06:49:47]Budget.ancien.xlsm is up to date
+[2025-02-25 06:49:47]Budget.xlsm is up to date
+[2025-02-25 06:49:47]Nouveau_Microsoft_Publisher.pub is up to date
+[2025-02-25 06:49:47]statement-2020-05-12.csv is up to date
+[2025-02-25 06:49:47]statement.csv is up to date
+[2025-02-25 06:49:47]statement1.csv is up to date
+[2025-02-25 06:49:47]statement2.csv is up to date
+[2025-02-25 06:49:47]TEST.html is up to date
+[2025-02-25 06:49:47]TMDb.txt is up to date
+[2025-02-25 06:49:47]toto.txt is up to date
+[2025-02-25 06:49:47]tryu.txt is up to date
+[2025-02-25 06:49:47]UdeM.txt is up to date
+[2025-02-25 06:49:47]UHTX-ERKFKS-FMFJF.txt is up to date
+[2025-02-25 06:49:47]uid is up to date
+[2025-02-25 06:49:47]user-358191-trades-1704.csv is up to date
+[2025-02-25 06:49:47]user-358191-trades-1705.csv is up to date
+[2025-02-25 06:49:47]user-358191-trades-1706.csv is up to date
+[2025-02-25 06:49:47]user-358191-trades-1707.csv is up to date
+[2025-02-25 06:49:47]user-358191-trades-1708.csv is up to date
+[2025-02-25 06:49:47]user-358191-trades-1709.csv is up to date
+[2025-02-25 06:49:47]UTC--2017-06-06T01-15-13.570480500Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:49:47]UTC--2017-06-14T00-27-50.408Z--bdf88ba80451c30b2bb2d93d7dcf872771b18768 is up to date
+[2025-02-25 06:49:47]UTC--2017-06-19T14-35-43.258Z--73af203443e96780732b8c4c257f9ff8bf7824fa is up to date
+[2025-02-25 06:49:47]UTC--2017-06-24T01-13-14.193Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:49:47]Wallet.txt is up to date
+[2025-02-25 06:49:47]wallet1.txt is up to date
+[2025-02-25 06:49:47]xyz.zip is up to date
+[2025-02-25 06:49:47]Budget nourriture canine et entraînement.xlsx is copied
+[2025-02-25 06:49:47]bull-bitcoin-orders-Fri Apr 08 2022 17_05_35 GMT-0400 (heure d’été de l’Est).csv is copied
+[2025-02-25 06:49:47]statement (2).xlsx is copied
+[2025-02-25 06:49:47]Tendances des dépenses passées.xlsm is copied
+[2025-02-25 06:49:47]toto (2).txt is copied
+[2025-02-25 06:49:47]VISA DOLLARDS.csv is copied
+[2025-02-25 06:49:47]wallet1 - Copie.txt is copied
+[2025-02-25 06:49:47][2025-02-25 06:49:47] sync: 34; update: 7; delete: 0;
+[2025-02-25 06:50:07]folder: ONLINE
+[2025-02-25 06:50:07]backup: ONLINE
+[2025-02-25 06:50:07]Blocktrail.apikey.txt is up to date
+[2025-02-25 06:50:07]Budget-Décembre-2019.xlsm is up to date
+[2025-02-25 06:50:07]Budget-Février-2020.xlsm is up to date
+[2025-02-25 06:50:07]Budget-Janvier-2020.xlsm is up to date
+[2025-02-25 06:50:07]Budget-Mars-2020-test.xlsm is up to date
+[2025-02-25 06:50:07]Budget-Mars-2020.xlsm is up to date
+[2025-02-25 06:50:07]Budget-Septembre-2019.xlsm is up to date
+[2025-02-25 06:50:07]Budget.ancien.xlsm is up to date
+[2025-02-25 06:50:07]Budget.xlsm is up to date
+[2025-02-25 06:50:07]Nouveau_Microsoft_Publisher.pub is up to date
+[2025-02-25 06:50:07]statement-2020-05-12.csv is up to date
+[2025-02-25 06:50:07]statement.csv is up to date
+[2025-02-25 06:50:07]statement1.csv is up to date
+[2025-02-25 06:50:07]statement2.csv is up to date
+[2025-02-25 06:50:07]TEST.html is up to date
+[2025-02-25 06:50:07]TMDb.txt is up to date
+[2025-02-25 06:50:07]toto.txt is up to date
+[2025-02-25 06:50:07]tryu.txt is up to date
+[2025-02-25 06:50:07]UdeM.txt is up to date
+[2025-02-25 06:50:07]UHTX-ERKFKS-FMFJF.txt is up to date
+[2025-02-25 06:50:07]uid is up to date
+[2025-02-25 06:50:07]user-358191-trades-1704.csv is up to date
+[2025-02-25 06:50:07]user-358191-trades-1705.csv is up to date
+[2025-02-25 06:50:07]user-358191-trades-1706.csv is up to date
+[2025-02-25 06:50:07]user-358191-trades-1707.csv is up to date
+[2025-02-25 06:50:07]user-358191-trades-1708.csv is up to date
+[2025-02-25 06:50:07]user-358191-trades-1709.csv is up to date
+[2025-02-25 06:50:07]UTC--2017-06-06T01-15-13.570480500Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:50:07]UTC--2017-06-14T00-27-50.408Z--bdf88ba80451c30b2bb2d93d7dcf872771b18768 is up to date
+[2025-02-25 06:50:07]UTC--2017-06-19T14-35-43.258Z--73af203443e96780732b8c4c257f9ff8bf7824fa is up to date
+[2025-02-25 06:50:07]UTC--2017-06-24T01-13-14.193Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:50:07]Wallet.txt is up to date
+[2025-02-25 06:50:07]wallet1.txt is up to date
+[2025-02-25 06:50:07]xyz.zip is up to date
+[2025-02-25 06:50:07]Budget nourriture canine et entraînement.xlsx is copied
+[2025-02-25 06:50:07]bull-bitcoin-orders-Fri Apr 08 2022 17_05_35 GMT-0400 (heure d’été de l’Est).csv is copied
+[2025-02-25 06:50:07]statement (2).xlsx is copied
+[2025-02-25 06:50:07]Tendances des dépenses passées.xlsm is copied
+[2025-02-25 06:50:07]toto (2).txt is copied
+[2025-02-25 06:50:07]VISA DOLLARDS.csv is copied
+[2025-02-25 06:50:07]wallet1 - Copie.txt is copied
+[2025-02-25 06:50:07][2025-02-25 06:50:07] sync: 34; update: 7; delete: 0;
+[2025-02-25 06:50:27]folder: ONLINE
+[2025-02-25 06:50:27]backup: ONLINE
+[2025-02-25 06:50:27]Blocktrail.apikey.txt is up to date
+[2025-02-25 06:50:27]Budget-Décembre-2019.xlsm is up to date
+[2025-02-25 06:50:27]Budget-Février-2020.xlsm is up to date
+[2025-02-25 06:50:27]Budget-Janvier-2020.xlsm is up to date
+[2025-02-25 06:50:27]Budget-Mars-2020-test.xlsm is up to date
+[2025-02-25 06:50:27]Budget-Mars-2020.xlsm is up to date
+[2025-02-25 06:50:27]Budget-Septembre-2019.xlsm is up to date
+[2025-02-25 06:50:27]Budget.ancien.xlsm is up to date
+[2025-02-25 06:50:27]Budget.xlsm is up to date
+[2025-02-25 06:50:27]Nouveau_Microsoft_Publisher.pub is deleted
+[2025-02-25 06:50:27]statement-2020-05-12.csv is up to date
+[2025-02-25 06:50:27]statement.csv is up to date
+[2025-02-25 06:50:27]statement1.csv is up to date
+[2025-02-25 06:50:27]statement2.csv is up to date
+[2025-02-25 06:50:27]TEST.html is up to date
+[2025-02-25 06:50:27]TMDb.txt is up to date
+[2025-02-25 06:50:27]toto.txt is up to date
+[2025-02-25 06:50:27]tryu.txt is up to date
+[2025-02-25 06:50:27]UdeM.txt is up to date
+[2025-02-25 06:50:27]UHTX-ERKFKS-FMFJF.txt is up to date
+[2025-02-25 06:50:27]uid is up to date
+[2025-02-25 06:50:27]user-358191-trades-1704.csv is up to date
+[2025-02-25 06:50:27]user-358191-trades-1705.csv is up to date
+[2025-02-25 06:50:27]user-358191-trades-1706.csv is up to date
+[2025-02-25 06:50:27]user-358191-trades-1707.csv is up to date
+[2025-02-25 06:50:27]user-358191-trades-1708.csv is up to date
+[2025-02-25 06:50:27]user-358191-trades-1709.csv is up to date
+[2025-02-25 06:50:27]UTC--2017-06-06T01-15-13.570480500Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:50:27]UTC--2017-06-14T00-27-50.408Z--bdf88ba80451c30b2bb2d93d7dcf872771b18768 is up to date
+[2025-02-25 06:50:27]UTC--2017-06-19T14-35-43.258Z--73af203443e96780732b8c4c257f9ff8bf7824fa is up to date
+[2025-02-25 06:50:27]UTC--2017-06-24T01-13-14.193Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:50:27]Wallet.txt is up to date
+[2025-02-25 06:50:27]wallet1.txt is up to date
+[2025-02-25 06:50:27]xyz.zip is up to date
+[2025-02-25 06:50:27]Budget nourriture canine et entraînement.xlsx is copied
+[2025-02-25 06:50:27]bull-bitcoin-orders-Fri Apr 08 2022 17_05_35 GMT-0400 (heure d’été de l’Est).csv is copied
+[2025-02-25 06:50:27]Nouveau_Microsoft_kPublisher.pub is copied
+[2025-02-25 06:50:27]statement (2).xlsx is copied
+[2025-02-25 06:50:27]Tendances des dépenses passées.xlsm is copied
+[2025-02-25 06:50:27]toto (2).txt is copied
+[2025-02-25 06:50:27]VISA DOLLARDS.csv is copied
+[2025-02-25 06:50:27]wallet1 - Copie.txt is copied
+[2025-02-25 06:50:27][2025-02-25 06:50:27] sync: 33; update: 8; delete: 1;
+[2025-02-25 06:50:47]folder: ONLINE
+[2025-02-25 06:50:47]backup: ONLINE
+[2025-02-25 06:50:47]Blocktrail.apikey.txt is up to date
+[2025-02-25 06:50:47]Budget-Décembre-2019.xlsm is up to date
+[2025-02-25 06:50:47]Budget-Février-2020.xlsm is up to date
+[2025-02-25 06:50:47]Budget-Janvier-2020.xlsm is up to date
+[2025-02-25 06:50:47]Budget-Mars-2020-test.xlsm is up to date
+[2025-02-25 06:50:47]Budget-Mars-2020.xlsm is up to date
+[2025-02-25 06:50:47]Budget-Septembre-2019.xlsm is up to date
+[2025-02-25 06:50:47]Budget.ancien.xlsm is up to date
+[2025-02-25 06:50:47]Budget.xlsm is up to date
+[2025-02-25 06:50:47]Nouveau_Microsoft_kPublisher.pub is up to date
+[2025-02-25 06:50:47]statement-2020-05-12.csv is up to date
+[2025-02-25 06:50:47]statement.csv is up to date
+[2025-02-25 06:50:47]statement1.csv is up to date
+[2025-02-25 06:50:47]statement2.csv is up to date
+[2025-02-25 06:50:47]TEST.html is up to date
+[2025-02-25 06:50:47]TMDb.txt is up to date
+[2025-02-25 06:50:47]toto.txt is up to date
+[2025-02-25 06:50:47]tryu.txt is up to date
+[2025-02-25 06:50:47]UdeM.txt is up to date
+[2025-02-25 06:50:47]UHTX-ERKFKS-FMFJF.txt is up to date
+[2025-02-25 06:50:47]uid is up to date
+[2025-02-25 06:50:47]user-358191-trades-1704.csv is up to date
+[2025-02-25 06:50:47]user-358191-trades-1705.csv is up to date
+[2025-02-25 06:50:47]user-358191-trades-1706.csv is up to date
+[2025-02-25 06:50:47]user-358191-trades-1707.csv is up to date
+[2025-02-25 06:50:47]user-358191-trades-1708.csv is up to date
+[2025-02-25 06:50:47]user-358191-trades-1709.csv is up to date
+[2025-02-25 06:50:47]UTC--2017-06-06T01-15-13.570480500Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:50:47]UTC--2017-06-14T00-27-50.408Z--bdf88ba80451c30b2bb2d93d7dcf872771b18768 is up to date
+[2025-02-25 06:50:47]UTC--2017-06-19T14-35-43.258Z--73af203443e96780732b8c4c257f9ff8bf7824fa is up to date
+[2025-02-25 06:50:47]UTC--2017-06-24T01-13-14.193Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is up to date
+[2025-02-25 06:50:47]Wallet.txt is up to date
+[2025-02-25 06:50:47]wallet1.txt is up to date
+[2025-02-25 06:50:47]xyz.zip is up to date
+[2025-02-25 06:50:47]Budget nourriture canine et entraînement.xlsx is copied
+[2025-02-25 06:50:47]bull-bitcoin-orders-Fri Apr 08 2022 17_05_35 GMT-0400 (heure d’été de l’Est).csv is copied
+[2025-02-25 06:50:47]statement (2).xlsx is copied
+[2025-02-25 06:50:47]Tendances des dépenses passées.xlsm is copied
+[2025-02-25 06:50:47]toto (2).txt is copied
+[2025-02-25 06:50:47]VISA DOLLARDS.csv is copied
+[2025-02-25 06:50:48]wallet1 - Copie.txt is copied
+[2025-02-25 06:50:48][2025-02-25 06:50:48] sync: 34; update: 7; delete: 0;
