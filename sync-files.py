@@ -20,6 +20,7 @@ def log(message):
 
 def compare2file(file1, file2):
     # compare 2 files with hash
+    #Todo: PermissionError handling
     with open(file1, 'rb') as f1:
         with open(file2, 'rb') as f2:
             if hashlib.md5(f1.read()).hexdigest() == hashlib.md5(f2.read()).hexdigest():
@@ -41,7 +42,7 @@ def compareHashFolder(folder, backup):
 
     for file in files:
         if file in files_backup:
-            if not compare2file(folder+'/'+file, backup+'/'+file):
+            if not compare2file(folder+'\\'+file, backup+'\\'+file):
                 return False
         else:
             return False
@@ -49,7 +50,7 @@ def compareHashFolder(folder, backup):
 
 #------------------------------------------------------------------
 log('Start')
-
+os.remove('config.txt')
 if os.path.isfile('config.txt'):
     print("config file: OK")
     log ('config file: OK')
@@ -63,12 +64,15 @@ else:
     log('config file: NOT FOUND')
     print("config file: NOT FOUND")
     # register folder
-    folder = input('put your path in the computer:')
-    backup = input('put your flash disk path:')
+    #folder = input('put your path in the computer:')
+    #backup = input('put your flash disk path:')
+    folder = "C:\\Users\\admin\\OneDrive\\Public\\fichiers_tests"
+    backup = "C:\\Users\\admin\\OneDrive\\Bureau\\backup"
     # check if folder exist
     if not os.path.isdir(folder):
         log('folder: NOT FOUND')
-        print('folder is not exist')
+        print(f'folder is not exist -> {folder}')
+        print(f"os.path.isdir(folder)  --> {os.path.isdir(folder)}")
         exit()
     # check if backup exist
     if not os.path.isdir(backup):
@@ -92,7 +96,7 @@ while True:
         print(f'[{now}] file is up to date')
         log('file is up to date')
         # sleep for 5 minutes
-        time.sleep(300)
+        time.sleep(20)
         continue
 
     # check folder
@@ -127,27 +131,33 @@ while True:
     # compare 2 list
     for file in files_backup:
         if file in files:
-            if compare2file(folder+'/'+file, backup+'/'+file):
+            if compare2file(folder+'\\'+file, backup+'\\'+file):
                 log(f'{file} is up to date')
                 countSync += 1
             else:
                 # copy file from folder to back up
                 updateFile += 1
-                os.remove(backup+'/'+file)
-                os.system('cp '+folder+'/'+file+' '+backup)
+                os.remove(backup+'\\'+file)
+                os.system(f"copy  {os.path.join(folder,file)} {backup}")
                 log(f'{file} is updated')
         if file not in files:
             # delete file in backup
             log(f'{file} is deleted')
             deleteFile += 1
-            os.remove(backup+'/'+file)
+            os.remove(backup+'\\'+file)
 
     for file in files:
         if file not in files_backup:
             # copy file from folder to back up
             updateFile += 1
+
+            if os.name == 'nt':
+                print(f"copy  '{os.path.join(folder,file) }' '{backup}'")
+                os.system(f"copy  {os.path.join(folder,file)} {backup}")
+            else:
+                os.system('cp + folder + \\' + file + ' ' + backup)
+
             log(f'{file} is copied')
-            os.system('copy '+folder+'/'+file+' '+backup)
 
 
 
@@ -157,4 +167,4 @@ while True:
     log(mess)
 
     # sleep for 5 minutes
-    time.sleep(300)
+    time.sleep(20)
