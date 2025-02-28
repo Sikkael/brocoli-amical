@@ -51,7 +51,10 @@ def compareHashFolder(folder, backup):
 
 #------------------------------------------------------------------
 log('Start')
-os.remove('config.txt')
+
+if os.path.isfile('config.txt'):
+      os.remove('config.txt')
+
 if os.path.isfile('config.txt'):
     print("config file: OK")
     log ('config file: OK')
@@ -65,10 +68,10 @@ else:
     log('config file: NOT FOUND')
     print("config file: NOT FOUND")
     # register folder
-    #folder = input('put your path in the computer:')
-    #backup = input('put your flash disk path:')
-    folder = "C:\\Users\\admin\\OneDrive\\Public\\fichiers_tests"
-    backup = "C:\\Users\\admin\\OneDrive\\Bureau\\backup"
+    folder = input('put your path in the computer:')
+    backup = input('put your flash disk path:')
+    #folder = "C:\\Users\\admin\\OneDrive\\Pièces jointes"
+    #backup = "C:\\Users\\admin\\OneDrive\\Bureau\\backup"
     # check if folder exist
     if not os.path.isdir(folder):
         log('folder: NOT FOUND')
