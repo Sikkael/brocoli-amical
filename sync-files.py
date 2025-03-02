@@ -70,19 +70,21 @@ else:
     # register folder
     folder = input('put your path in the computer:')
     backup = input('put your flash disk path:')
-    #folder = "C:\\Users\\admin\\OneDrive\\Pièces jointes"
-    #backup = "C:\\Users\\admin\\OneDrive\\Bureau\\backup"
+    default_folder = "C:\\Users\\admin\\OneDrive\\Public"
+    default_backup = "C:\\Users\\admin\\OneDrive\\Bureau\\backup"
     # check if folder exist
     if not os.path.isdir(folder):
         log('folder: NOT FOUND')
         print(f'folder is not exist -> {folder}')
         print(f"os.path.isdir(folder)  --> {os.path.isdir(folder)}")
-        exit()
+        folder = default_folder
+        assert os.path.isdir(default_folder)
     # check if backup exist
     if not os.path.isdir(backup):
         log('backup: NOT FOUND')
         print('backup is not exist')
-        exit()
+        backup = default_backup
+        assert os.path.isdir(default_backup)
     # write config
     with open('config.txt', 'w') as f:
         f.write('folder:'+folder)

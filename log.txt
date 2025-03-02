@@ -19458,3 +19458,1047 @@
 [2025-02-27 20:42:00]Start
 [2025-02-27 20:42:00]config file: NOT FOUND
 [2025-02-27 20:42:18]folder: NOT FOUND
+[2025-03-02 17:16:02]Start
+[2025-03-02 17:16:02]config file: NOT FOUND
+[2025-03-02 17:16:22]folder: NOT FOUND
+[2025-03-02 17:19:42]Start
+[2025-03-02 17:19:42]config file: NOT FOUND
+[2025-03-02 17:20:04]folder: NOT FOUND
+[2025-03-02 17:20:04]backup: NOT FOUND
+[2025-03-02 17:20:04]config file: CREATED
+[2025-03-02 17:22:41]Start
+[2025-03-02 17:22:41]config file: NOT FOUND
+[2025-03-02 17:22:44]folder: NOT FOUND
+[2025-03-02 17:22:44]backup: NOT FOUND
+[2025-03-02 17:22:44]config file: CREATED
+[2025-03-02 17:22:44]folder: ONLINE
+[2025-03-02 17:22:44]backup: ONLINE
+[2025-03-02 17:22:44]bitcoin.pdf is copied
+[2025-03-02 17:22:44]Développement informatique is copied
+[2025-03-02 17:22:46]fichiers_tests is copied
+[2025-03-02 17:22:47]Finances is copied
+[2025-03-02 17:22:47]log is copied
+[2025-03-02 17:22:47]migrations is copied
+[2025-03-02 17:22:47][2025-03-02 17:22:47] sync: 0; update: 6; delete: 0;
+[2025-03-02 17:23:07]folder: ONLINE
+[2025-03-02 17:23:07]backup: ONLINE
+[2025-03-02 17:23:07]2.csv is deleted
+[2025-03-02 17:23:07]3.csv is deleted
+[2025-03-02 17:23:07]bitcoin.pdf is up to date
+[2025-03-02 17:23:07]Blocktrail.apikey.txt is deleted
+[2025-03-02 17:23:07]Budget nourriture canine et entraînement.xlsx is deleted
+[2025-03-02 17:23:07]Budget-Décembre-2019.xlsm is deleted
+[2025-03-02 17:23:07]Budget-Février-2020.xlsm is deleted
+[2025-03-02 17:23:07]Budget-Janvier-2020.xlsm is deleted
+[2025-03-02 17:23:07]Budget-Mars-2020-test.xlsm is deleted
+[2025-03-02 17:23:07]Budget-Mars-2020.xlsm is deleted
+[2025-03-02 17:23:07]Budget-Septembre-2019.xlsm is deleted
+[2025-03-02 17:23:07]Budget.ancien.xlsm is deleted
+[2025-03-02 17:23:07]Budget.xlsm is deleted
+[2025-03-02 17:23:07]bull-bitcoin-orders-Fri Apr 08 2022 17_05_35 GMT-0400 (heure d’été de l’Est).csv is deleted
+[2025-03-02 17:23:07]Carnet d'adresses.txt is deleted
+[2025-03-02 17:23:07]Chapitre1.xlsm is deleted
+[2025-03-02 17:23:07]compte opération.csv is deleted
+[2025-03-02 17:23:07]DatePicker.xlsm is deleted
+[2025-03-02 17:23:07]decrypt_test.txt is deleted
+[2025-03-02 17:23:07]dec_files.txt is deleted
+[2025-03-02 17:23:07]encrypt_test.txt is deleted
+[2025-03-02 17:23:07]enc_files.txt is deleted
+[2025-03-02 17:23:07]list_log.txt is deleted
+[2025-03-02 17:23:07]list_test.txt is deleted
+[2025-03-02 17:23:07]log.txt is deleted
+[2025-03-02 17:23:07]MyceliumExport_1509118104972.csv is deleted
+[2025-03-02 17:23:07]Nethris Internet Suite - Nethris Online Payroll Login Page.html is deleted
+[2025-03-02 17:23:07]Nouveau_Microsoft_kPublisher.pub is deleted
+[2025-03-02 17:23:07]Ouellet, Michel_FT_2020.xls is deleted
+[2025-03-02 17:23:07]pc-mc-2020-10-20.csv is deleted
+[2025-03-02 17:23:07]Planifications des dépenses.xlsm is deleted
+[2025-03-02 17:23:07]remove_test.txt is deleted
+[2025-03-02 17:23:07]report-pc-mastercard.csv is deleted
+[2025-03-02 17:23:07]statement (2).csv is deleted
+[2025-03-02 17:23:07]statement (2).xlsx is deleted
+[2025-03-02 17:23:07]statement-2020-05-12.csv is deleted
+[2025-03-02 17:23:07]statement.csv is deleted
+[2025-03-02 17:23:07]statement1.csv is deleted
+[2025-03-02 17:23:07]statement2.csv is deleted
+[2025-03-02 17:23:07]Tendances des dépenses passées.xlsm is deleted
+[2025-03-02 17:23:07]TEST.html is deleted
+[2025-03-02 17:23:07]TMDb.txt is deleted
+[2025-03-02 17:23:07]toto (2).txt is deleted
+[2025-03-02 17:23:07]toto.txt is deleted
+[2025-03-02 17:23:07]tryu.txt is deleted
+[2025-03-02 17:23:07]UdeM.txt is deleted
+[2025-03-02 17:23:07]UHTX-ERKFKS-FMFJF.txt is deleted
+[2025-03-02 17:23:07]uid is deleted
+[2025-03-02 17:23:07]user-358191-trades-1704.csv is deleted
+[2025-03-02 17:23:07]user-358191-trades-1705.csv is deleted
+[2025-03-02 17:23:07]user-358191-trades-1706.csv is deleted
+[2025-03-02 17:23:07]user-358191-trades-1707.csv is deleted
+[2025-03-02 17:23:07]user-358191-trades-1708.csv is deleted
+[2025-03-02 17:23:07]user-358191-trades-1709.csv is deleted
+[2025-03-02 17:23:07]UTC--2017-06-06T01-15-13.570480500Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is deleted
+[2025-03-02 17:23:07]UTC--2017-06-14T00-27-50.408Z--bdf88ba80451c30b2bb2d93d7dcf872771b18768 is deleted
+[2025-03-02 17:23:07]UTC--2017-06-19T14-35-43.258Z--73af203443e96780732b8c4c257f9ff8bf7824fa is deleted
+[2025-03-02 17:23:07]UTC--2017-06-24T01-13-14.193Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is deleted
+[2025-03-02 17:23:07]VISA DOLLARDS.csv is deleted
+[2025-03-02 17:23:07]Wallet.txt is deleted
+[2025-03-02 17:23:07]wallet1 - Copie.txt is deleted
+[2025-03-02 17:23:07]wallet1.txt is deleted
+[2025-03-02 17:23:07]xyz.zip is deleted
+[2025-03-02 17:23:07]État d compte 2016-12-28 à 2018-12-28.csv is deleted
+[2025-03-02 17:23:07]État de compte-Visa-2016-12-28 à 2018-12-28.csv is deleted
+[2025-03-02 17:23:07]Développement informatique is copied
+[2025-03-02 17:23:07]fichiers_tests is copied
+[2025-03-02 17:23:07]Finances is copied
+[2025-03-02 17:23:08]log is copied
+[2025-03-02 17:23:08]migrations is copied
+[2025-03-02 17:23:08][2025-03-02 17:23:08] sync: 1; update: 5; delete: 64;
+[2025-03-02 17:23:28]folder: ONLINE
+[2025-03-02 17:23:28]backup: ONLINE
+[2025-03-02 17:23:28]2.csv is deleted
+[2025-03-02 17:23:28]3.csv is deleted
+[2025-03-02 17:23:28]bitcoin.pdf is up to date
+[2025-03-02 17:23:28]Blocktrail.apikey.txt is deleted
+[2025-03-02 17:23:28]Budget nourriture canine et entraînement.xlsx is deleted
+[2025-03-02 17:23:28]Budget-Décembre-2019.xlsm is deleted
+[2025-03-02 17:23:28]Budget-Février-2020.xlsm is deleted
+[2025-03-02 17:23:28]Budget-Janvier-2020.xlsm is deleted
+[2025-03-02 17:23:28]Budget-Mars-2020-test.xlsm is deleted
+[2025-03-02 17:23:28]Budget-Mars-2020.xlsm is deleted
+[2025-03-02 17:23:28]Budget-Septembre-2019.xlsm is deleted
+[2025-03-02 17:23:28]Budget.ancien.xlsm is deleted
+[2025-03-02 17:23:28]Budget.xlsm is deleted
+[2025-03-02 17:23:28]bull-bitcoin-orders-Fri Apr 08 2022 17_05_35 GMT-0400 (heure d’été de l’Est).csv is deleted
+[2025-03-02 17:23:28]Carnet d'adresses.txt is deleted
+[2025-03-02 17:23:28]Chapitre1.xlsm is deleted
+[2025-03-02 17:23:28]compte opération.csv is deleted
+[2025-03-02 17:23:28]DatePicker.xlsm is deleted
+[2025-03-02 17:23:28]decrypt_test.txt is deleted
+[2025-03-02 17:23:28]dec_files.txt is deleted
+[2025-03-02 17:23:28]encrypt_test.txt is deleted
+[2025-03-02 17:23:28]enc_files.txt is deleted
+[2025-03-02 17:23:28]list_log.txt is deleted
+[2025-03-02 17:23:28]list_test.txt is deleted
+[2025-03-02 17:23:28]log.txt is deleted
+[2025-03-02 17:23:28]MyceliumExport_1509118104972.csv is deleted
+[2025-03-02 17:23:28]Nethris Internet Suite - Nethris Online Payroll Login Page.html is deleted
+[2025-03-02 17:23:28]Nouveau_Microsoft_kPublisher.pub is deleted
+[2025-03-02 17:23:28]Ouellet, Michel_FT_2020.xls is deleted
+[2025-03-02 17:23:28]pc-mc-2020-10-20.csv is deleted
+[2025-03-02 17:23:28]Planifications des dépenses.xlsm is deleted
+[2025-03-02 17:23:28]remove_test.txt is deleted
+[2025-03-02 17:23:28]report-pc-mastercard.csv is deleted
+[2025-03-02 17:23:28]statement (2).csv is deleted
+[2025-03-02 17:23:28]statement (2).xlsx is deleted
+[2025-03-02 17:23:28]statement-2020-05-12.csv is deleted
+[2025-03-02 17:23:28]statement.csv is deleted
+[2025-03-02 17:23:28]statement1.csv is deleted
+[2025-03-02 17:23:28]statement2.csv is deleted
+[2025-03-02 17:23:28]Tendances des dépenses passées.xlsm is deleted
+[2025-03-02 17:23:28]TEST.html is deleted
+[2025-03-02 17:23:28]TMDb.txt is deleted
+[2025-03-02 17:23:28]toto (2).txt is deleted
+[2025-03-02 17:23:28]toto.txt is deleted
+[2025-03-02 17:23:28]tryu.txt is deleted
+[2025-03-02 17:23:28]UdeM.txt is deleted
+[2025-03-02 17:23:28]UHTX-ERKFKS-FMFJF.txt is deleted
+[2025-03-02 17:23:28]uid is deleted
+[2025-03-02 17:23:28]user-358191-trades-1704.csv is deleted
+[2025-03-02 17:23:28]user-358191-trades-1705.csv is deleted
+[2025-03-02 17:23:28]user-358191-trades-1706.csv is deleted
+[2025-03-02 17:23:28]user-358191-trades-1707.csv is deleted
+[2025-03-02 17:23:28]user-358191-trades-1708.csv is deleted
+[2025-03-02 17:23:28]user-358191-trades-1709.csv is deleted
+[2025-03-02 17:23:28]UTC--2017-06-06T01-15-13.570480500Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is deleted
+[2025-03-02 17:23:28]UTC--2017-06-14T00-27-50.408Z--bdf88ba80451c30b2bb2d93d7dcf872771b18768 is deleted
+[2025-03-02 17:23:28]UTC--2017-06-19T14-35-43.258Z--73af203443e96780732b8c4c257f9ff8bf7824fa is deleted
+[2025-03-02 17:23:28]UTC--2017-06-24T01-13-14.193Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is deleted
+[2025-03-02 17:23:28]VISA DOLLARDS.csv is deleted
+[2025-03-02 17:23:28]Wallet.txt is deleted
+[2025-03-02 17:23:28]wallet1 - Copie.txt is deleted
+[2025-03-02 17:23:28]wallet1.txt is deleted
+[2025-03-02 17:23:28]xyz.zip is deleted
+[2025-03-02 17:23:28]État d compte 2016-12-28 à 2018-12-28.csv is deleted
+[2025-03-02 17:23:28]État de compte-Visa-2016-12-28 à 2018-12-28.csv is deleted
+[2025-03-02 17:23:28]Développement informatique is copied
+[2025-03-02 17:23:28]fichiers_tests is copied
+[2025-03-02 17:23:28]Finances is copied
+[2025-03-02 17:23:28]log is copied
+[2025-03-02 17:23:28]migrations is copied
+[2025-03-02 17:23:28][2025-03-02 17:23:28] sync: 1; update: 5; delete: 64;
+[2025-03-02 17:23:48]folder: ONLINE
+[2025-03-02 17:23:48]backup: ONLINE
+[2025-03-02 17:23:48]2.csv is deleted
+[2025-03-02 17:23:48]3.csv is deleted
+[2025-03-02 17:23:48]bitcoin.pdf is up to date
+[2025-03-02 17:23:48]Blocktrail.apikey.txt is deleted
+[2025-03-02 17:23:48]Budget nourriture canine et entraînement.xlsx is deleted
+[2025-03-02 17:23:48]Budget-Décembre-2019.xlsm is deleted
+[2025-03-02 17:23:48]Budget-Février-2020.xlsm is deleted
+[2025-03-02 17:23:48]Budget-Janvier-2020.xlsm is deleted
+[2025-03-02 17:23:48]Budget-Mars-2020-test.xlsm is deleted
+[2025-03-02 17:23:48]Budget-Mars-2020.xlsm is deleted
+[2025-03-02 17:23:48]Budget-Septembre-2019.xlsm is deleted
+[2025-03-02 17:23:48]Budget.ancien.xlsm is deleted
+[2025-03-02 17:23:48]Budget.xlsm is deleted
+[2025-03-02 17:23:48]bull-bitcoin-orders-Fri Apr 08 2022 17_05_35 GMT-0400 (heure d’été de l’Est).csv is deleted
+[2025-03-02 17:23:48]Carnet d'adresses.txt is deleted
+[2025-03-02 17:23:48]Chapitre1.xlsm is deleted
+[2025-03-02 17:23:48]compte opération.csv is deleted
+[2025-03-02 17:23:48]DatePicker.xlsm is deleted
+[2025-03-02 17:23:48]decrypt_test.txt is deleted
+[2025-03-02 17:23:48]dec_files.txt is deleted
+[2025-03-02 17:23:48]encrypt_test.txt is deleted
+[2025-03-02 17:23:48]enc_files.txt is deleted
+[2025-03-02 17:23:48]list_log.txt is deleted
+[2025-03-02 17:23:48]list_test.txt is deleted
+[2025-03-02 17:23:48]log.txt is deleted
+[2025-03-02 17:23:48]MyceliumExport_1509118104972.csv is deleted
+[2025-03-02 17:23:48]Nethris Internet Suite - Nethris Online Payroll Login Page.html is deleted
+[2025-03-02 17:23:48]Nouveau_Microsoft_kPublisher.pub is deleted
+[2025-03-02 17:23:48]Ouellet, Michel_FT_2020.xls is deleted
+[2025-03-02 17:23:48]pc-mc-2020-10-20.csv is deleted
+[2025-03-02 17:23:48]Planifications des dépenses.xlsm is deleted
+[2025-03-02 17:23:48]remove_test.txt is deleted
+[2025-03-02 17:23:48]report-pc-mastercard.csv is deleted
+[2025-03-02 17:23:48]statement (2).csv is deleted
+[2025-03-02 17:23:48]statement (2).xlsx is deleted
+[2025-03-02 17:23:48]statement-2020-05-12.csv is deleted
+[2025-03-02 17:23:48]statement.csv is deleted
+[2025-03-02 17:23:48]statement1.csv is deleted
+[2025-03-02 17:23:48]statement2.csv is deleted
+[2025-03-02 17:23:48]Tendances des dépenses passées.xlsm is deleted
+[2025-03-02 17:23:48]TEST.html is deleted
+[2025-03-02 17:23:48]TMDb.txt is deleted
+[2025-03-02 17:23:48]toto (2).txt is deleted
+[2025-03-02 17:23:48]toto.txt is deleted
+[2025-03-02 17:23:48]tryu.txt is deleted
+[2025-03-02 17:23:48]UdeM.txt is deleted
+[2025-03-02 17:23:48]UHTX-ERKFKS-FMFJF.txt is deleted
+[2025-03-02 17:23:48]uid is deleted
+[2025-03-02 17:23:48]user-358191-trades-1704.csv is deleted
+[2025-03-02 17:23:48]user-358191-trades-1705.csv is deleted
+[2025-03-02 17:23:48]user-358191-trades-1706.csv is deleted
+[2025-03-02 17:23:48]user-358191-trades-1707.csv is deleted
+[2025-03-02 17:23:48]user-358191-trades-1708.csv is deleted
+[2025-03-02 17:23:48]user-358191-trades-1709.csv is deleted
+[2025-03-02 17:23:48]UTC--2017-06-06T01-15-13.570480500Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is deleted
+[2025-03-02 17:23:48]UTC--2017-06-14T00-27-50.408Z--bdf88ba80451c30b2bb2d93d7dcf872771b18768 is deleted
+[2025-03-02 17:23:48]UTC--2017-06-19T14-35-43.258Z--73af203443e96780732b8c4c257f9ff8bf7824fa is deleted
+[2025-03-02 17:23:48]UTC--2017-06-24T01-13-14.193Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is deleted
+[2025-03-02 17:23:48]VISA DOLLARDS.csv is deleted
+[2025-03-02 17:23:48]Wallet.txt is deleted
+[2025-03-02 17:23:48]wallet1 - Copie.txt is deleted
+[2025-03-02 17:23:48]wallet1.txt is deleted
+[2025-03-02 17:23:48]xyz.zip is deleted
+[2025-03-02 17:23:48]État d compte 2016-12-28 à 2018-12-28.csv is deleted
+[2025-03-02 17:23:48]État de compte-Visa-2016-12-28 à 2018-12-28.csv is deleted
+[2025-03-02 17:23:48]Développement informatique is copied
+[2025-03-02 17:23:48]fichiers_tests is copied
+[2025-03-02 17:23:48]Finances is copied
+[2025-03-02 17:23:48]log is copied
+[2025-03-02 17:23:48]migrations is copied
+[2025-03-02 17:23:48][2025-03-02 17:23:48] sync: 1; update: 5; delete: 64;
+[2025-03-02 17:24:08]folder: ONLINE
+[2025-03-02 17:24:08]backup: ONLINE
+[2025-03-02 17:24:08]2.csv is deleted
+[2025-03-02 17:24:08]3.csv is deleted
+[2025-03-02 17:24:08]bitcoin.pdf is up to date
+[2025-03-02 17:24:08]Blocktrail.apikey.txt is deleted
+[2025-03-02 17:24:08]Budget nourriture canine et entraînement.xlsx is deleted
+[2025-03-02 17:24:08]Budget-Décembre-2019.xlsm is deleted
+[2025-03-02 17:24:08]Budget-Février-2020.xlsm is deleted
+[2025-03-02 17:24:08]Budget-Janvier-2020.xlsm is deleted
+[2025-03-02 17:24:08]Budget-Mars-2020-test.xlsm is deleted
+[2025-03-02 17:24:08]Budget-Mars-2020.xlsm is deleted
+[2025-03-02 17:24:08]Budget-Septembre-2019.xlsm is deleted
+[2025-03-02 17:24:08]Budget.ancien.xlsm is deleted
+[2025-03-02 17:24:08]Budget.xlsm is deleted
+[2025-03-02 17:24:08]bull-bitcoin-orders-Fri Apr 08 2022 17_05_35 GMT-0400 (heure d’été de l’Est).csv is deleted
+[2025-03-02 17:24:08]Carnet d'adresses.txt is deleted
+[2025-03-02 17:24:08]Chapitre1.xlsm is deleted
+[2025-03-02 17:24:08]compte opération.csv is deleted
+[2025-03-02 17:24:08]DatePicker.xlsm is deleted
+[2025-03-02 17:24:08]decrypt_test.txt is deleted
+[2025-03-02 17:24:08]dec_files.txt is deleted
+[2025-03-02 17:24:08]encrypt_test.txt is deleted
+[2025-03-02 17:24:08]enc_files.txt is deleted
+[2025-03-02 17:24:08]list_log.txt is deleted
+[2025-03-02 17:24:08]list_test.txt is deleted
+[2025-03-02 17:24:08]log.txt is deleted
+[2025-03-02 17:24:08]MyceliumExport_1509118104972.csv is deleted
+[2025-03-02 17:24:08]Nethris Internet Suite - Nethris Online Payroll Login Page.html is deleted
+[2025-03-02 17:24:08]Nouveau_Microsoft_kPublisher.pub is deleted
+[2025-03-02 17:24:08]Ouellet, Michel_FT_2020.xls is deleted
+[2025-03-02 17:24:08]pc-mc-2020-10-20.csv is deleted
+[2025-03-02 17:24:08]Planifications des dépenses.xlsm is deleted
+[2025-03-02 17:24:08]remove_test.txt is deleted
+[2025-03-02 17:24:08]report-pc-mastercard.csv is deleted
+[2025-03-02 17:24:08]statement (2).csv is deleted
+[2025-03-02 17:24:08]statement (2).xlsx is deleted
+[2025-03-02 17:24:08]statement-2020-05-12.csv is deleted
+[2025-03-02 17:24:08]statement.csv is deleted
+[2025-03-02 17:24:08]statement1.csv is deleted
+[2025-03-02 17:24:08]statement2.csv is deleted
+[2025-03-02 17:24:08]Tendances des dépenses passées.xlsm is deleted
+[2025-03-02 17:24:08]TEST.html is deleted
+[2025-03-02 17:24:08]TMDb.txt is deleted
+[2025-03-02 17:24:08]toto (2).txt is deleted
+[2025-03-02 17:24:08]toto.txt is deleted
+[2025-03-02 17:24:08]tryu.txt is deleted
+[2025-03-02 17:24:08]UdeM.txt is deleted
+[2025-03-02 17:24:08]UHTX-ERKFKS-FMFJF.txt is deleted
+[2025-03-02 17:24:08]uid is deleted
+[2025-03-02 17:24:08]user-358191-trades-1704.csv is deleted
+[2025-03-02 17:24:08]user-358191-trades-1705.csv is deleted
+[2025-03-02 17:24:08]user-358191-trades-1706.csv is deleted
+[2025-03-02 17:24:08]user-358191-trades-1707.csv is deleted
+[2025-03-02 17:24:08]user-358191-trades-1708.csv is deleted
+[2025-03-02 17:24:08]user-358191-trades-1709.csv is deleted
+[2025-03-02 17:24:08]UTC--2017-06-06T01-15-13.570480500Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is deleted
+[2025-03-02 17:24:08]UTC--2017-06-14T00-27-50.408Z--bdf88ba80451c30b2bb2d93d7dcf872771b18768 is deleted
+[2025-03-02 17:24:08]UTC--2017-06-19T14-35-43.258Z--73af203443e96780732b8c4c257f9ff8bf7824fa is deleted
+[2025-03-02 17:24:08]UTC--2017-06-24T01-13-14.193Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is deleted
+[2025-03-02 17:24:08]VISA DOLLARDS.csv is deleted
+[2025-03-02 17:24:08]Wallet.txt is deleted
+[2025-03-02 17:24:08]wallet1 - Copie.txt is deleted
+[2025-03-02 17:24:08]wallet1.txt is deleted
+[2025-03-02 17:24:08]xyz.zip is deleted
+[2025-03-02 17:24:08]État d compte 2016-12-28 à 2018-12-28.csv is deleted
+[2025-03-02 17:24:08]État de compte-Visa-2016-12-28 à 2018-12-28.csv is deleted
+[2025-03-02 17:24:08]Développement informatique is copied
+[2025-03-02 17:24:08]fichiers_tests is copied
+[2025-03-02 17:24:08]Finances is copied
+[2025-03-02 17:24:08]log is copied
+[2025-03-02 17:24:08]migrations is copied
+[2025-03-02 17:24:08][2025-03-02 17:24:08] sync: 1; update: 5; delete: 64;
+[2025-03-02 17:24:28]folder: ONLINE
+[2025-03-02 17:24:28]backup: ONLINE
+[2025-03-02 17:24:28]2.csv is deleted
+[2025-03-02 17:24:28]3.csv is deleted
+[2025-03-02 17:24:28]bitcoin.pdf is up to date
+[2025-03-02 17:24:28]Blocktrail.apikey.txt is deleted
+[2025-03-02 17:24:28]Budget nourriture canine et entraînement.xlsx is deleted
+[2025-03-02 17:24:28]Budget-Décembre-2019.xlsm is deleted
+[2025-03-02 17:24:28]Budget-Février-2020.xlsm is deleted
+[2025-03-02 17:24:28]Budget-Janvier-2020.xlsm is deleted
+[2025-03-02 17:24:28]Budget-Mars-2020-test.xlsm is deleted
+[2025-03-02 17:24:28]Budget-Mars-2020.xlsm is deleted
+[2025-03-02 17:24:28]Budget-Septembre-2019.xlsm is deleted
+[2025-03-02 17:24:28]Budget.ancien.xlsm is deleted
+[2025-03-02 17:24:28]Budget.xlsm is deleted
+[2025-03-02 17:24:28]bull-bitcoin-orders-Fri Apr 08 2022 17_05_35 GMT-0400 (heure d’été de l’Est).csv is deleted
+[2025-03-02 17:24:28]Carnet d'adresses.txt is deleted
+[2025-03-02 17:24:28]Chapitre1.xlsm is deleted
+[2025-03-02 17:24:28]compte opération.csv is deleted
+[2025-03-02 17:24:28]DatePicker.xlsm is deleted
+[2025-03-02 17:24:28]decrypt_test.txt is deleted
+[2025-03-02 17:24:28]dec_files.txt is deleted
+[2025-03-02 17:24:28]encrypt_test.txt is deleted
+[2025-03-02 17:24:28]enc_files.txt is deleted
+[2025-03-02 17:24:28]list_log.txt is deleted
+[2025-03-02 17:24:28]list_test.txt is deleted
+[2025-03-02 17:24:28]log.txt is deleted
+[2025-03-02 17:24:28]MyceliumExport_1509118104972.csv is deleted
+[2025-03-02 17:24:28]Nethris Internet Suite - Nethris Online Payroll Login Page.html is deleted
+[2025-03-02 17:24:28]Nouveau_Microsoft_kPublisher.pub is deleted
+[2025-03-02 17:24:28]Ouellet, Michel_FT_2020.xls is deleted
+[2025-03-02 17:24:28]pc-mc-2020-10-20.csv is deleted
+[2025-03-02 17:24:28]Planifications des dépenses.xlsm is deleted
+[2025-03-02 17:24:28]remove_test.txt is deleted
+[2025-03-02 17:24:28]report-pc-mastercard.csv is deleted
+[2025-03-02 17:24:28]statement (2).csv is deleted
+[2025-03-02 17:24:28]statement (2).xlsx is deleted
+[2025-03-02 17:24:28]statement-2020-05-12.csv is deleted
+[2025-03-02 17:24:28]statement.csv is deleted
+[2025-03-02 17:24:28]statement1.csv is deleted
+[2025-03-02 17:24:28]statement2.csv is deleted
+[2025-03-02 17:24:28]Tendances des dépenses passées.xlsm is deleted
+[2025-03-02 17:24:28]TEST.html is deleted
+[2025-03-02 17:24:28]TMDb.txt is deleted
+[2025-03-02 17:24:28]toto (2).txt is deleted
+[2025-03-02 17:24:28]toto.txt is deleted
+[2025-03-02 17:24:28]tryu.txt is deleted
+[2025-03-02 17:24:28]UdeM.txt is deleted
+[2025-03-02 17:24:28]UHTX-ERKFKS-FMFJF.txt is deleted
+[2025-03-02 17:24:28]uid is deleted
+[2025-03-02 17:24:28]user-358191-trades-1704.csv is deleted
+[2025-03-02 17:24:28]user-358191-trades-1705.csv is deleted
+[2025-03-02 17:24:28]user-358191-trades-1706.csv is deleted
+[2025-03-02 17:24:28]user-358191-trades-1707.csv is deleted
+[2025-03-02 17:24:28]user-358191-trades-1708.csv is deleted
+[2025-03-02 17:24:28]user-358191-trades-1709.csv is deleted
+[2025-03-02 17:24:28]UTC--2017-06-06T01-15-13.570480500Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is deleted
+[2025-03-02 17:24:28]UTC--2017-06-14T00-27-50.408Z--bdf88ba80451c30b2bb2d93d7dcf872771b18768 is deleted
+[2025-03-02 17:24:28]UTC--2017-06-19T14-35-43.258Z--73af203443e96780732b8c4c257f9ff8bf7824fa is deleted
+[2025-03-02 17:24:28]UTC--2017-06-24T01-13-14.193Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is deleted
+[2025-03-02 17:24:28]VISA DOLLARDS.csv is deleted
+[2025-03-02 17:24:28]Wallet.txt is deleted
+[2025-03-02 17:24:28]wallet1 - Copie.txt is deleted
+[2025-03-02 17:24:28]wallet1.txt is deleted
+[2025-03-02 17:24:28]xyz.zip is deleted
+[2025-03-02 17:24:28]État d compte 2016-12-28 à 2018-12-28.csv is deleted
+[2025-03-02 17:24:28]État de compte-Visa-2016-12-28 à 2018-12-28.csv is deleted
+[2025-03-02 17:24:28]Développement informatique is copied
+[2025-03-02 17:24:29]fichiers_tests is copied
+[2025-03-02 17:24:29]Finances is copied
+[2025-03-02 17:24:29]log is copied
+[2025-03-02 17:24:29]migrations is copied
+[2025-03-02 17:24:29][2025-03-02 17:24:29] sync: 1; update: 5; delete: 64;
+[2025-03-02 17:24:49]folder: ONLINE
+[2025-03-02 17:24:49]backup: ONLINE
+[2025-03-02 17:24:49]2.csv is deleted
+[2025-03-02 17:24:49]3.csv is deleted
+[2025-03-02 17:24:49]bitcoin.pdf is up to date
+[2025-03-02 17:24:49]Blocktrail.apikey.txt is deleted
+[2025-03-02 17:24:49]Budget nourriture canine et entraînement.xlsx is deleted
+[2025-03-02 17:24:49]Budget-Décembre-2019.xlsm is deleted
+[2025-03-02 17:24:49]Budget-Février-2020.xlsm is deleted
+[2025-03-02 17:24:49]Budget-Janvier-2020.xlsm is deleted
+[2025-03-02 17:24:49]Budget-Mars-2020-test.xlsm is deleted
+[2025-03-02 17:24:49]Budget-Mars-2020.xlsm is deleted
+[2025-03-02 17:24:49]Budget-Septembre-2019.xlsm is deleted
+[2025-03-02 17:24:49]Budget.ancien.xlsm is deleted
+[2025-03-02 17:24:49]Budget.xlsm is deleted
+[2025-03-02 17:24:49]bull-bitcoin-orders-Fri Apr 08 2022 17_05_35 GMT-0400 (heure d’été de l’Est).csv is deleted
+[2025-03-02 17:24:49]Carnet d'adresses.txt is deleted
+[2025-03-02 17:24:49]Chapitre1.xlsm is deleted
+[2025-03-02 17:24:49]compte opération.csv is deleted
+[2025-03-02 17:24:49]DatePicker.xlsm is deleted
+[2025-03-02 17:24:49]decrypt_test.txt is deleted
+[2025-03-02 17:24:49]dec_files.txt is deleted
+[2025-03-02 17:24:49]encrypt_test.txt is deleted
+[2025-03-02 17:24:49]enc_files.txt is deleted
+[2025-03-02 17:24:49]list_log.txt is deleted
+[2025-03-02 17:24:49]list_test.txt is deleted
+[2025-03-02 17:24:49]log.txt is deleted
+[2025-03-02 17:24:49]MyceliumExport_1509118104972.csv is deleted
+[2025-03-02 17:24:49]Nethris Internet Suite - Nethris Online Payroll Login Page.html is deleted
+[2025-03-02 17:24:49]Nouveau_Microsoft_kPublisher.pub is deleted
+[2025-03-02 17:24:49]Ouellet, Michel_FT_2020.xls is deleted
+[2025-03-02 17:24:49]pc-mc-2020-10-20.csv is deleted
+[2025-03-02 17:24:49]Planifications des dépenses.xlsm is deleted
+[2025-03-02 17:24:49]remove_test.txt is deleted
+[2025-03-02 17:24:49]report-pc-mastercard.csv is deleted
+[2025-03-02 17:24:49]statement (2).csv is deleted
+[2025-03-02 17:24:49]statement (2).xlsx is deleted
+[2025-03-02 17:24:49]statement-2020-05-12.csv is deleted
+[2025-03-02 17:24:49]statement.csv is deleted
+[2025-03-02 17:24:49]statement1.csv is deleted
+[2025-03-02 17:24:49]statement2.csv is deleted
+[2025-03-02 17:24:49]Tendances des dépenses passées.xlsm is deleted
+[2025-03-02 17:24:49]TEST.html is deleted
+[2025-03-02 17:24:49]TMDb.txt is deleted
+[2025-03-02 17:24:49]toto (2).txt is deleted
+[2025-03-02 17:24:49]toto.txt is deleted
+[2025-03-02 17:24:49]tryu.txt is deleted
+[2025-03-02 17:24:49]UdeM.txt is deleted
+[2025-03-02 17:24:49]UHTX-ERKFKS-FMFJF.txt is deleted
+[2025-03-02 17:24:49]uid is deleted
+[2025-03-02 17:24:49]user-358191-trades-1704.csv is deleted
+[2025-03-02 17:24:49]user-358191-trades-1705.csv is deleted
+[2025-03-02 17:24:49]user-358191-trades-1706.csv is deleted
+[2025-03-02 17:24:49]user-358191-trades-1707.csv is deleted
+[2025-03-02 17:24:49]user-358191-trades-1708.csv is deleted
+[2025-03-02 17:24:49]user-358191-trades-1709.csv is deleted
+[2025-03-02 17:24:49]UTC--2017-06-06T01-15-13.570480500Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is deleted
+[2025-03-02 17:24:49]UTC--2017-06-14T00-27-50.408Z--bdf88ba80451c30b2bb2d93d7dcf872771b18768 is deleted
+[2025-03-02 17:24:49]UTC--2017-06-19T14-35-43.258Z--73af203443e96780732b8c4c257f9ff8bf7824fa is deleted
+[2025-03-02 17:24:49]UTC--2017-06-24T01-13-14.193Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is deleted
+[2025-03-02 17:24:49]VISA DOLLARDS.csv is deleted
+[2025-03-02 17:24:49]Wallet.txt is deleted
+[2025-03-02 17:24:49]wallet1 - Copie.txt is deleted
+[2025-03-02 17:24:49]wallet1.txt is deleted
+[2025-03-02 17:24:49]xyz.zip is deleted
+[2025-03-02 17:24:49]État d compte 2016-12-28 à 2018-12-28.csv is deleted
+[2025-03-02 17:24:49]État de compte-Visa-2016-12-28 à 2018-12-28.csv is deleted
+[2025-03-02 17:24:49]Développement informatique is copied
+[2025-03-02 17:24:49]fichiers_tests is copied
+[2025-03-02 17:24:49]Finances is copied
+[2025-03-02 17:24:49]log is copied
+[2025-03-02 17:24:49]migrations is copied
+[2025-03-02 17:24:49][2025-03-02 17:24:49] sync: 1; update: 5; delete: 64;
+[2025-03-02 17:25:09]folder: ONLINE
+[2025-03-02 17:25:09]backup: ONLINE
+[2025-03-02 17:25:09]2.csv is deleted
+[2025-03-02 17:25:09]3.csv is deleted
+[2025-03-02 17:25:09]bitcoin.pdf is up to date
+[2025-03-02 17:25:09]Blocktrail.apikey.txt is deleted
+[2025-03-02 17:25:09]Budget nourriture canine et entraînement.xlsx is deleted
+[2025-03-02 17:25:09]Budget-Décembre-2019.xlsm is deleted
+[2025-03-02 17:25:09]Budget-Février-2020.xlsm is deleted
+[2025-03-02 17:25:09]Budget-Janvier-2020.xlsm is deleted
+[2025-03-02 17:25:09]Budget-Mars-2020-test.xlsm is deleted
+[2025-03-02 17:25:09]Budget-Mars-2020.xlsm is deleted
+[2025-03-02 17:25:09]Budget-Septembre-2019.xlsm is deleted
+[2025-03-02 17:25:09]Budget.ancien.xlsm is deleted
+[2025-03-02 17:25:09]Budget.xlsm is deleted
+[2025-03-02 17:25:09]bull-bitcoin-orders-Fri Apr 08 2022 17_05_35 GMT-0400 (heure d’été de l’Est).csv is deleted
+[2025-03-02 17:25:09]Carnet d'adresses.txt is deleted
+[2025-03-02 17:25:09]Chapitre1.xlsm is deleted
+[2025-03-02 17:25:09]compte opération.csv is deleted
+[2025-03-02 17:25:09]DatePicker.xlsm is deleted
+[2025-03-02 17:25:09]decrypt_test.txt is deleted
+[2025-03-02 17:25:09]dec_files.txt is deleted
+[2025-03-02 17:25:09]encrypt_test.txt is deleted
+[2025-03-02 17:25:09]enc_files.txt is deleted
+[2025-03-02 17:25:09]list_log.txt is deleted
+[2025-03-02 17:25:09]list_test.txt is deleted
+[2025-03-02 17:25:09]log.txt is deleted
+[2025-03-02 17:25:09]MyceliumExport_1509118104972.csv is deleted
+[2025-03-02 17:25:09]Nethris Internet Suite - Nethris Online Payroll Login Page.html is deleted
+[2025-03-02 17:25:09]Nouveau_Microsoft_kPublisher.pub is deleted
+[2025-03-02 17:25:09]Ouellet, Michel_FT_2020.xls is deleted
+[2025-03-02 17:25:09]pc-mc-2020-10-20.csv is deleted
+[2025-03-02 17:25:09]Planifications des dépenses.xlsm is deleted
+[2025-03-02 17:25:09]remove_test.txt is deleted
+[2025-03-02 17:25:09]report-pc-mastercard.csv is deleted
+[2025-03-02 17:25:09]statement (2).csv is deleted
+[2025-03-02 17:25:09]statement (2).xlsx is deleted
+[2025-03-02 17:25:09]statement-2020-05-12.csv is deleted
+[2025-03-02 17:25:09]statement.csv is deleted
+[2025-03-02 17:25:09]statement1.csv is deleted
+[2025-03-02 17:25:09]statement2.csv is deleted
+[2025-03-02 17:25:09]Tendances des dépenses passées.xlsm is deleted
+[2025-03-02 17:25:09]TEST.html is deleted
+[2025-03-02 17:25:09]TMDb.txt is deleted
+[2025-03-02 17:25:09]toto (2).txt is deleted
+[2025-03-02 17:25:09]toto.txt is deleted
+[2025-03-02 17:25:09]tryu.txt is deleted
+[2025-03-02 17:25:09]UdeM.txt is deleted
+[2025-03-02 17:25:09]UHTX-ERKFKS-FMFJF.txt is deleted
+[2025-03-02 17:25:09]uid is deleted
+[2025-03-02 17:25:09]user-358191-trades-1704.csv is deleted
+[2025-03-02 17:25:09]user-358191-trades-1705.csv is deleted
+[2025-03-02 17:25:09]user-358191-trades-1706.csv is deleted
+[2025-03-02 17:25:09]user-358191-trades-1707.csv is deleted
+[2025-03-02 17:25:09]user-358191-trades-1708.csv is deleted
+[2025-03-02 17:25:09]user-358191-trades-1709.csv is deleted
+[2025-03-02 17:25:09]UTC--2017-06-06T01-15-13.570480500Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is deleted
+[2025-03-02 17:25:09]UTC--2017-06-14T00-27-50.408Z--bdf88ba80451c30b2bb2d93d7dcf872771b18768 is deleted
+[2025-03-02 17:25:09]UTC--2017-06-19T14-35-43.258Z--73af203443e96780732b8c4c257f9ff8bf7824fa is deleted
+[2025-03-02 17:25:09]UTC--2017-06-24T01-13-14.193Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is deleted
+[2025-03-02 17:25:09]VISA DOLLARDS.csv is deleted
+[2025-03-02 17:25:09]Wallet.txt is deleted
+[2025-03-02 17:25:09]wallet1 - Copie.txt is deleted
+[2025-03-02 17:25:09]wallet1.txt is deleted
+[2025-03-02 17:25:09]xyz.zip is deleted
+[2025-03-02 17:25:09]État d compte 2016-12-28 à 2018-12-28.csv is deleted
+[2025-03-02 17:25:09]État de compte-Visa-2016-12-28 à 2018-12-28.csv is deleted
+[2025-03-02 17:25:09]Développement informatique is copied
+[2025-03-02 17:25:09]fichiers_tests is copied
+[2025-03-02 17:25:09]Finances is copied
+[2025-03-02 17:25:10]log is copied
+[2025-03-02 17:25:10]migrations is copied
+[2025-03-02 17:25:10][2025-03-02 17:25:10] sync: 1; update: 5; delete: 64;
+[2025-03-02 17:25:30]folder: ONLINE
+[2025-03-02 17:25:30]backup: ONLINE
+[2025-03-02 17:25:30]2.csv is deleted
+[2025-03-02 17:25:30]3.csv is deleted
+[2025-03-02 17:25:30]bitcoin.pdf is up to date
+[2025-03-02 17:25:30]Blocktrail.apikey.txt is deleted
+[2025-03-02 17:25:30]Budget nourriture canine et entraînement.xlsx is deleted
+[2025-03-02 17:25:30]Budget-Décembre-2019.xlsm is deleted
+[2025-03-02 17:25:30]Budget-Février-2020.xlsm is deleted
+[2025-03-02 17:25:30]Budget-Janvier-2020.xlsm is deleted
+[2025-03-02 17:25:30]Budget-Mars-2020-test.xlsm is deleted
+[2025-03-02 17:25:30]Budget-Mars-2020.xlsm is deleted
+[2025-03-02 17:25:30]Budget-Septembre-2019.xlsm is deleted
+[2025-03-02 17:25:30]Budget.ancien.xlsm is deleted
+[2025-03-02 17:25:30]Budget.xlsm is deleted
+[2025-03-02 17:25:30]bull-bitcoin-orders-Fri Apr 08 2022 17_05_35 GMT-0400 (heure d’été de l’Est).csv is deleted
+[2025-03-02 17:25:30]Carnet d'adresses.txt is deleted
+[2025-03-02 17:25:30]Chapitre1.xlsm is deleted
+[2025-03-02 17:25:30]compte opération.csv is deleted
+[2025-03-02 17:25:30]DatePicker.xlsm is deleted
+[2025-03-02 17:25:30]decrypt_test.txt is deleted
+[2025-03-02 17:25:30]dec_files.txt is deleted
+[2025-03-02 17:25:30]encrypt_test.txt is deleted
+[2025-03-02 17:25:30]enc_files.txt is deleted
+[2025-03-02 17:25:30]list_log.txt is deleted
+[2025-03-02 17:25:30]list_test.txt is deleted
+[2025-03-02 17:25:30]log.txt is deleted
+[2025-03-02 17:25:30]MyceliumExport_1509118104972.csv is deleted
+[2025-03-02 17:25:30]Nethris Internet Suite - Nethris Online Payroll Login Page.html is deleted
+[2025-03-02 17:25:30]Nouveau_Microsoft_kPublisher.pub is deleted
+[2025-03-02 17:25:30]Ouellet, Michel_FT_2020.xls is deleted
+[2025-03-02 17:25:30]pc-mc-2020-10-20.csv is deleted
+[2025-03-02 17:25:30]Planifications des dépenses.xlsm is deleted
+[2025-03-02 17:25:30]remove_test.txt is deleted
+[2025-03-02 17:25:30]report-pc-mastercard.csv is deleted
+[2025-03-02 17:25:30]statement (2).csv is deleted
+[2025-03-02 17:25:30]statement (2).xlsx is deleted
+[2025-03-02 17:25:30]statement-2020-05-12.csv is deleted
+[2025-03-02 17:25:30]statement.csv is deleted
+[2025-03-02 17:25:30]statement1.csv is deleted
+[2025-03-02 17:25:30]statement2.csv is deleted
+[2025-03-02 17:25:30]Tendances des dépenses passées.xlsm is deleted
+[2025-03-02 17:25:30]TEST.html is deleted
+[2025-03-02 17:25:30]TMDb.txt is deleted
+[2025-03-02 17:25:30]toto (2).txt is deleted
+[2025-03-02 17:25:30]toto.txt is deleted
+[2025-03-02 17:25:30]tryu.txt is deleted
+[2025-03-02 17:25:30]UdeM.txt is deleted
+[2025-03-02 17:25:30]UHTX-ERKFKS-FMFJF.txt is deleted
+[2025-03-02 17:25:30]uid is deleted
+[2025-03-02 17:25:30]user-358191-trades-1704.csv is deleted
+[2025-03-02 17:25:30]user-358191-trades-1705.csv is deleted
+[2025-03-02 17:25:30]user-358191-trades-1706.csv is deleted
+[2025-03-02 17:25:30]user-358191-trades-1707.csv is deleted
+[2025-03-02 17:25:30]user-358191-trades-1708.csv is deleted
+[2025-03-02 17:25:30]user-358191-trades-1709.csv is deleted
+[2025-03-02 17:25:30]UTC--2017-06-06T01-15-13.570480500Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is deleted
+[2025-03-02 17:25:30]UTC--2017-06-14T00-27-50.408Z--bdf88ba80451c30b2bb2d93d7dcf872771b18768 is deleted
+[2025-03-02 17:25:30]UTC--2017-06-19T14-35-43.258Z--73af203443e96780732b8c4c257f9ff8bf7824fa is deleted
+[2025-03-02 17:25:30]UTC--2017-06-24T01-13-14.193Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is deleted
+[2025-03-02 17:25:30]VISA DOLLARDS.csv is deleted
+[2025-03-02 17:25:30]Wallet.txt is deleted
+[2025-03-02 17:25:30]wallet1 - Copie.txt is deleted
+[2025-03-02 17:25:30]wallet1.txt is deleted
+[2025-03-02 17:25:30]xyz.zip is deleted
+[2025-03-02 17:25:30]État d compte 2016-12-28 à 2018-12-28.csv is deleted
+[2025-03-02 17:25:30]État de compte-Visa-2016-12-28 à 2018-12-28.csv is deleted
+[2025-03-02 17:25:30]Développement informatique is copied
+[2025-03-02 17:25:30]fichiers_tests is copied
+[2025-03-02 17:25:30]Finances is copied
+[2025-03-02 17:25:30]log is copied
+[2025-03-02 17:25:30]migrations is copied
+[2025-03-02 17:25:30][2025-03-02 17:25:30] sync: 1; update: 5; delete: 64;
+[2025-03-02 17:25:50]folder: ONLINE
+[2025-03-02 17:25:50]backup: ONLINE
+[2025-03-02 17:25:50]2.csv is deleted
+[2025-03-02 17:25:50]3.csv is deleted
+[2025-03-02 17:25:50]bitcoin.pdf is up to date
+[2025-03-02 17:25:50]Blocktrail.apikey.txt is deleted
+[2025-03-02 17:25:50]Budget nourriture canine et entraînement.xlsx is deleted
+[2025-03-02 17:25:50]Budget-Décembre-2019.xlsm is deleted
+[2025-03-02 17:25:50]Budget-Février-2020.xlsm is deleted
+[2025-03-02 17:25:50]Budget-Janvier-2020.xlsm is deleted
+[2025-03-02 17:25:50]Budget-Mars-2020-test.xlsm is deleted
+[2025-03-02 17:25:50]Budget-Mars-2020.xlsm is deleted
+[2025-03-02 17:25:50]Budget-Septembre-2019.xlsm is deleted
+[2025-03-02 17:25:50]Budget.ancien.xlsm is deleted
+[2025-03-02 17:25:50]Budget.xlsm is deleted
+[2025-03-02 17:25:50]bull-bitcoin-orders-Fri Apr 08 2022 17_05_35 GMT-0400 (heure d’été de l’Est).csv is deleted
+[2025-03-02 17:25:50]Carnet d'adresses.txt is deleted
+[2025-03-02 17:25:50]Chapitre1.xlsm is deleted
+[2025-03-02 17:25:50]compte opération.csv is deleted
+[2025-03-02 17:25:50]DatePicker.xlsm is deleted
+[2025-03-02 17:25:50]decrypt_test.txt is deleted
+[2025-03-02 17:25:50]dec_files.txt is deleted
+[2025-03-02 17:25:50]encrypt_test.txt is deleted
+[2025-03-02 17:25:50]enc_files.txt is deleted
+[2025-03-02 17:25:50]list_log.txt is deleted
+[2025-03-02 17:25:50]list_test.txt is deleted
+[2025-03-02 17:25:50]log.txt is deleted
+[2025-03-02 17:25:50]MyceliumExport_1509118104972.csv is deleted
+[2025-03-02 17:25:50]Nethris Internet Suite - Nethris Online Payroll Login Page.html is deleted
+[2025-03-02 17:25:50]Nouveau_Microsoft_kPublisher.pub is deleted
+[2025-03-02 17:25:50]Ouellet, Michel_FT_2020.xls is deleted
+[2025-03-02 17:25:50]pc-mc-2020-10-20.csv is deleted
+[2025-03-02 17:25:50]Planifications des dépenses.xlsm is deleted
+[2025-03-02 17:25:50]remove_test.txt is deleted
+[2025-03-02 17:25:50]report-pc-mastercard.csv is deleted
+[2025-03-02 17:25:50]statement (2).csv is deleted
+[2025-03-02 17:25:50]statement (2).xlsx is deleted
+[2025-03-02 17:25:50]statement-2020-05-12.csv is deleted
+[2025-03-02 17:25:50]statement.csv is deleted
+[2025-03-02 17:25:50]statement1.csv is deleted
+[2025-03-02 17:25:50]statement2.csv is deleted
+[2025-03-02 17:25:50]Tendances des dépenses passées.xlsm is deleted
+[2025-03-02 17:25:50]TEST.html is deleted
+[2025-03-02 17:25:50]TMDb.txt is deleted
+[2025-03-02 17:25:50]toto (2).txt is deleted
+[2025-03-02 17:25:50]toto.txt is deleted
+[2025-03-02 17:25:50]tryu.txt is deleted
+[2025-03-02 17:25:50]UdeM.txt is deleted
+[2025-03-02 17:25:50]UHTX-ERKFKS-FMFJF.txt is deleted
+[2025-03-02 17:25:50]uid is deleted
+[2025-03-02 17:25:50]user-358191-trades-1704.csv is deleted
+[2025-03-02 17:25:50]user-358191-trades-1705.csv is deleted
+[2025-03-02 17:25:50]user-358191-trades-1706.csv is deleted
+[2025-03-02 17:25:50]user-358191-trades-1707.csv is deleted
+[2025-03-02 17:25:50]user-358191-trades-1708.csv is deleted
+[2025-03-02 17:25:50]user-358191-trades-1709.csv is deleted
+[2025-03-02 17:25:50]UTC--2017-06-06T01-15-13.570480500Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is deleted
+[2025-03-02 17:25:50]UTC--2017-06-14T00-27-50.408Z--bdf88ba80451c30b2bb2d93d7dcf872771b18768 is deleted
+[2025-03-02 17:25:50]UTC--2017-06-19T14-35-43.258Z--73af203443e96780732b8c4c257f9ff8bf7824fa is deleted
+[2025-03-02 17:25:50]UTC--2017-06-24T01-13-14.193Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is deleted
+[2025-03-02 17:25:50]VISA DOLLARDS.csv is deleted
+[2025-03-02 17:25:50]Wallet.txt is deleted
+[2025-03-02 17:25:50]wallet1 - Copie.txt is deleted
+[2025-03-02 17:25:50]wallet1.txt is deleted
+[2025-03-02 17:25:50]xyz.zip is deleted
+[2025-03-02 17:25:50]État d compte 2016-12-28 à 2018-12-28.csv is deleted
+[2025-03-02 17:25:50]État de compte-Visa-2016-12-28 à 2018-12-28.csv is deleted
+[2025-03-02 17:25:50]Développement informatique is copied
+[2025-03-02 17:25:50]fichiers_tests is copied
+[2025-03-02 17:25:50]Finances is copied
+[2025-03-02 17:25:50]log is copied
+[2025-03-02 17:25:50]migrations is copied
+[2025-03-02 17:25:50][2025-03-02 17:25:50] sync: 1; update: 5; delete: 64;
+[2025-03-02 17:26:10]folder: ONLINE
+[2025-03-02 17:26:10]backup: ONLINE
+[2025-03-02 17:26:10]2.csv is deleted
+[2025-03-02 17:26:10]3.csv is deleted
+[2025-03-02 17:26:10]bitcoin.pdf is up to date
+[2025-03-02 17:26:10]Blocktrail.apikey.txt is deleted
+[2025-03-02 17:26:10]Budget nourriture canine et entraînement.xlsx is deleted
+[2025-03-02 17:26:10]Budget-Décembre-2019.xlsm is deleted
+[2025-03-02 17:26:10]Budget-Février-2020.xlsm is deleted
+[2025-03-02 17:26:10]Budget-Janvier-2020.xlsm is deleted
+[2025-03-02 17:26:10]Budget-Mars-2020-test.xlsm is deleted
+[2025-03-02 17:26:10]Budget-Mars-2020.xlsm is deleted
+[2025-03-02 17:26:10]Budget-Septembre-2019.xlsm is deleted
+[2025-03-02 17:26:10]Budget.ancien.xlsm is deleted
+[2025-03-02 17:26:10]Budget.xlsm is deleted
+[2025-03-02 17:26:10]bull-bitcoin-orders-Fri Apr 08 2022 17_05_35 GMT-0400 (heure d’été de l’Est).csv is deleted
+[2025-03-02 17:26:10]Carnet d'adresses.txt is deleted
+[2025-03-02 17:26:10]Chapitre1.xlsm is deleted
+[2025-03-02 17:26:10]compte opération.csv is deleted
+[2025-03-02 17:26:10]DatePicker.xlsm is deleted
+[2025-03-02 17:26:10]decrypt_test.txt is deleted
+[2025-03-02 17:26:10]dec_files.txt is deleted
+[2025-03-02 17:26:10]encrypt_test.txt is deleted
+[2025-03-02 17:26:10]enc_files.txt is deleted
+[2025-03-02 17:26:10]list_log.txt is deleted
+[2025-03-02 17:26:10]list_test.txt is deleted
+[2025-03-02 17:26:10]log.txt is deleted
+[2025-03-02 17:26:10]MyceliumExport_1509118104972.csv is deleted
+[2025-03-02 17:26:10]Nethris Internet Suite - Nethris Online Payroll Login Page.html is deleted
+[2025-03-02 17:26:10]Nouveau_Microsoft_kPublisher.pub is deleted
+[2025-03-02 17:26:10]Ouellet, Michel_FT_2020.xls is deleted
+[2025-03-02 17:26:10]pc-mc-2020-10-20.csv is deleted
+[2025-03-02 17:26:10]Planifications des dépenses.xlsm is deleted
+[2025-03-02 17:26:10]remove_test.txt is deleted
+[2025-03-02 17:26:10]report-pc-mastercard.csv is deleted
+[2025-03-02 17:26:10]statement (2).csv is deleted
+[2025-03-02 17:26:10]statement (2).xlsx is deleted
+[2025-03-02 17:26:10]statement-2020-05-12.csv is deleted
+[2025-03-02 17:26:10]statement.csv is deleted
+[2025-03-02 17:26:10]statement1.csv is deleted
+[2025-03-02 17:26:10]statement2.csv is deleted
+[2025-03-02 17:26:10]Tendances des dépenses passées.xlsm is deleted
+[2025-03-02 17:26:10]TEST.html is deleted
+[2025-03-02 17:26:10]TMDb.txt is deleted
+[2025-03-02 17:26:10]toto (2).txt is deleted
+[2025-03-02 17:26:10]toto.txt is deleted
+[2025-03-02 17:26:10]tryu.txt is deleted
+[2025-03-02 17:26:10]UdeM.txt is deleted
+[2025-03-02 17:26:10]UHTX-ERKFKS-FMFJF.txt is deleted
+[2025-03-02 17:26:10]uid is deleted
+[2025-03-02 17:26:10]user-358191-trades-1704.csv is deleted
+[2025-03-02 17:26:10]user-358191-trades-1705.csv is deleted
+[2025-03-02 17:26:10]user-358191-trades-1706.csv is deleted
+[2025-03-02 17:26:10]user-358191-trades-1707.csv is deleted
+[2025-03-02 17:26:10]user-358191-trades-1708.csv is deleted
+[2025-03-02 17:26:10]user-358191-trades-1709.csv is deleted
+[2025-03-02 17:26:10]UTC--2017-06-06T01-15-13.570480500Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is deleted
+[2025-03-02 17:26:10]UTC--2017-06-14T00-27-50.408Z--bdf88ba80451c30b2bb2d93d7dcf872771b18768 is deleted
+[2025-03-02 17:26:10]UTC--2017-06-19T14-35-43.258Z--73af203443e96780732b8c4c257f9ff8bf7824fa is deleted
+[2025-03-02 17:26:10]UTC--2017-06-24T01-13-14.193Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is deleted
+[2025-03-02 17:26:10]VISA DOLLARDS.csv is deleted
+[2025-03-02 17:26:10]Wallet.txt is deleted
+[2025-03-02 17:26:10]wallet1 - Copie.txt is deleted
+[2025-03-02 17:26:10]wallet1.txt is deleted
+[2025-03-02 17:26:10]xyz.zip is deleted
+[2025-03-02 17:26:10]État d compte 2016-12-28 à 2018-12-28.csv is deleted
+[2025-03-02 17:26:10]État de compte-Visa-2016-12-28 à 2018-12-28.csv is deleted
+[2025-03-02 17:26:10]Développement informatique is copied
+[2025-03-02 17:26:11]fichiers_tests is copied
+[2025-03-02 17:26:11]Finances is copied
+[2025-03-02 17:26:11]log is copied
+[2025-03-02 17:26:11]migrations is copied
+[2025-03-02 17:26:11][2025-03-02 17:26:11] sync: 1; update: 5; delete: 64;
+[2025-03-02 17:26:31]folder: ONLINE
+[2025-03-02 17:26:31]backup: ONLINE
+[2025-03-02 17:26:31]2.csv is deleted
+[2025-03-02 17:26:31]3.csv is deleted
+[2025-03-02 17:26:31]bitcoin.pdf is up to date
+[2025-03-02 17:26:31]Blocktrail.apikey.txt is deleted
+[2025-03-02 17:26:31]Budget nourriture canine et entraînement.xlsx is deleted
+[2025-03-02 17:26:31]Budget-Décembre-2019.xlsm is deleted
+[2025-03-02 17:26:31]Budget-Février-2020.xlsm is deleted
+[2025-03-02 17:26:31]Budget-Janvier-2020.xlsm is deleted
+[2025-03-02 17:26:31]Budget-Mars-2020-test.xlsm is deleted
+[2025-03-02 17:26:31]Budget-Mars-2020.xlsm is deleted
+[2025-03-02 17:26:31]Budget-Septembre-2019.xlsm is deleted
+[2025-03-02 17:26:31]Budget.ancien.xlsm is deleted
+[2025-03-02 17:26:31]Budget.xlsm is deleted
+[2025-03-02 17:26:31]bull-bitcoin-orders-Fri Apr 08 2022 17_05_35 GMT-0400 (heure d’été de l’Est).csv is deleted
+[2025-03-02 17:26:31]Carnet d'adresses.txt is deleted
+[2025-03-02 17:26:31]Chapitre1.xlsm is deleted
+[2025-03-02 17:26:31]compte opération.csv is deleted
+[2025-03-02 17:26:31]DatePicker.xlsm is deleted
+[2025-03-02 17:26:31]decrypt_test.txt is deleted
+[2025-03-02 17:26:31]dec_files.txt is deleted
+[2025-03-02 17:26:31]encrypt_test.txt is deleted
+[2025-03-02 17:26:31]enc_files.txt is deleted
+[2025-03-02 17:26:31]list_log.txt is deleted
+[2025-03-02 17:26:31]list_test.txt is deleted
+[2025-03-02 17:26:31]log.txt is deleted
+[2025-03-02 17:26:31]MyceliumExport_1509118104972.csv is deleted
+[2025-03-02 17:26:31]Nethris Internet Suite - Nethris Online Payroll Login Page.html is deleted
+[2025-03-02 17:26:31]Nouveau_Microsoft_kPublisher.pub is deleted
+[2025-03-02 17:26:31]Ouellet, Michel_FT_2020.xls is deleted
+[2025-03-02 17:26:31]pc-mc-2020-10-20.csv is deleted
+[2025-03-02 17:26:31]Planifications des dépenses.xlsm is deleted
+[2025-03-02 17:26:31]remove_test.txt is deleted
+[2025-03-02 17:26:31]report-pc-mastercard.csv is deleted
+[2025-03-02 17:26:31]statement (2).csv is deleted
+[2025-03-02 17:26:31]statement (2).xlsx is deleted
+[2025-03-02 17:26:31]statement-2020-05-12.csv is deleted
+[2025-03-02 17:26:31]statement.csv is deleted
+[2025-03-02 17:26:31]statement1.csv is deleted
+[2025-03-02 17:26:31]statement2.csv is deleted
+[2025-03-02 17:26:31]Tendances des dépenses passées.xlsm is deleted
+[2025-03-02 17:26:31]TEST.html is deleted
+[2025-03-02 17:26:31]TMDb.txt is deleted
+[2025-03-02 17:26:31]toto (2).txt is deleted
+[2025-03-02 17:26:31]toto.txt is deleted
+[2025-03-02 17:26:31]tryu.txt is deleted
+[2025-03-02 17:26:31]UdeM.txt is deleted
+[2025-03-02 17:26:31]UHTX-ERKFKS-FMFJF.txt is deleted
+[2025-03-02 17:26:31]uid is deleted
+[2025-03-02 17:26:31]user-358191-trades-1704.csv is deleted
+[2025-03-02 17:26:31]user-358191-trades-1705.csv is deleted
+[2025-03-02 17:26:31]user-358191-trades-1706.csv is deleted
+[2025-03-02 17:26:31]user-358191-trades-1707.csv is deleted
+[2025-03-02 17:26:31]user-358191-trades-1708.csv is deleted
+[2025-03-02 17:26:31]user-358191-trades-1709.csv is deleted
+[2025-03-02 17:26:31]UTC--2017-06-06T01-15-13.570480500Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is deleted
+[2025-03-02 17:26:31]UTC--2017-06-14T00-27-50.408Z--bdf88ba80451c30b2bb2d93d7dcf872771b18768 is deleted
+[2025-03-02 17:26:31]UTC--2017-06-19T14-35-43.258Z--73af203443e96780732b8c4c257f9ff8bf7824fa is deleted
+[2025-03-02 17:26:31]UTC--2017-06-24T01-13-14.193Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is deleted
+[2025-03-02 17:26:31]VISA DOLLARDS.csv is deleted
+[2025-03-02 17:26:31]Wallet.txt is deleted
+[2025-03-02 17:26:31]wallet1 - Copie.txt is deleted
+[2025-03-02 17:26:31]wallet1.txt is deleted
+[2025-03-02 17:26:31]xyz.zip is deleted
+[2025-03-02 17:26:31]État d compte 2016-12-28 à 2018-12-28.csv is deleted
+[2025-03-02 17:26:31]État de compte-Visa-2016-12-28 à 2018-12-28.csv is deleted
+[2025-03-02 17:26:31]Développement informatique is copied
+[2025-03-02 17:26:31]fichiers_tests is copied
+[2025-03-02 17:26:31]Finances is copied
+[2025-03-02 17:26:31]log is copied
+[2025-03-02 17:26:31]migrations is copied
+[2025-03-02 17:26:31][2025-03-02 17:26:31] sync: 1; update: 5; delete: 64;
+[2025-03-02 17:26:51]folder: ONLINE
+[2025-03-02 17:26:51]backup: ONLINE
+[2025-03-02 17:26:51]2.csv is deleted
+[2025-03-02 17:26:51]3.csv is deleted
+[2025-03-02 17:26:51]bitcoin.pdf is up to date
+[2025-03-02 17:26:51]Blocktrail.apikey.txt is deleted
+[2025-03-02 17:26:51]Budget nourriture canine et entraînement.xlsx is deleted
+[2025-03-02 17:26:51]Budget-Décembre-2019.xlsm is deleted
+[2025-03-02 17:26:51]Budget-Février-2020.xlsm is deleted
+[2025-03-02 17:26:51]Budget-Janvier-2020.xlsm is deleted
+[2025-03-02 17:26:51]Budget-Mars-2020-test.xlsm is deleted
+[2025-03-02 17:26:51]Budget-Mars-2020.xlsm is deleted
+[2025-03-02 17:26:51]Budget-Septembre-2019.xlsm is deleted
+[2025-03-02 17:26:51]Budget.ancien.xlsm is deleted
+[2025-03-02 17:26:51]Budget.xlsm is deleted
+[2025-03-02 17:26:51]bull-bitcoin-orders-Fri Apr 08 2022 17_05_35 GMT-0400 (heure d’été de l’Est).csv is deleted
+[2025-03-02 17:26:51]Carnet d'adresses.txt is deleted
+[2025-03-02 17:26:51]Chapitre1.xlsm is deleted
+[2025-03-02 17:26:51]compte opération.csv is deleted
+[2025-03-02 17:26:51]DatePicker.xlsm is deleted
+[2025-03-02 17:26:51]decrypt_test.txt is deleted
+[2025-03-02 17:26:51]dec_files.txt is deleted
+[2025-03-02 17:26:51]encrypt_test.txt is deleted
+[2025-03-02 17:26:51]enc_files.txt is deleted
+[2025-03-02 17:26:51]list_log.txt is deleted
+[2025-03-02 17:26:51]list_test.txt is deleted
+[2025-03-02 17:26:51]log.txt is deleted
+[2025-03-02 17:26:51]MyceliumExport_1509118104972.csv is deleted
+[2025-03-02 17:26:51]Nethris Internet Suite - Nethris Online Payroll Login Page.html is deleted
+[2025-03-02 17:26:51]Nouveau_Microsoft_kPublisher.pub is deleted
+[2025-03-02 17:26:51]Ouellet, Michel_FT_2020.xls is deleted
+[2025-03-02 17:26:51]pc-mc-2020-10-20.csv is deleted
+[2025-03-02 17:26:51]Planifications des dépenses.xlsm is deleted
+[2025-03-02 17:26:51]remove_test.txt is deleted
+[2025-03-02 17:26:51]report-pc-mastercard.csv is deleted
+[2025-03-02 17:26:51]statement (2).csv is deleted
+[2025-03-02 17:26:51]statement (2).xlsx is deleted
+[2025-03-02 17:26:51]statement-2020-05-12.csv is deleted
+[2025-03-02 17:26:51]statement.csv is deleted
+[2025-03-02 17:26:51]statement1.csv is deleted
+[2025-03-02 17:26:51]statement2.csv is deleted
+[2025-03-02 17:26:51]Tendances des dépenses passées.xlsm is deleted
+[2025-03-02 17:26:51]TEST.html is deleted
+[2025-03-02 17:26:51]TMDb.txt is deleted
+[2025-03-02 17:26:51]toto (2).txt is deleted
+[2025-03-02 17:26:51]toto.txt is deleted
+[2025-03-02 17:26:51]tryu.txt is deleted
+[2025-03-02 17:26:51]UdeM.txt is deleted
+[2025-03-02 17:26:51]UHTX-ERKFKS-FMFJF.txt is deleted
+[2025-03-02 17:26:51]uid is deleted
+[2025-03-02 17:26:51]user-358191-trades-1704.csv is deleted
+[2025-03-02 17:26:51]user-358191-trades-1705.csv is deleted
+[2025-03-02 17:26:51]user-358191-trades-1706.csv is deleted
+[2025-03-02 17:26:51]user-358191-trades-1707.csv is deleted
+[2025-03-02 17:26:51]user-358191-trades-1708.csv is deleted
+[2025-03-02 17:26:51]user-358191-trades-1709.csv is deleted
+[2025-03-02 17:26:51]UTC--2017-06-06T01-15-13.570480500Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is deleted
+[2025-03-02 17:26:51]UTC--2017-06-14T00-27-50.408Z--bdf88ba80451c30b2bb2d93d7dcf872771b18768 is deleted
+[2025-03-02 17:26:51]UTC--2017-06-19T14-35-43.258Z--73af203443e96780732b8c4c257f9ff8bf7824fa is deleted
+[2025-03-02 17:26:51]UTC--2017-06-24T01-13-14.193Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is deleted
+[2025-03-02 17:26:51]VISA DOLLARDS.csv is deleted
+[2025-03-02 17:26:51]Wallet.txt is deleted
+[2025-03-02 17:26:51]wallet1 - Copie.txt is deleted
+[2025-03-02 17:26:51]wallet1.txt is deleted
+[2025-03-02 17:26:51]xyz.zip is deleted
+[2025-03-02 17:26:51]État d compte 2016-12-28 à 2018-12-28.csv is deleted
+[2025-03-02 17:26:51]État de compte-Visa-2016-12-28 à 2018-12-28.csv is deleted
+[2025-03-02 17:26:51]Développement informatique is copied
+[2025-03-02 17:26:51]fichiers_tests is copied
+[2025-03-02 17:26:51]Finances is copied
+[2025-03-02 17:26:51]log is copied
+[2025-03-02 17:26:51]migrations is copied
+[2025-03-02 17:26:51][2025-03-02 17:26:51] sync: 1; update: 5; delete: 64;
+[2025-03-02 17:27:11]folder: ONLINE
+[2025-03-02 17:27:11]backup: ONLINE
+[2025-03-02 17:27:11]2.csv is deleted
+[2025-03-02 17:27:11]3.csv is deleted
+[2025-03-02 17:27:11]bitcoin.pdf is up to date
+[2025-03-02 17:27:11]Blocktrail.apikey.txt is deleted
+[2025-03-02 17:27:11]Budget nourriture canine et entraînement.xlsx is deleted
+[2025-03-02 17:27:11]Budget-Décembre-2019.xlsm is deleted
+[2025-03-02 17:27:11]Budget-Février-2020.xlsm is deleted
+[2025-03-02 17:27:11]Budget-Janvier-2020.xlsm is deleted
+[2025-03-02 17:27:11]Budget-Mars-2020-test.xlsm is deleted
+[2025-03-02 17:27:11]Budget-Mars-2020.xlsm is deleted
+[2025-03-02 17:27:11]Budget-Septembre-2019.xlsm is deleted
+[2025-03-02 17:27:11]Budget.ancien.xlsm is deleted
+[2025-03-02 17:27:11]Budget.xlsm is deleted
+[2025-03-02 17:27:11]bull-bitcoin-orders-Fri Apr 08 2022 17_05_35 GMT-0400 (heure d’été de l’Est).csv is deleted
+[2025-03-02 17:27:11]Carnet d'adresses.txt is deleted
+[2025-03-02 17:27:11]Chapitre1.xlsm is deleted
+[2025-03-02 17:27:11]compte opération.csv is deleted
+[2025-03-02 17:27:11]DatePicker.xlsm is deleted
+[2025-03-02 17:27:11]decrypt_test.txt is deleted
+[2025-03-02 17:27:11]dec_files.txt is deleted
+[2025-03-02 17:27:11]encrypt_test.txt is deleted
+[2025-03-02 17:27:11]enc_files.txt is deleted
+[2025-03-02 17:27:11]list_log.txt is deleted
+[2025-03-02 17:27:11]list_test.txt is deleted
+[2025-03-02 17:27:11]log.txt is deleted
+[2025-03-02 17:27:11]MyceliumExport_1509118104972.csv is deleted
+[2025-03-02 17:27:11]Nethris Internet Suite - Nethris Online Payroll Login Page.html is deleted
+[2025-03-02 17:27:11]Nouveau_Microsoft_kPublisher.pub is deleted
+[2025-03-02 17:27:11]Ouellet, Michel_FT_2020.xls is deleted
+[2025-03-02 17:27:11]pc-mc-2020-10-20.csv is deleted
+[2025-03-02 17:27:11]Planifications des dépenses.xlsm is deleted
+[2025-03-02 17:27:11]remove_test.txt is deleted
+[2025-03-02 17:27:11]report-pc-mastercard.csv is deleted
+[2025-03-02 17:27:11]statement (2).csv is deleted
+[2025-03-02 17:27:11]statement (2).xlsx is deleted
+[2025-03-02 17:27:11]statement-2020-05-12.csv is deleted
+[2025-03-02 17:27:11]statement.csv is deleted
+[2025-03-02 17:27:11]statement1.csv is deleted
+[2025-03-02 17:27:11]statement2.csv is deleted
+[2025-03-02 17:27:11]Tendances des dépenses passées.xlsm is deleted
+[2025-03-02 17:27:11]TEST.html is deleted
+[2025-03-02 17:27:11]TMDb.txt is deleted
+[2025-03-02 17:27:11]toto (2).txt is deleted
+[2025-03-02 17:27:11]toto.txt is deleted
+[2025-03-02 17:27:11]tryu.txt is deleted
+[2025-03-02 17:27:11]UdeM.txt is deleted
+[2025-03-02 17:27:11]UHTX-ERKFKS-FMFJF.txt is deleted
+[2025-03-02 17:27:11]uid is deleted
+[2025-03-02 17:27:11]user-358191-trades-1704.csv is deleted
+[2025-03-02 17:27:11]user-358191-trades-1705.csv is deleted
+[2025-03-02 17:27:11]user-358191-trades-1706.csv is deleted
+[2025-03-02 17:27:11]user-358191-trades-1707.csv is deleted
+[2025-03-02 17:27:11]user-358191-trades-1708.csv is deleted
+[2025-03-02 17:27:11]user-358191-trades-1709.csv is deleted
+[2025-03-02 17:27:11]UTC--2017-06-06T01-15-13.570480500Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is deleted
+[2025-03-02 17:27:11]UTC--2017-06-14T00-27-50.408Z--bdf88ba80451c30b2bb2d93d7dcf872771b18768 is deleted
+[2025-03-02 17:27:11]UTC--2017-06-19T14-35-43.258Z--73af203443e96780732b8c4c257f9ff8bf7824fa is deleted
+[2025-03-02 17:27:11]UTC--2017-06-24T01-13-14.193Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is deleted
+[2025-03-02 17:27:11]VISA DOLLARDS.csv is deleted
+[2025-03-02 17:27:11]Wallet.txt is deleted
+[2025-03-02 17:27:11]wallet1 - Copie.txt is deleted
+[2025-03-02 17:27:11]wallet1.txt is deleted
+[2025-03-02 17:27:11]xyz.zip is deleted
+[2025-03-02 17:27:11]État d compte 2016-12-28 à 2018-12-28.csv is deleted
+[2025-03-02 17:27:11]État de compte-Visa-2016-12-28 à 2018-12-28.csv is deleted
+[2025-03-02 17:27:11]Développement informatique is copied
+[2025-03-02 17:27:11]fichiers_tests is copied
+[2025-03-02 17:27:11]Finances is copied
+[2025-03-02 17:27:12]log is copied
+[2025-03-02 17:27:12]migrations is copied
+[2025-03-02 17:27:12][2025-03-02 17:27:12] sync: 1; update: 5; delete: 64;
+[2025-03-02 17:27:32]folder: ONLINE
+[2025-03-02 17:27:32]backup: ONLINE
+[2025-03-02 17:27:32]2.csv is deleted
+[2025-03-02 17:27:32]3.csv is deleted
+[2025-03-02 17:27:32]bitcoin.pdf is up to date
+[2025-03-02 17:27:32]Blocktrail.apikey.txt is deleted
+[2025-03-02 17:27:32]Budget nourriture canine et entraînement.xlsx is deleted
+[2025-03-02 17:27:32]Budget-Décembre-2019.xlsm is deleted
+[2025-03-02 17:27:32]Budget-Février-2020.xlsm is deleted
+[2025-03-02 17:27:32]Budget-Janvier-2020.xlsm is deleted
+[2025-03-02 17:27:32]Budget-Mars-2020-test.xlsm is deleted
+[2025-03-02 17:27:32]Budget-Mars-2020.xlsm is deleted
+[2025-03-02 17:27:32]Budget-Septembre-2019.xlsm is deleted
+[2025-03-02 17:27:32]Budget.ancien.xlsm is deleted
+[2025-03-02 17:27:32]Budget.xlsm is deleted
+[2025-03-02 17:27:32]bull-bitcoin-orders-Fri Apr 08 2022 17_05_35 GMT-0400 (heure d’été de l’Est).csv is deleted
+[2025-03-02 17:27:32]Carnet d'adresses.txt is deleted
+[2025-03-02 17:27:32]Chapitre1.xlsm is deleted
+[2025-03-02 17:27:32]compte opération.csv is deleted
+[2025-03-02 17:27:32]DatePicker.xlsm is deleted
+[2025-03-02 17:27:32]decrypt_test.txt is deleted
+[2025-03-02 17:27:32]dec_files.txt is deleted
+[2025-03-02 17:27:32]encrypt_test.txt is deleted
+[2025-03-02 17:27:32]enc_files.txt is deleted
+[2025-03-02 17:27:32]list_log.txt is deleted
+[2025-03-02 17:27:32]list_test.txt is deleted
+[2025-03-02 17:27:32]log.txt is deleted
+[2025-03-02 17:27:32]MyceliumExport_1509118104972.csv is deleted
+[2025-03-02 17:27:32]Nethris Internet Suite - Nethris Online Payroll Login Page.html is deleted
+[2025-03-02 17:27:32]Nouveau_Microsoft_kPublisher.pub is deleted
+[2025-03-02 17:27:32]Ouellet, Michel_FT_2020.xls is deleted
+[2025-03-02 17:27:32]pc-mc-2020-10-20.csv is deleted
+[2025-03-02 17:27:32]Planifications des dépenses.xlsm is deleted
+[2025-03-02 17:27:32]remove_test.txt is deleted
+[2025-03-02 17:27:32]report-pc-mastercard.csv is deleted
+[2025-03-02 17:27:32]statement (2).csv is deleted
+[2025-03-02 17:27:32]statement (2).xlsx is deleted
+[2025-03-02 17:27:32]statement-2020-05-12.csv is deleted
+[2025-03-02 17:27:32]statement.csv is deleted
+[2025-03-02 17:27:32]statement1.csv is deleted
+[2025-03-02 17:27:32]statement2.csv is deleted
+[2025-03-02 17:27:32]Tendances des dépenses passées.xlsm is deleted
+[2025-03-02 17:27:32]TEST.html is deleted
+[2025-03-02 17:27:32]TMDb.txt is deleted
+[2025-03-02 17:27:32]toto (2).txt is deleted
+[2025-03-02 17:27:32]toto.txt is deleted
+[2025-03-02 17:27:32]tryu.txt is deleted
+[2025-03-02 17:27:32]UdeM.txt is deleted
+[2025-03-02 17:27:32]UHTX-ERKFKS-FMFJF.txt is deleted
+[2025-03-02 17:27:32]uid is deleted
+[2025-03-02 17:27:32]user-358191-trades-1704.csv is deleted
+[2025-03-02 17:27:32]user-358191-trades-1705.csv is deleted
+[2025-03-02 17:27:32]user-358191-trades-1706.csv is deleted
+[2025-03-02 17:27:32]user-358191-trades-1707.csv is deleted
+[2025-03-02 17:27:32]user-358191-trades-1708.csv is deleted
+[2025-03-02 17:27:32]user-358191-trades-1709.csv is deleted
+[2025-03-02 17:27:32]UTC--2017-06-06T01-15-13.570480500Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is deleted
+[2025-03-02 17:27:32]UTC--2017-06-14T00-27-50.408Z--bdf88ba80451c30b2bb2d93d7dcf872771b18768 is deleted
+[2025-03-02 17:27:32]UTC--2017-06-19T14-35-43.258Z--73af203443e96780732b8c4c257f9ff8bf7824fa is deleted
+[2025-03-02 17:27:32]UTC--2017-06-24T01-13-14.193Z--9c7a6dc15ae6949ceb1a0de542fee929d8e700c1 is deleted
+[2025-03-02 17:27:32]VISA DOLLARDS.csv is deleted
+[2025-03-02 17:27:32]Wallet.txt is deleted
+[2025-03-02 17:27:32]wallet1 - Copie.txt is deleted
+[2025-03-02 17:27:32]wallet1.txt is deleted
+[2025-03-02 17:27:32]xyz.zip is deleted
+[2025-03-02 17:27:32]État d compte 2016-12-28 à 2018-12-28.csv is deleted
+[2025-03-02 17:27:32]État de compte-Visa-2016-12-28 à 2018-12-28.csv is deleted
+[2025-03-02 17:27:32]Développement informatique is copied
+[2025-03-02 17:27:32]fichiers_tests is copied
+[2025-03-02 17:27:32]Finances is copied
+[2025-03-02 17:27:32]log is copied
+[2025-03-02 17:27:32]migrations is copied
+[2025-03-02 17:27:32][2025-03-02 17:27:32] sync: 1; update: 5; delete: 64;
