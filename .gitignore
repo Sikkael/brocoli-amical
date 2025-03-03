@@ -2,7 +2,7 @@
 *.log
 log.txt
 src_pth.log
-
+dirs.py
 # ignore ALL files named temp* in ANY directory named temp
 temp/
 tempo/

@@ -77,13 +77,14 @@ if __name__ == "__main__":
     src_pths = ["C:\\Blockchain","C:\\C++", "C:\\CocosCreator",
                 "C:\\codelite-amd64-12.0.8", "C:\\codelite-amd64-12.0.9"
                 , "C:\\CodeLiteProjects", "C:\\data","C:\\cpp","C:\\cpp-ethereum"
-                , "C:\\backup"]
+                , "C:\\backup", "C:\\Java", "C:\\Local",
+                "C:\\MinGW", "C:\\EasyPHP-Devserver-17"]
 
     dst_pth = "F:\\sauvegarde-mike"
 
     for src in src_pths:
         log(src, "src_pth.log")
-        print(os.path.join(dst_pth, os.path.relpath(src, "C:\\")))
+
         check_directories(src, os.path.join(dst_pth, os.path.relpath(src, "C:\\")))
         sync_directories(src, os.path.join(dst_pth, os.path.relpath(src, "C:\\")))
 
