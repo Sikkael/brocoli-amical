@@ -3,17 +3,22 @@ import shutil
 import filecmp
 import argparse
 from tqdm import tqdm
+from functions import *
 
 # Function to check if the source and destination directories exist
 def check_directories(src_dir, dst_dir):
     # Check if the source directory exists
     if not os.path.exists(src_dir):
-        print(f"\nSource directory '{src_dir}' does not exist.")
+        mess = f"\nSource directory '{src_dir}' does not exist."
+        print(mess)
+        log(mess)
         return False
     # Create the destination directory if it does not exist
     if not os.path.exists(dst_dir):
         os.makedirs(dst_dir)
-        print(f"\nDestination directory '{dst_dir}' created.")
+        mess = f"\nDestination directory '{dst_dir}' created."
+        print(mess)
+        log(mess)
     return True
 
 # Function to synchronize files between two directories
@@ -21,7 +26,7 @@ def sync_directories(src_dir, dst_dir, delete=False):
     # Get a list of all files and directories in the source directory
     files_to_sync = []
     for root, dirs, files in os.walk(src_dir):
-        print(root, dirs, files)
+        log(f"root-> {root}, dirs-> {dirs}, files-> {files}")
         for directory in dirs:
             files_to_sync.append(os.path.join(root, directory))
         for file in files:
@@ -44,10 +49,16 @@ def sync_directories(src_dir, dst_dir, delete=False):
                 if not os.path.exists(replica_path) or not filecmp.cmp(source_path, replica_path, shallow=False):
                     # Set the description of the progress bar and print the file being copied
                     pbar.set_description(f"Processing '{source_path}'")
-                    print(f"\nCopying {source_path} to {replica_path}")
+                    mess = f"\nCopying {source_path} to {replica_path}"
+                    print(mess)
+                    log(mess)
 
-                    # Copy the file from the source directory to the replica directory
-                    shutil.copy2(source_path, replica_path)
+                    try:
+                       # Copy the file from the source directory to the replica directory
+                       shutil.copy2(source_path, replica_path)
+                    except (PermissionError, FileNotFoundError,UnicodeEncodeError) as e:
+                        mess = f"{e.strerror} Error copying {source_path} to {replica_path}"
+                        log(mess, fn="error_log.log")
 
             # Update the progress bar
             pbar.update(1)
@@ -66,9 +77,9 @@ def clean_backup(src_dir, dst_dir):
     pass
 
 if __name__ == "__main__":
-    src_pth = "C:\\Users\\admin\\OneDrive"
+    src_pth = "C:\\Users"
 
-    dst_pth = "C:\\Users\\admin\\OneDrive\\Bureau\\backup\\OneDrive"
+    dst_pth = "F:\\sauvegarde-mike"
     check_directories(src_pth,dst_pth)
     sync_directories(src_pth, dst_pth)
 

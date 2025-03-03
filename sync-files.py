@@ -1,176 +1,90 @@
-
 import os
-import hashlib
-import time
+import shutil
+import filecmp
+import argparse
+from tqdm import tqdm
+from functions import *
 
-LOG = 'log.txt'
-# sleep time
-sltm:int = 10
-
-# function area
-# -------------------------------------------------------------
-
-# log function
-def log(message):
-    # write log
-    _now = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
-    with open(LOG, 'a') as logfs:
-        logfs.write('['+_now+']'+message+'\n')
-
-
-
-def compare2file(file1, file2):
-    # compare 2 files with hash
-    #Todo: PermissionError handling
-    with open(file1, 'rb') as f1:
-        with open(file2, 'rb') as f2:
-            if hashlib.md5(f1.read()).hexdigest() == hashlib.md5(f2.read()).hexdigest():
-                return True
-            else:
-                return False
-
-def compareHashFolder(folder, backup):
-    # compare hash folder
-    # return True if all file is same
-    # return False if any file is different
-     # get all file in folder
-    files = os.listdir(folder)
-    # get all file in backup
-    files_backup = os.listdir(backup)
-    # compare 2 list
-    if len(files) != len(files_backup):
+# Function to check if the source and destination directories exist
+def check_directories(src_dir, dst_dir):
+    # Check if the source directory exists
+    if not os.path.exists(src_dir):
+        mess = f"\nSource directory '{src_dir}' does not exist."
+        print(mess)
+        log(mess)
         return False
-
-    for file in files:
-        if file in files_backup:
-            if not compare2file(folder+'\\'+file, backup+'\\'+file):
-                return False
-        else:
-            return False
+    # Create the destination directory if it does not exist
+    if not os.path.exists(dst_dir):
+        os.makedirs(dst_dir)
+        mess = f"\nDestination directory '{dst_dir}' created."
+        print(mess)
+        log(mess)
     return True
 
-#------------------------------------------------------------------
-log('Start')
+# Function to synchronize files between two directories
+def sync_directories(src_dir, dst_dir, delete=False):
+    # Get a list of all files and directories in the source directory
+    files_to_sync = []
+    for root, dirs, files in os.walk(src_dir):
+        log(f"root-> {root}, dirs-> {dirs}, files-> {files}")
+        for directory in dirs:
+            files_to_sync.append(os.path.join(root, directory))
+        for file in files:
+            files_to_sync.append(os.path.join(root, file))
 
-if os.path.isfile('config.txt'):
-      os.remove('config.txt')
+    # Iterate over each file in the source directory with a progress bar
+    with tqdm(total=len(files_to_sync), desc="Syncing files", unit="file") as pbar:
+        # Iterate over each file in the source directory
+        for source_path in files_to_sync:
+            # Get the corresponding path in the replica directory
+            replica_path = os.path.join(dst_dir, os.path.relpath(source_path, src_dir))
 
-if os.path.isfile('config.txt'):
-    print("config file: OK")
-    log ('config file: OK')
-    # get variable from config
-    with open('config.txt', 'r') as f:
-        lines = f.readlines()
-        folder = lines[0].split(':')[1].strip()
-        backup = lines[1].split(':')[1].strip()
-
-else:
-    log('config file: NOT FOUND')
-    print("config file: NOT FOUND")
-    # register folder
-    folder = input('put your path in the computer:')
-    backup = input('put your flash disk path:')
-    default_folder = "C:\\Users\\admin\\OneDrive\\Public"
-    default_backup = "C:\\Users\\admin\\OneDrive\\Bureau\\backup"
-    # check if folder exist
-    if not os.path.isdir(folder):
-        log('folder: NOT FOUND')
-        print(f'folder is not exist -> {folder}')
-        print(f"os.path.isdir(folder)  --> {os.path.isdir(folder)}")
-        folder = default_folder
-        assert os.path.isdir(default_folder)
-    # check if backup exist
-    if not os.path.isdir(backup):
-        log('backup: NOT FOUND')
-        print('backup is not exist')
-        backup = default_backup
-        assert os.path.isdir(default_backup)
-    # write config
-    with open('config.txt', 'w') as f:
-        f.write('folder:'+folder)
-        f.write('\n')
-        f.write('backup:'+backup)
-    print('config file: CREATED')
-    log('config file: CREATED')
-
-# run loop every 5 minutes
-
-while True:
-    # check if folder is same with backup
-    if compareHashFolder(folder, backup):
-        now = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
-        print(f'[{now}] file is up to date')
-        log('file is up to date')
-        # sleep time
-        time.sleep(sltm)
-        continue
-
-    # check folder
-    if os.path.isdir(folder):
-        print('folder: ONLINE')
-        log('folder: ONLINE')
-    else:
-        print('folder is not exist')
-        log('folder is not exist')
-        print('please check your config file')
-        break
-
-    # check backup
-    if os.path.isdir(backup):
-        print('backup: ONLINE')
-        log('backup: ONLINE')
-    else:
-        print('backup is not exist')
-        log('backup is not exist')
-        print('please check your config file')
-        break
-
-    # check file hash in folder and compare with backup
-    countSync = 0
-    updateFile = 0
-    deleteFile = 0
-
-    # get all file in folder
-    files = os.listdir(folder)
-    # get all file in backup
-    files_backup = os.listdir(backup)
-    # compare 2 list
-    for file in files_backup:
-        if file in files:
-            if compare2file(folder+'\\'+file, backup+'\\'+file):
-                log(f'{file} is up to date')
-                countSync += 1
+            # Check if path is a directory and create it in the replica directory if it does not exist
+            if os.path.isdir(source_path):
+                if not os.path.exists(replica_path):
+                    os.makedirs(replica_path)
+            # Copy all files from the source directory to the replica directory
             else:
-                # copy file from folder to back up
-                updateFile += 1
-                os.remove(backup+'\\'+file)
-                os.system(f"copy  {os.path.join(folder,file)} {backup}")
-                log(f'{file} is updated')
-        if file not in files:
-            # delete file in backup
-            log(f'{file} is deleted')
-            deleteFile += 1
-            os.remove(backup+'\\'+file)
+                # Check if the file exists in the replica directory and if it is different from the source file
+                if not os.path.exists(replica_path) or not filecmp.cmp(source_path, replica_path, shallow=False):
+                    # Set the description of the progress bar and print the file being copied
+                    pbar.set_description(f"Processing '{source_path}'")
+                    mess = f"\nCopying {source_path} to {replica_path}"
+                    print(mess)
+                    log(mess)
 
-    for file in files:
-        if file not in files_backup:
-            # copy file from folder to back up
-            updateFile += 1
+                    try:
+                       # Copy the file from the source directory to the replica directory
+                       shutil.copy2(source_path, replica_path)
+                    except (PermissionError, FileNotFoundError,UnicodeEncodeError) as e:
+                        mess = f"{e.strerror} Error copying {source_path} to {replica_path}"
+                        log(mess, fn="error_log.log")
 
-            if os.name == 'nt':
-                print(f"copy  '{os.path.join(folder,file) }' '{backup}'")
-                os.system(f"copy  {os.path.join(folder,file)} {backup}")
-            else:
-                os.system('cp + folder + \\' + file + ' ' + backup)
+            # Update the progress bar
+            pbar.update(1)
+# Listing directories, subdirectories and files
+def list_directories(_dir):
+    files_to_copy = []
+    for root, dirs, files in os.walk(_dir):
+        for directory in dirs:
+            files_to_copy.append(os.path.join(root, directory))
+        for file in files:
+            files_to_copy.append(os.path.join(root, file))
+    return files_to_copy
 
-            log(f'{file} is copied')
 
+def clean_backup(src_dir, dst_dir):
+    pass
 
+if __name__ == "__main__":
+    src_pth = "C:\\"
 
-    now = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
-    mess = f'[{now}] sync: {countSync}; update: {updateFile}; delete: {deleteFile};'
-    print(mess)
-    log(mess)
+    dst_pth = "F:\\sauvegarde-mike"
+    check_directories(src_pth,dst_pth)
+    sync_directories(src_pth, dst_pth)
 
-    # sleep time
-    time.sleep(20)
+#dr_lst = list_directories("C:\\Users")
+
+#for dr in dr_lst:
+#    print(dr)
+
