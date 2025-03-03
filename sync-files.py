@@ -13,9 +13,9 @@ sltm:int = 10
 # log function
 def log(message):
     # write log
-    now = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
-    with open(LOG, 'a') as f:
-        f.write('['+now+']'+message+'\n')
+    _now = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
+    with open(LOG, 'a') as logfs:
+        logfs.write('['+now+']'+message+'\n')
 
 
 

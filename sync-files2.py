@@ -21,6 +21,7 @@ def sync_directories(src_dir, dst_dir, delete=False):
     # Get a list of all files and directories in the source directory
     files_to_sync = []
     for root, dirs, files in os.walk(src_dir):
+        print(root, dirs, files)
         for directory in dirs:
             files_to_sync.append(os.path.join(root, directory))
         for file in files:
@@ -65,14 +66,14 @@ def clean_backup(src_dir, dst_dir):
     pass
 
 if __name__ == "__main__":
-    src_pth = "C:\\Users\\admin\\OneDrive\\Finances"
+    src_pth = "C:\\Users\\admin\\OneDrive"
 
-    dst_pth = "C:\\Users\\admin\\OneDrive\\Bureau\\backup"
+    dst_pth = "C:\\Users\\admin\\OneDrive\\Bureau\\backup\\OneDrive"
     check_directories(src_pth,dst_pth)
     sync_directories(src_pth, dst_pth)
 
-dr_lst = list_directories("C:\\Users")
+#dr_lst = list_directories("C:\\Users")
 
-for dr in dr_lst:
-    print(dr)
+#for dr in dr_lst:
+#    print(dr)
 
