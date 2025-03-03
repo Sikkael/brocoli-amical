@@ -1,7 +1,7 @@
 # ignore ALL .log files
 *.log
 log.txt
-
+src_pth.log
 
 # ignore ALL files named temp* in ANY directory named temp
 temp/
