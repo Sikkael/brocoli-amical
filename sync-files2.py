@@ -50,7 +50,7 @@ def sync_directories(src_dir, dst_dir, delete=False):
 
             # Update the progress bar
             pbar.update(1)
-
+# Listing directories, subdirectories and files
 def list_directories(_dir):
     files_to_copy = []
     for root, dirs, files in os.walk(_dir):
@@ -60,17 +60,19 @@ def list_directories(_dir):
             files_to_copy.append(os.path.join(root, file))
     return files_to_copy
 
-print(list_directories("C:\\Users\\admin\\OneDrive\\Public"))
 
-flist = list_directories("C:\\Users\\admin\\OneDrive\\Public")
+def clean_backup(src_dir, dst_dir):
+    pass
 
-for f in flist:
-    if os.path.isfile(f):
-        print(f)
+if __name__ == "__main__":
+    src_pth = "C:\\Users\\admin\\OneDrive\\Finances"
 
-src_pth ="C:\\Users\\admin\\OneDrive\\Public"
+    dst_pth = "C:\\Users\\admin\\OneDrive\\Bureau\\backup"
+    check_directories(src_pth,dst_pth)
+    sync_directories(src_pth, dst_pth)
 
-dst_pth =  "C:\\Users\\admin\\OneDrive\\Bureau\\backup"
+dr_lst = list_directories("C:\\Users")
 
-sync_directories(src_pth,dst_pth)
+for dr in dr_lst:
+    print(dr)
 
