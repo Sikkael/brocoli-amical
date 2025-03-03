@@ -15,7 +15,7 @@ def log(message):
     # write log
     _now = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
     with open(LOG, 'a') as logfs:
-        logfs.write('['+now+']'+message+'\n')
+        logfs.write('['+_now+']'+message+'\n')
 
 
 
