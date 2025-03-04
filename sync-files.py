@@ -4,6 +4,7 @@ import filecmp
 import argparse
 from tqdm import tqdm
 from functions import *
+from dirs import *
 
 # Function to check if the source and destination directories exist
 def check_directories(src_dir, dst_dir):
@@ -74,19 +75,13 @@ def clean_backup(src_dir, dst_dir):
     pass
 
 if __name__ == "__main__":
-    src_pths = ["C:\\Blockchain","C:\\C++", "C:\\CocosCreator",
-                "C:\\codelite-amd64-12.0.8", "C:\\codelite-amd64-12.0.9"
-                , "C:\\CodeLiteProjects", "C:\\data","C:\\cpp","C:\\cpp-ethereum"
-                , "C:\\backup", "C:\\Java", "C:\\Local",
-                "C:\\MinGW", "C:\\EasyPHP-Devserver-17"]
 
-    dst_pth = "F:\\sauvegarde-mike"
 
     for src in src_pths:
         log(src, "src_pth.log")
 
-        check_directories(src, os.path.join(dst_pth, os.path.relpath(src, "C:\\")))
-        sync_directories(src, os.path.join(dst_pth, os.path.relpath(src, "C:\\")))
+        check_directories(src, os.path.join(dst_pth, os.path.relpath(src, drive)))
+        sync_directories(src, os.path.join(dst_pth, os.path.relpath(src, drive)))
 
 #dr_lst = list_directories("C:\\Users")
 
